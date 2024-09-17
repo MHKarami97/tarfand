@@ -1,0 +1,69 @@
+---
+id: 880
+title: 'خواندن فایل های ISO با نرم افزار Visual CloneDrive'
+date: '2017-05-02T15:20:17+04:30'
+author:
+    - 'Mohammad Hossein'
+layout: post
+guid: 'https://itarfand.com/?p=880/'
+permalink: /open-iso-file-with-virtual-clonedrive/
+rating:
+    - '3.5'
+summary:
+    - 'خواندن فایل های ISO با نرم افزار Visual CloneDrive'
+image: /files/2017/05/itarfand-179.jpg
+categories:
+    - 'ترفند نرم افزار'
+tags:
+    - CloneDrive
+    - 'CloneDrive دانلود مستقیم کلون درایو دانلود'
+    - 'CloneDrive دانلود نرم افزار'
+    - 'drive mounter'
+    - ISO
+    - mount
+    - 'mount image'
+    - mounter
+    - 'virtual clonedrive 64 bit دانلود نرم افزار'
+    - 'virtual clonedrive برای ویندوز 7'
+    - 'virtual clonedrive دانلود نرم افزار'
+    - 'virtual drive'
+    - ایزو
+    - 'دانلود نرم افزار ساخت درایو مجازی'
+    - 'دانلود نرم افزار کلون درایو'
+    - 'دانلود نسخه جدید CloneDrive'
+    - 'دانلود ویرچوال کلون درایو'
+    - 'دانلود ویژوال کلون درایو'
+    - 'درایو مانتر'
+    - 'درایو مجازی'
+    - 'ساخت درایو مجازی'
+    - 'کلون درایو نرم افزار'
+    - مانت
+    - 'مانت ایمیج'
+    - مانتر
+    - ماونتر
+    - مونتر
+    - 'نرم افزار'
+    - 'نرم افزار درایو مجازی'
+    - 'نرم افزار ساخت درایو مجازی'
+    - 'ویرچوال دراو'
+---
+
+به احتمال زیاد برای شما هم پیش آمده است که یک نرم افزار و یا بازی را از اینترنت دانلود کنید و با یک فایل با فرمت *iso*. مواجه شوید. در این پست از آی ترفند آموزش باز کردن این فایل ها را توسط نرم افزار *visual CloneDrive* که در واقع یک شبیه ساز *DVD &amp; CD* رایتر می باشد را برای شما آماده کرده ایم.
+
+<span style="color: #0000ff;">**فرمت ISO چیست؟**</span>
+
+این فرمت در واقع فایل *Image* گرفته شده از یک *DVD &amp; CD* می باشند که برای جلوگیری از رایت آن بر روی دیسک و همچنین فشرده تر کردن آن بوجود آمده است.
+
+<span style="color: #0000ff;">**نرم افزار Visual CloneDrive**</span>
+
+این نرم افزار از فرمت های *iso* و *bin* پشتیبانی می کند و با نصب آن یک درایو مجازی بر روی رایانه شما ایجاد می شود.
+
+![mhkarami97](/files/2017/05/itarfand-177.jpg)
+
+این نرم افزار دارای تنظیماتی ساده می باشد که در آن می توانید تعداد درایو های مجازی که ساخته می شود را تعیین کنید.
+
+![mhkarami97](/files/2017/05/itarfand-178.jpg)
+
+لینک دانلود :
+
+[<span style="color: #008000;">Visual Clone Drive</span>](https://soft98.ir/software/Cd-dvd-tools/344-Virtual-CloneDrive.html)

@@ -1,0 +1,53 @@
+---
+id: 1753
+title: 'فعال سازی حالت روح در تلگرام'
+date: '2018-02-08T20:52:41+03:30'
+author: 'I AM IRANIAN'
+layout: post
+guid: 'https://itarfand.com/?p=1753'
+permalink: /activate-the-hidden-spirit-mode-in-the-telegram/
+onesignal_meta_box_present:
+    - ''
+onesignal_send_notification:
+    - ''
+rating:
+    - '-'
+image: /files/2018/02/itarfand-653.jpg
+categories:
+    - 'ترفند موبایل'
+tags:
+    - 'activeدانلود روح تلگرام'
+    - 'last seen recently'
+    - telegram
+    - 'ترفند موبایل'
+    - تلگرام
+    - 'تلگرام جدید'
+    - 'تنظیمات حالت روح موبوگرام'
+    - 'چگونه حالت روح موبوگرام را فعال کنیم'
+    - 'حالت روح تلگرام ایکس'
+    - 'حالت روح در تلگرام پلاس'
+    - 'حالت روح در موبوگرام جدید'
+    - 'حذف حالت روح در تلگرام'
+    - 'حذف حالت روح موبوگرام'
+    - 'فهمیدن حالت روح تلگرام'
+---
+
+یکی از نسخه های دیگر تلگرام ، *Telegram X* می باشد که از ویژگی های مفید آن حالت روح می باشد که خیلی از افراد از آن اطلاع ندارند. با فعال سازی این حالت معرفی شده در آی ترفند شما می توانید پیغام های فرد مقابل را بدون مطلع شدن او مشاهده کنید.
+
+<span style="color: #0000ff;">**پیش نیاز**</span>
+
+ابتدا از [(این لینک)](https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=en) تلگرام ایکس را دانلود و در موبایل خود نصب کنید.
+
+<span style="color: #0000ff;">**فعال سازی حالت Post Previews**</span>
+
+ابتدا به قسمت *Setting* بروید و سپس گزینه *Theme And Mods* را انتخاب کنید.
+
+![mhkarami97](/files/2018/02/itarfand-650-min.jpg)
+
+اکنون گزینه *Chat Previews* را فعال کنید.
+
+![mhkarami97](/files/2018/02/itarfand-651-min.jpg)
+
+با فعال کردن این گزینه ، با نگه داشتن انگشت خود بر روی فرد مورد نظر می توانید پیش نمایشی از پیغام های او را بدون تیک خوردن مشاهده کنید.
+
+![mhkarami97](/files/2018/02/itarfand-652-min.jpg)

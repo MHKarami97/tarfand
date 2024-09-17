@@ -1,0 +1,54 @@
+---
+id: 1743
+title: 'دانلود و ذخیره Stroy های شبکه اجتماعی اینستاگرام'
+date: '2018-02-04T19:21:30+03:30'
+author: 'I AM IRANIAN'
+layout: post
+guid: 'https://itarfand.com/?p=1743'
+permalink: /download-and-save-story-of-instagram/
+onesignal_meta_box_present:
+    - '1'
+onesignal_send_notification:
+    - ''
+rating:
+    - '-'
+image: /files/2018/02/itarfand-642.jpg
+categories:
+    - 'ترفند مرورگر'
+tags:
+    - 'برنامه دانلود استوری اینستاگرام ios'
+    - 'ترفند مرورگر'
+    - 'ترفند موبایل'
+    - 'دانلود story saver'
+    - 'دانلود استوری اینستاگرام اندروید'
+    - 'دانلود استوری سیو'
+    - 'دانلود استوری لایو اینستاگرام'
+    - 'دانلود برنامه story save'
+    - 'دانلود برنامه story saver'
+    - 'دانلود عکس استوری اینستاگرام'
+    - 'معرفی سایت'
+---
+
+یکی از شبکه های اجتماعی معروف که برای اشتراک گذاری عکس می باشد ، *Instagram* می باشد. یکی از ویژگی های این شبکه اجتماعی Story می باشد که هر فرد برای مدت ۲۴ ساعت می تواند آن را نمایش دهد. در این پست از آی ترفند روشی را به شما آموزش می دهیم که می توانید استوری فرد مقابل را بدون فهمیدن او ذخیره کنید.
+
+<span style="color: #0000ff;">**ذخیره توسط مرورگر گوگل کروم در رایانه**</span>
+
+ابتدا در رایانه خود به [(این لینک)](https://chrome.google.com/webstore/detail/chrome-ig-story/bojgejgifofondahckoaahkilneffhmf?hl=en-US) بروید و *Chrome IG Story* را نصب کنید.
+
+![mhkarami97](/files/2018/02/itarfand-640.jpg)
+
+بعد از این کار وارد اکانت اینستاگرام خود شوید. همان طور که مشاهده می کنید مانند عکس زیر آیکون افزونه به مرورگر شما اضافه شده است و توسط آن می توانید استوری مورد نظر را دانلود کنید.
+
+![mhkarami97](/files/2018/02/itarfand-640-1.jpg)
+
+<span style="color: #0000ff;">**ذخیره آنلاین توسط سایت**</span>
+
+یکی دیگر از روش های ذخیره ، استفاده از سرویس های آنلاین می باشد.
+
+برای این کار می توانید از سایت [instagram story download](https://storiesig.com/) استفاده کنید.
+
+![mhkarami97](/files/2018/02/itarfand-641.jpg)
+
+<span style="color: #0000ff;">**ذخیره استوری توسط اپلیکیشن**</span>
+
+برنامه های زیادی برای موبایل موجود می باشد که توسط آن ها می توانید استوری اینستاگرام را دانلود کنید که یکی از معروف ترین آن ها [Story Saver for Instagram](https://play.google.com/store/apps/details?id=io.yoba.storysaverforinsta&hl=en) می باشد.

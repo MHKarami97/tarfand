@@ -1,0 +1,48 @@
+---
+id: 2655
+title: 'تبدیل فایل PowerPoint به Word'
+date: '2021-07-06T10:28:07+04:30'
+author: 'Mohammad Hossein'
+layout: post
+guid: 'https://itarfand.com/?p=2655'
+permalink: /convert-powerpoint-to-word/
+
+image: /files/2021/07/itarfand-1005-min.jpg
+categories:
+    - 'ترفند نرم افزار'
+tags:
+    - 'برنامه تبدیل پاورپوینت به پی دی اف'
+    - 'تبدیل پاورپوینت به پی دی اف'
+    - 'تبدیل پاورپوینت به پی دی اف انلاین'
+    - 'تبدیل پاورپوینت به پی دی اف با گوشی'
+    - 'تبدیل پاورپوینت به ورد در گوشی'
+    - 'تبدیل فایل pptx به پاورپوینت'
+    - 'تبدیل ورد به پاورپوینت'
+    - 'نرم افزار تبدیل ورد به پاورپوینت 2013'
+---
+
+گاهی مواقع نیاز دارید تا فایل پاورپوینت ساخته شده را به فایل قابل ویرایش ورد تبدیل کنید. در این پست از آی ترفند روشی را به شما آموزش میدهیم که بدون نیاز به نرم افزار خاصی، این کار را انجام دهید.
+
+ابتدا به سربرگ File بروید و سپس از سمت چپ گزینه Export را انتخاب نمایید.
+
+![mhkarami97](/files/2021/07/itarfand-1000-min.jpg)
+سپس در صفحه باز شده گزینه Create Handouts را انتخاب کنید.
+
+![mhkarami97](/files/2021/07/itarfand-1001-min.jpg)
+اکنون گزینه Outline Only را انتخاب و سپس بر روی Ok کلیک کنید.
+
+![mhkarami97](/files/2021/07/itarfand-1002-min.jpg)
+با انجام این کار فایل شما به فایل Word تبدیل میشود.
+
+**<span class="has-inline-color has-vivid-cyan-blue-color">استفاده از RTF</span>**
+
+شبیه قسمت بالا به سربرگ File بروید ولی اینبار بر روی Save As کلیک کنید.
+
+سپس در صفحه باز شده نوع فایل را بر روی rtf قرار دهید.
+
+![mhkarami97](/files/2021/07/itarfand-1003-min.jpg)
+**<span class="has-inline-color has-vivid-cyan-blue-color">استفاده از سایت</span>**
+
+ابتدا به [(این سایت)](https://www.freeconvert.com/pptx-to-word) بروید و سپس فایل پاورپوینت خود را وارد کنید تا عملیات تبدیل انجام شود.
+
+![mhkarami97](/files/2021/07/itarfand-1004-min.jpg)

@@ -1,0 +1,66 @@
+---
+id: 1801
+title: 'آموزش نصب SQL Server بر روی ویندوز'
+date: '2018-03-04T06:44:35+03:30'
+author: 'I AM IRANIAN'
+layout: post
+guid: 'https://itarfand.com/?p=1801'
+permalink: /how-install-sql-server-in-windows-10/
+onesignal_meta_box_present:
+    - ''
+onesignal_send_notification:
+    - ''
+rating:
+    - '-'
+image: /files/2018/03/itarfand-675-min.jpg
+categories:
+    - 'ترفند نرم افزار'
+---
+
+نرم افزار *SQL Server* یکی از نرم افزارهای معروف برای مدیریت بانک اطلاعاتی می باشد که توسط شرکت ماکروسافت توسعه داده می شود. در این پست از آی ترفند آموزش نصب ورژن *۲۰۱۷* این نرم افزار را بر روی *windows 10* برای شما آماده کرده ایم.
+
+<span style="color: #0000ff;">**دانلود نرم افزار**</span>
+
+ابتدا از ([این لینک](https://soft98.ir/software/programming/3594-Microsoft-SQL-Server.html)) نسخه *۲۰۱۷* و *Standard* آن را دانلود کنید و سپس آن را اجرا کنید.
+
+<span style="color: #0000ff;">**نصب نرم افزار**</span>
+
+بعد از اجرا نرم افزار با صفحه زیر روبرو می شوید که باید از قسمت *Installation* گزینه *New SQL* را انتخاب کنید.
+
+![mhkarami97](/files/2018/03/itarfand-664-min.jpg)
+
+اگر در صفحه زیر *Warning* مشاهده کردید مشکلی برای شما پیش نمی آید اما اگر *Error* مشاهده کردید باید آن را برطرف کنید.
+
+![mhkarami97](/files/2018/03/itarfand-666-min.jpg)
+
+سپس در صفحه بعد کد فعال سازی موجود در پوشه دانلود شده را وارد کنید.
+
+![mhkarami97](/files/2018/03/itarfand-667-min.jpg)
+
+بر روی *Accept* کلیک کنید.
+
+![mhkarami97](/files/2018/03/itarfand-668-min.jpg)
+
+در این صفحه باید ویژگی هایی که می خواهید را به جز سه گزینه انتخاب نشده در عکس را انتخاب کنید.
+
+![mhkarami97](/files/2018/03/itarfand-669-min.jpg)
+
+در صفحه بعد بر روی *Default* کلیک کنید تا از نام پیش فرض استفاده شود.
+
+![mhkarami97](/files/2018/03/itarfand-670-min.jpg)
+
+صفحه بعد برای مدیریت اکانت های مختلف و ویژگی های مختلف sql server می باشد که نیازی به تغییر آن ها نیست.
+
+![mhkarami97](/files/2018/03/itarfand-671-min.jpg)
+
+در این صفحه باید یک کاربر را تعیین کنید. می توانید با کلیک بر روی گزینه مشخص شده و سپس کلیک بر روی *Add Current User* اکانتی که با آن وارد ویندوز شده اید را اضافه کنید و همچنین برای آن رمز عبور قرار دهید.
+
+![mhkarami97](/files/2018/03/itarfand-672-min.jpg)
+
+در این صفحه نیز بر روی گزینه مشخص شده کلیک کنید.
+
+![mhkarami97](/files/2018/03/itarfand-673-min.jpg)
+
+اکنون بر روی *Install* کلیک کنید تا نصب شروع شود.
+
+![mhkarami97](/files/2018/03/itarfand-674-min.jpg)

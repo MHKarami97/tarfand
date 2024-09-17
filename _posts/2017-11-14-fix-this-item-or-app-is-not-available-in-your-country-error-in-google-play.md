@@ -1,0 +1,72 @@
+---
+id: 1621
+title: 'دانلود اپلیکیشن های غیر قابل دسترس در ایران از Google Play'
+date: '2017-11-14T08:19:12+03:30'
+author:
+    - 'Mohammad Hossein'
+layout: post
+guid: 'https://itarfand.com/?p=1621'
+permalink: /fix-this-item-or-app-is-not-available-in-your-country-error-in-google-play/
+onesignal_meta_box_present:
+    - ''
+onesignal_send_notification:
+    - ''
+rating:
+    - '5.0'
+summary:
+    - 'دانلود اپلیکیشن های غیر قابل دسترس در ایران از Google Play'
+image: /files/2017/11/itarfand-611-min.jpg
+categories:
+    - 'ترفند موبایل'
+tags:
+    - 'this app is not available in your country'
+    - 'this item isn’t available in your country'
+    - تحریم
+    - 'ترفند اندروید'
+    - 'تغییر کشور در گوگل پلی'
+    - 'حذف پیام "این آیتم در کشور شما در دسترس نیست" از گوگل پلی'
+    - 'حذف پیغام اندروید'
+    - 'حذف تحریم'
+    - 'حذف تحریم گوگل پلی'
+    - 'دانلود از گوگل پلی'
+    - 'دانلود بدون محدودیت از گوگل پلی'
+    - 'دانلود گوگل پلی بدون تحریم'
+    - 'دانلود لینک مستقیم'
+    - 'دانلود مستقیم از گوگل پلی'
+    - 'دانلود نرم افزار عبور از محدودیت گوگل پلی'
+    - 'دور زدن تحریم'
+    - 'دور زدن تحریم گوگل'
+    - 'ربات تلگرام'
+    - 'رفع ارور اندروید'
+    - 'رفع تحریم ایران'
+    - 'رفع تحریم گوگل پلی'
+    - 'رفع خطا اندروید'
+    - 'گوگل پلی'
+    - 'گوگل پلی استور'
+    - 'گوگل پلی اندروید'
+---
+
+یکی از مشکلاتی که در گوگل استور وجود دارد ، تحریم بودن بعضی نرم افزارها مانند اینستاگرام برای ایران می باشد که در این مواقع پیغام *This item is not available in your country* نمایش داده می شود. در این پست از آی ترفند روش دور زدن این پیغام و دانلود اپلیکیشن مورد نظر را برای شما آماده کرده ایم.
+
+ابتدا به قسمت *Setting* بروید و سپس از سربرگ *general* قسمت *App* نرم افزار *Google Play Store* را انتخاب کنید.
+
+![mhkarami97](/files/2017/11/itarfand-608-min.jpg)
+
+سپس بر روی *Force Stop* و سپس *Storage* کلیک کنید و در صفحه باز شده بر روی *Clear Data و Clear Cache* کلیک کنید.
+
+![mhkarami97](/files/2017/11/itarfand-607-min.jpg)
+
+اکنون یک *VPN* مانند [*Psiphon* ](https://play.google.com/store/apps/details?id=com.psiphon3&hl=en)را دانلود و نصب کنید و پس از اجرا کردن آن نرم افزار گوگل پلی را اجرا کنید و بر روی *Accept* کلیک کنید.
+
+![mhkarami97](/files/2017/11/itarfand-609-min.jpg)
+
+اکنون بدون محدودیت می توانید اپلیکیشن مورد نظر خود را دانلود کنید. همچنین از ظاهر زیباتر گوگل پلی لذت ببرید.
+
+![mhkarami97](/files/2017/11/itarfand-610-min.jpg)
+
+در صورت حل نشدن مشکل روش های زیر را نیز امتحان کنید.
+
+- <span style="color: #008000;">تغییر زبان موبایل به انگلیسی</span>
+- <span style="color: #008000;">خاموش کردن GPS</span>
+- <span style="color: #008000;">رفتن به حالت هواپیما</span>
+- <span style="color: #008000;">تغییر کشور از پروفایل گوگل پلاس</span>
