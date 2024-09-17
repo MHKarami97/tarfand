@@ -1,6 +1,6 @@
 ---
 title: 'تبدیل Pdf فارسی به فایل Word قابل ویرایش'
-img: /files/2017/04/itarfand-159.jpg
+cover_image: /files/2017/04/itarfand-159.jpg
 categories:
     - 'ترفند اینترنت'
 tags:

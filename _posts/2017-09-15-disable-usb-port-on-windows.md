@@ -1,6 +1,6 @@
 ---
 title: 'غیر فعال کردن پورت usb در رایانه های ویندوزی'
-img: /files/2017/09/itarfand-497-min.jpg
+cover_image: /files/2017/09/itarfand-497-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

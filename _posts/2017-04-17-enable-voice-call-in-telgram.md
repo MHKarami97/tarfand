@@ -1,6 +1,6 @@
 ---
 title: 'فعال سازی تماس صوتی در تلگرام'
-img: /files/2017/04/itarfand-255.jpg
+cover_image: /files/2017/04/itarfand-255.jpg
 categories:
     - 'ترفند موبایل'
 tags:

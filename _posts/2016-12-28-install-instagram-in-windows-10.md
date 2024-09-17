@@ -1,6 +1,6 @@
 ---
 title: 'نصب Instagram بر روی ویندوز ۱۰'
-img: /files/2016/12/itarfand-114.jpg
+cover_image: /files/2016/12/itarfand-114.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

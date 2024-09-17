@@ -1,6 +1,6 @@
 ---
 title: 'آموزش Full Screen کردن اپ های ویندوز ۱۰'
-img: /files/2020/03/itarfand-849-min.jpg
+cover_image: /files/2020/03/itarfand-849-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

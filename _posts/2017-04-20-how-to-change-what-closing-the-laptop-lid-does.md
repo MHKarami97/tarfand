@@ -1,6 +1,6 @@
 ---
 title: 'جلوگیری از خاموش شدن لپ تاپ هنگام بستن درب آن'
-img: /files/2017/04/itarfand-176-1.jpg
+cover_image: /files/2017/04/itarfand-176-1.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

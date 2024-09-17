@@ -1,6 +1,6 @@
 ---
 title: 'پشتیبان گیری از لیست دانلود IDM'
-img: /files/2019/06/itarfand-845.jpg
+cover_image: /files/2019/06/itarfand-845.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

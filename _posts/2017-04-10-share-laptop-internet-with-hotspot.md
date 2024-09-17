@@ -1,6 +1,6 @@
 ---
 title: 'استفاده از LapTop به عنوان مودم WiFi'
-img: /files/2017/04/itarfand-170.jpg
+cover_image: /files/2017/04/itarfand-170.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

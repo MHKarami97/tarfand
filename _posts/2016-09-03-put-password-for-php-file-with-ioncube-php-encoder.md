@@ -1,6 +1,6 @@
 ---
 title: 'رمزگذاری بر روی فایل PHP با ionCube PHP Encoder'
-img: /files/2016/09/itarfand-68.jpg
+cover_image: /files/2016/09/itarfand-68.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

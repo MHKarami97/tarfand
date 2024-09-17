@@ -1,6 +1,6 @@
 ---
 title: 'آموزش فعال سازی رایگان آنتی ویروس Kaspersky'
-img: /files/2018/06/itarfand-804-min.jpg
+cover_image: /files/2018/06/itarfand-804-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

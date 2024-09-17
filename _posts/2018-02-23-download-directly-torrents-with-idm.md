@@ -1,6 +1,6 @@
 ---
 title: 'دانلود مستقیم و پر سرعت فایل های تورنت با IDM'
-img: /files/2018/02/itarfand-663-min.jpg
+cover_image: /files/2018/02/itarfand-663-min.jpg
 categories:
     - 'سایت انگلیسی'
 tags:

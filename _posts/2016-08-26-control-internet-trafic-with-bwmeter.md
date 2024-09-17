@@ -1,6 +1,6 @@
 ---
 title: 'کنترل ترافیک اینترنت با BWMeter'
-img: /files/2016/08/itarfand_37.jpg
+cover_image: /files/2016/08/itarfand_37.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

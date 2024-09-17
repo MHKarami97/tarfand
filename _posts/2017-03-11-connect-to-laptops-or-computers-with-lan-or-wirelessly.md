@@ -1,6 +1,6 @@
 ---
 title: 'متصل کردن دو لپ تاپ توسط سیم Lan یا توسط Wireless'
-img: /files/2017/03/itarfand-142.jpg
+cover_image: /files/2017/03/itarfand-142.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

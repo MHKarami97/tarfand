@@ -1,6 +1,6 @@
 ---
 title: 'ویرایش دلخواه در فایل ویندوز برای ساخت ویندوز شخصی'
-img: /files/2016/08/itarfand-52.jpg
+cover_image: /files/2016/08/itarfand-52.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

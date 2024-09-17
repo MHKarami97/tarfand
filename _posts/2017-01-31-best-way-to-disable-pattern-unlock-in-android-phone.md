@@ -1,6 +1,6 @@
 ---
 title: 'شکستن قفل پترن موبایل های اندروید'
-img: /files/2017/01/itarfand-120.jpg
+cover_image: /files/2017/01/itarfand-120.jpg
 categories:
     - 'ترفند موبایل'
 tags:

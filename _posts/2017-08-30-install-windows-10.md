@@ -1,6 +1,6 @@
 ---
 title: 'آموزش نصب ویندوز ۱۰'
-img: /files/2017/08/itarfand-469-min.jpg
+cover_image: /files/2017/08/itarfand-469-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'آموزش تار کردن قسمتی از عکس در فتوشاپ'
-img: /files/2017/05/itarfand-240.jpg
+cover_image: /files/2017/05/itarfand-240.jpg
 categories:
     - 'ترفند نرم افزار گرافیکی'
 tags:

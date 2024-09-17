@@ -1,6 +1,6 @@
 ---
 title: 'خواندن فایل های ISO با نرم افزار Visual CloneDrive'
-img: /files/2017/05/itarfand-179.jpg
+cover_image: /files/2017/05/itarfand-179.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

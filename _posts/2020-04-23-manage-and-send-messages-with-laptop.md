@@ -1,6 +1,6 @@
 ---
 title: 'دسترسی به پیامک ها و ارسال پیامک توسط کامپیوتر'
-img: /files/2020/04/itarfand-914-min.jpg
+cover_image: /files/2020/04/itarfand-914-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

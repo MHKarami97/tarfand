@@ -1,6 +1,6 @@
 ---
 title: 'نصب مجازی Kali Linux بر روی VMware'
-img: /files/2017/05/itarfand-229.jpg
+cover_image: /files/2017/05/itarfand-229.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

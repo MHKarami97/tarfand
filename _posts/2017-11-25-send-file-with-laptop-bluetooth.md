@@ -1,6 +1,6 @@
 ---
 title: 'ارسال فایل با بلوتوث لپ تاپ'
-img: /files/2017/11/itarfand-621-min.jpg
+cover_image: /files/2017/11/itarfand-621-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

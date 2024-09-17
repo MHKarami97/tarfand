@@ -1,6 +1,6 @@
 ---
 title: 'پاک کردن پوشه windows.Old'
-img: /files/2017/11/itarfand-592-min.jpg
+cover_image: /files/2017/11/itarfand-592-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

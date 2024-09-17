@@ -1,6 +1,6 @@
 ---
 title: 'دریافت VPS رایگان از سرورهای Microsoft و NVidia'
-img: /files/2017/07/itarfand-386.jpg
+cover_image: /files/2017/07/itarfand-386.jpg
 categories:
     - 'سایت انگلیسی'
 tags:

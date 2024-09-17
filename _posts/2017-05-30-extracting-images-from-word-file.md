@@ -1,6 +1,6 @@
 ---
 title: 'جدا کردن عکس های فایل Word'
-img: /files/2017/05/itarfand-245.jpg
+cover_image: /files/2017/05/itarfand-245.jpg
 categories:
     - 'ترفند آفیس'
 tags:

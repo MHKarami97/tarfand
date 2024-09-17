@@ -1,6 +1,6 @@
 ---
 title: 'زمان بندی IDM برای دانلود خودکار در ساعات شبانه'
-img: /files/2016/09/itarfand-74.jpg
+cover_image: /files/2016/09/itarfand-74.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

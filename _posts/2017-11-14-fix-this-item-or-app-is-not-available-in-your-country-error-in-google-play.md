@@ -1,6 +1,6 @@
 ---
 title: 'دانلود اپلیکیشن های غیر قابل دسترس در ایران از Google Play'
-img: /files/2017/11/itarfand-611-min.jpg
+cover_image: /files/2017/11/itarfand-611-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

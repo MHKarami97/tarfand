@@ -1,6 +1,6 @@
 ---
 title: 'بوت کردن سیستم با فلش usb'
-img: /files/2020/03/itarfand-883-min.jpg
+cover_image: /files/2020/03/itarfand-883-min.jpg
 categories:
     - 'ترفند ویندوز'
 ---

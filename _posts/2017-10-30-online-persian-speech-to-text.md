@@ -1,6 +1,6 @@
 ---
 title: 'تبدیل  آنلاین گفتار فارسی به متن'
-img: /files/2017/10/itarfand-575-min.jpg
+cover_image: /files/2017/10/itarfand-575-min.jpg
 categories:
     - 'سایت انگلیسی'
 tags:

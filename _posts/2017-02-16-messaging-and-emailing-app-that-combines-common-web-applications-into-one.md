@@ -1,6 +1,6 @@
 ---
 title: 'مسنجر رایانه با امکان استفاده از بیشتر شبکه های اجتماعی'
-img: /files/2017/02/itarfand-128.jpg
+cover_image: /files/2017/02/itarfand-128.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

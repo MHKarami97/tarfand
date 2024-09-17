@@ -1,6 +1,6 @@
 ---
 title: 'جلوگیری از روش شدن خودکار رایانه در صورت حرکت موس'
-img: /files/2018/05/itarfand-730-min.jpg
+cover_image: /files/2018/05/itarfand-730-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

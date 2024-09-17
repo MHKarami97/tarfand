@@ -1,6 +1,6 @@
 ---
 title: 'پیام دادن به فرد واتساپ بدون نیاز به ذخیره مخاطب'
-img: /files/2020/11/itarfand-960-min.jpg
+cover_image: /files/2020/11/itarfand-960-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'جلوگیری از نصب نرم افزار ها و بازکردن فلش در ویندوز'
-img: /files/2016/12/itarfand-109.jpg
+cover_image: /files/2016/12/itarfand-109.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

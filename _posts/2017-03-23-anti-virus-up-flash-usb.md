@@ -1,6 +1,6 @@
 ---
 title: 'ضد ویروس کردن حافظه های همراه'
-img: /files/2017/03/itarfand-154.jpg
+cover_image: /files/2017/03/itarfand-154.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

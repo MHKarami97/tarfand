@@ -1,6 +1,6 @@
 ---
 title: 'دانلود آهنگ و پلی لیست از SoundCloud'
-img: /files/2020/11/itarfand-953-min.jpg
+cover_image: /files/2020/11/itarfand-953-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

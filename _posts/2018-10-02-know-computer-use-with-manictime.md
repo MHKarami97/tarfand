@@ -1,6 +1,6 @@
 ---
 title: 'دانستن مدت زمان استفاده از رایانه با ManicTime'
-img: /files/2018/10/itarfand-831-min.jpg
+cover_image: /files/2018/10/itarfand-831-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

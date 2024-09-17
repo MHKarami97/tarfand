@@ -1,6 +1,6 @@
 ---
 title: 'ایجاد کنفرانس و کلاس درس آنلاین و مجازی'
-img: /files/2020/03/itarfand-856-min.jpg
+cover_image: /files/2020/03/itarfand-856-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

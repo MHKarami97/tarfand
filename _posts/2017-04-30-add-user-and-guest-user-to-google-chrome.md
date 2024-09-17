@@ -1,6 +1,6 @@
 ---
 title: 'اضافه کردن کاربر به مرورگر گوگل کروم'
-img: /files/2017/04/itarfand-235.jpg
+cover_image: /files/2017/04/itarfand-235.jpg
 categories:
     - 'ترفند مرورگر'
 tags:

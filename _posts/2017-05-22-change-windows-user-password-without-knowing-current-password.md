@@ -1,6 +1,6 @@
 ---
 title: 'تغییر رمز ویندوز بدون دانستن آن'
-img: /files/2017/05/itarfand-269.jpg
+cover_image: /files/2017/05/itarfand-269.jpg
 categories:
     - 'ترفند ویندوز'
 tags:
