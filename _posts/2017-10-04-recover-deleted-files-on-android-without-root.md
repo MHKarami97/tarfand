@@ -43,15 +43,15 @@ tags:
 
 در صورت فعال بودن *USB Debug* در موبایل شما نام گوشی خود را پس از اتصال آن به رایانه مشاهده خواهید کرد.
 
-![mhkarami97](/files/2017/10/itarfand-509-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-509-min.jpg)  
 
 پس از این کار برنامه شروع به جستجو در موبایل شما برای بازیابی اطلاعات می کند.
 
-![mhkarami97](/files/2017/10/itarfand-510-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-510-min.jpg)  
 
 برای بازیابی کافی است تیک فایل مورد نظر را انتخاب کنید و بر روی گزیه *Recover* بزنید.
 
-![mhkarami97](/files/2017/10/itarfand-511-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-511-min.jpg)  
 
 <span style="color: #0000ff;">**استفاده از DiskDigger photo recovery**</span>
 
@@ -61,4 +61,4 @@ tags:
 
 بعد از اجرا کافی است حافظه ای را که می خواهید اطلاعات آن را بازیابی کنید انتخاب کنید تا برنامه شروع به جستجو در آن کند و سپس با انتخاب فایل مورد نظر آن را بازیابی کنید.
 
-![mhkarami97](/files/2017/10/itarfand-512-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-512-min.jpg)  

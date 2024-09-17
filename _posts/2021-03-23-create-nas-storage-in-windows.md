@@ -18,25 +18,25 @@ tags:
 
 ابتدا به Control Panel و سپس قسمت Storage Spaces بروید. در این قسمت برای ایجاد حافظه Nas کافی است بر روی Create a new pool کلیک کنید.
 
-![mhkarami97](/files/2021/03/itarfand-966-min.jpg)
+![mhkarami97](/files/2021/03/itarfand-966-min.jpg)  
 در صفحه باز شده درایوهایی که میخواید در این قابلیت باشند را انتخاب کنید.
 
-![mhkarami97](/files/2021/03/itarfand-967-min.jpg)
+![mhkarami97](/files/2021/03/itarfand-967-min.jpg)  
 در مرحله باید می‌توانید نام درایو مورد و فرمت آن را انتخاب کنید.
 
-![mhkarami97](/files/2021/03/itarfand-968-min.jpg)
+![mhkarami97](/files/2021/03/itarfand-968-min.jpg)  
 در صفحه بعد می‌توانید حالت درایو را مشخص کنید. بطور مثال اگر اطلاعات مهمی را می‌خواهید ذخیره کنید می‌توانید حالت two-way یا three-way را انتخاب کنید تا اطلاعات در هر دو سیستم ذخیره شوند.
 
-![mhkarami97](/files/2021/03/itarfand-969-min.jpg)
+![mhkarami97](/files/2021/03/itarfand-969-min.jpg)  
 بعد از انجام کارهای بالا یک درایو جدید به سیستم ها اضافه می‌شود.
 
-![mhkarami97](/files/2021/03/itarfand-970-min.jpg)
+![mhkarami97](/files/2021/03/itarfand-970-min.jpg)  
 برای تغییر سطح دسترسی این درایو برای دیگر سیستم ها کافی است بر روی آن راست کلیک کنید و به قسمت sharing بروید و گزینه share را انتخاب کنید.
 
-![mhkarami97](/files/2021/03/itarfand-972-min.jpg)
+![mhkarami97](/files/2021/03/itarfand-972-min.jpg)  
 سپس گزینه EveryOne را انتخاب کنید و حالت آن را بر روی Read/Write قرار دهید تا بقیه افراد قابلیت خواندن و نوشتن اطلاعات داشته باشند.
 
-![mhkarami97](/files/2021/03/itarfand-971-min.jpg)
+![mhkarami97](/files/2021/03/itarfand-971-min.jpg)  
 اکنون دیگر سیستم ها نیز که در شبکه شما باشند، به این حافظه دسترسی دارند.
 
 همچنین می‌توانید از آن برای دوربین های هوشمند استفاده کنید.

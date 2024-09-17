@@ -15,40 +15,40 @@ categories:
 
 بعد از اجرا نرم افزار با صفحه زیر روبرو می شوید که باید از قسمت *Installation* گزینه *New SQL* را انتخاب کنید.
 
-![mhkarami97](/files/2018/03/itarfand-664-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-664-min.jpg)  
 
 اگر در صفحه زیر *Warning* مشاهده کردید مشکلی برای شما پیش نمی آید اما اگر *Error* مشاهده کردید باید آن را برطرف کنید.
 
-![mhkarami97](/files/2018/03/itarfand-666-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-666-min.jpg)  
 
 سپس در صفحه بعد کد فعال سازی موجود در پوشه دانلود شده را وارد کنید.
 
-![mhkarami97](/files/2018/03/itarfand-667-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-667-min.jpg)  
 
 بر روی *Accept* کلیک کنید.
 
-![mhkarami97](/files/2018/03/itarfand-668-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-668-min.jpg)  
 
 در این صفحه باید ویژگی هایی که می خواهید را به جز سه گزینه انتخاب نشده در عکس را انتخاب کنید.
 
-![mhkarami97](/files/2018/03/itarfand-669-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-669-min.jpg)  
 
 در صفحه بعد بر روی *Default* کلیک کنید تا از نام پیش فرض استفاده شود.
 
-![mhkarami97](/files/2018/03/itarfand-670-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-670-min.jpg)  
 
 صفحه بعد برای مدیریت اکانت های مختلف و ویژگی های مختلف sql server می باشد که نیازی به تغییر آن ها نیست.
 
-![mhkarami97](/files/2018/03/itarfand-671-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-671-min.jpg)  
 
 در این صفحه باید یک کاربر را تعیین کنید. می توانید با کلیک بر روی گزینه مشخص شده و سپس کلیک بر روی *Add Current User* اکانتی که با آن وارد ویندوز شده اید را اضافه کنید و همچنین برای آن رمز عبور قرار دهید.
 
-![mhkarami97](/files/2018/03/itarfand-672-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-672-min.jpg)  
 
 در این صفحه نیز بر روی گزینه مشخص شده کلیک کنید.
 
-![mhkarami97](/files/2018/03/itarfand-673-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-673-min.jpg)  
 
 اکنون بر روی *Install* کلیک کنید تا نصب شروع شود.
 
-![mhkarami97](/files/2018/03/itarfand-674-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-674-min.jpg)  

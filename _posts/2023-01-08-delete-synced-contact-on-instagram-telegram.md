@@ -27,13 +27,13 @@ tags:
 
 انجام این کار فقط توسط نسخه وب این شبکه اجتماعی ممکن است. بدین منظور در مرورگر خود بعد از وارد شدن به اینستاگرام از سمت چپ گزینه Setting را انتخاب کنید.
 
-![mhkarami97](/files/2023/01/itarfand-1027-min.jpg)
+![mhkarami97](/files/2023/01/itarfand-1027-min.jpg)  
 اکنون در بخش باز شده به بخش Manage Contact بروید تا لیست مخاطبین خود را مشاهده کنید. در این صفحه می‌توانید با گزینه Delete All می‌توانید تمام مخاطبین سینک شده را پاک کنید.
 
-![mhkarami97](/files/2023/01/itarfand-1026-min.jpg)
+![mhkarami97](/files/2023/01/itarfand-1026-min.jpg)  
 صفحه گفته شده بالا در آدرس زیر موجود است:
 
-[https://www.instagram.com/accounts/contact\_history](https://www.instagram.com/accounts/contact_history)
+[https://www.instagram.com/accounts/contact\_history](https://www.instagram.com/accounts/contact_history)  
 
 پاک کردن مخاطبین سینک شده در تلگرام
 
@@ -45,4 +45,4 @@ tags:
 
 اگر گزینه Sync Contacts را غیر فعال کنید دیگر مخاطبین شما سینک نمی‌شود.
 
-![mhkarami97](/files/2023/01/itarfand-1028-min.jpg)
+![mhkarami97](/files/2023/01/itarfand-1028-min.jpg)  

@@ -38,7 +38,7 @@ tags:
 
 برای این کار ابتدا کلمه *Computer Management* را در ویندوز جستجو کنید تا صفحه زیر باز شود. در صفحه باز شده از سمت چپ به قسمت *Device Manager* بروید و قسمت *Universal Serial Bus Controller* را پیدا کنید. اکنون هر کدام از پورت ها را که می خواهید با راست کلیک بر روی و گزینه *Disable* غیر فعال کنید.
 
-![mhkarami97](/files/2017/09/itarfand-491-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-491-min.jpg)  
 
 <span style="color: #0000ff;">**استفاده از Register**</span>
 
@@ -48,11 +48,11 @@ tags:
 
 اکنون بر روی *Start* دو بار کلیک کنید.
 
-![mhkarami97](/files/2017/09/itarfand-492-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-492-min.jpg)  
 
 برای غیر فعال کردن تمام پورت های *usb* مقدار ۴ را در صفحه باز شده وارد کنید.
 
-![mhkarami97](/files/2017/09/itarfand-493-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-493-min.jpg)  
 
 <span style="color: #0000ff;">**استفاده از Local Group Polcy**</span>
 
@@ -60,7 +60,7 @@ tags:
 
 در صفحه باز شده به تب *Details* بروید و گزینه *Hardware Ids* را انتخاب کنید و کد مشخص شده در عکس را کپی کنید.
 
-![mhkarami97](/files/2017/09/itarfand-494-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-494-min.jpg)  
 
 اکنون کلمه *Edit Group Policy* را در ویندوز جستجو کنید. اکنون از سمت چپ به آدرس زیر بروید.
 
@@ -68,10 +68,10 @@ tags:
 
 اکنون بر روی گزینه *Prevent Installation Of Device That Match Any These Devices* کلیک کنید.
 
-![mhkarami97](/files/2017/09/itarfand-495-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-495-min.jpg)  
 
 اکنون ابتدا بر روی *Enable* و سپس *Show* کلیک کنید و کدی را که کپی کرده بودید را مانند عکس وارد کنید و سپس بر روی *Ok* کلیک کنید.
 
-![mhkarami97](/files/2017/09/itarfand-496-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-496-min.jpg)  
 
 بعد از انجام کارهای بالا پورت *usb* دستگاه شما کاملا بسته خواهد شد.

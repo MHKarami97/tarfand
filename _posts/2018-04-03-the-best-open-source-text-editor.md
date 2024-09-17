@@ -29,7 +29,7 @@ tags:
 
 برای دانلود این ویرایشگر به [(این لینک)](https://atom.io/) بروید.
 
-![mhkarami97](/files/2018/04/itarfand-704-min.jpg)
+![mhkarami97](/files/2018/04/itarfand-704-min.jpg)  
 
 <span style="color: #0000ff;">**ادیتور Brackets**</span>
 
@@ -37,10 +37,10 @@ tags:
 
 برای دانلود این نرم افزار به[ (این لینک)](http://brackets.io/) بروید.
 
-![mhkarami97](/files/2018/04/itarfand-705-min.jpg)
+![mhkarami97](/files/2018/04/itarfand-705-min.jpg)  
 
 <span style="color: #0000ff;">**قالب دراکولا برای ویرایشگرها**</span>
 
 یکی از قالب های بسیار زیبا و *Dark* که برای بیشتر نرم افزار های برنامه نویسی از جمله این دو نرم افزار ارائه شده است ، *Dracula* می باشد که می توانید آن را از[ (این لینک)](https://draculatheme.com/) دانلود کنید.
 
-![mhkarami97](/files/2018/04/itarfand-706-min.jpg)
+![mhkarami97](/files/2018/04/itarfand-706-min.jpg)  

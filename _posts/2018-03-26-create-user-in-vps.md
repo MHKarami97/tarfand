@@ -23,15 +23,15 @@ tags:
 
 ابتدا با کلید های ترکیبی *Win+R* قسمت *Run* را باز کنید و کلمه *Lusrmgr.msc* را در آن جستجو کنید.
 
-![mhkarami97](/files/2018/03/itarfand-676-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-676-min.jpg)  
 
 اکنون در صفحه باز شده بر روی *User* کلیک کنید.
 
-![mhkarami97](/files/2018/03/itarfand-677-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-677-min.jpg)  
 
 بر روی صفحه راست کلیک کنید و گزینه *New User* را انتخاب کنید.
 
-![mhkarami97](/files/2018/03/itarfand-678-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-678-min.jpg)  
 
 اکنون یک نام کاربری وارد کنید و همچنین یک رمز برای آن قرار دهید.
 
@@ -42,7 +42,7 @@ tags:
 - <span style="color: #008000;">Password never expires : پسورد منقضی نشود.</span>
 - <span style="color: #008000;">Account is disabled : یوزر غیر فعال باشد.</span>
 
-![mhkarami97](/files/2018/03/itarfand-679-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-679-min.jpg)  
 
 برای تغییر گروه کاربری یوزر مورد نظر و قرار دادن آن در گروه های مختلف مانند مدیر یا *Administrator* بر روی آن راست کلیک کنید و گزینه *Properties* را انتخاب کنید.
 
@@ -50,15 +50,15 @@ tags:
 
 اکنون صفحه زیر باز می شود که باید بر روی *Advanced* کلیک کنید.
 
-![mhkarami97](/files/2018/03/itarfand-680-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-680-min.jpg)  
 
 در این قسمت بر روی *Find Now* کلیک کنید و گروه مورد نظر خود را انتخاب کنید.
 
-![mhkarami97](/files/2018/03/itarfand-681-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-681-min.jpg)  
 
 اگر همه چیز درست پیش برود در صفحه زیر اروری مشاهده نمی کنید و کافی است بر روی *Ok* کلیک کنید.
 
-![mhkarami97](/files/2018/03/itarfand-682-min.jpg)
+![mhkarami97](/files/2018/03/itarfand-682-min.jpg)  
 
 <span style="color: #0000ff;">**ساخت و پنهان سازی یوزر با CMD**</span>
 

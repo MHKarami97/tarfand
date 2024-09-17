@@ -35,19 +35,19 @@ tags:
 
 ابتدا به قسمت *Setting* بروید و سپس از سربرگ *general* قسمت *App* نرم افزار *Google Play Store* را انتخاب کنید.
 
-![mhkarami97](/files/2017/11/itarfand-608-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-608-min.jpg)  
 
 سپس بر روی *Force Stop* و سپس *Storage* کلیک کنید و در صفحه باز شده بر روی *Clear Data و Clear Cache* کلیک کنید.
 
-![mhkarami97](/files/2017/11/itarfand-607-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-607-min.jpg)  
 
 اکنون یک *VPN* مانند [*Psiphon* ](https://play.google.com/store/apps/details?id=com.psiphon3&hl=en)را دانلود و نصب کنید و پس از اجرا کردن آن نرم افزار گوگل پلی را اجرا کنید و بر روی *Accept* کلیک کنید.
 
-![mhkarami97](/files/2017/11/itarfand-609-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-609-min.jpg)  
 
 اکنون بدون محدودیت می توانید اپلیکیشن مورد نظر خود را دانلود کنید. همچنین از ظاهر زیباتر گوگل پلی لذت ببرید.
 
-![mhkarami97](/files/2017/11/itarfand-610-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-610-min.jpg)  
 
 در صورت حل نشدن مشکل روش های زیر را نیز امتحان کنید.
 

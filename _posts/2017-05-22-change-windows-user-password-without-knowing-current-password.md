@@ -24,38 +24,38 @@ tags:
 
 ابتدا در قسمت جستجو ویندوز کلمه *Computer Management* را تایپ کنید تا صفحه زیر باز شود و سپس از قسمت چپ گزینه *Users* را از بخش *Local Users* انتخاب کنید.
 
-![mhkarami97](/files/2017/05/itarfand-261.jpg)
+![mhkarami97](/files/2017/05/itarfand-261.jpg)  
 
 اکنون بر روی کاربری که می خواهید پسورد آن را تغییر دهید راست کلیک کنید و گزینه *set Password* را انتخاب کنید.
 
-![mhkarami97](/files/2017/05/itarfand-262.jpg)
+![mhkarami97](/files/2017/05/itarfand-262.jpg)  
 
 در صورت باز شدن پنجره زیر گزینه *Proceed* را انتخاب کنید.
 
-![mhkarami97](/files/2017/05/itarfand-263.jpg)
+![mhkarami97](/files/2017/05/itarfand-263.jpg)  
 
 اکنون می توانید در صفحه باز شده رمز جدید بر روی ویندوز خود قرار دهید.
 
-![mhkarami97](/files/2017/05/itarfand-264.jpg)
+![mhkarami97](/files/2017/05/itarfand-264.jpg)  
 
 <span style="color: #0000ff;">**استفاده از User Account**</span>
 
 ابتدا توسط کلید های ترکیبی *Win + R* قسمت *Run* ویندوز را اجرا کنید و سپس در آن کلمه *netplwiz* را تایپ کنید.
 
-![mhkarami97](/files/2017/05/itarfand-265.jpg)
+![mhkarami97](/files/2017/05/itarfand-265.jpg)  
 
 اکنون می توانید توسط گزینه *Reset Password* رمز ویندوز را تغییر دهید و یا با برداشتن تیک گزینه *… User Must* به صورت کامل قسمت درخواست پسورد را برای کاربر مورد نظر غیر فعال کنید تا دیگر پسورد نخواهد.
 
-![mhkarami97](/files/2017/05/itarfand-266.jpg)
+![mhkarami97](/files/2017/05/itarfand-266.jpg)  
 
 <span style="color: #0000ff;">**جلوگیری از درخواست رمز هنگام Sleep**</span>
 
 در ویندوز ۱۰ هنگامی که شما رایانه خود را از حالت *Sleep* بیدار می کنید از شما درخواست رمز می کند. اگر می خواهید این حالت را غیر فعال کنید می توانید مانند عکس زیر *Sign In Option* گزینه *Never* را انتخاب کنید.
 
-![mhkarami97](/files/2017/05/itarfand-267.jpg)
+![mhkarami97](/files/2017/05/itarfand-267.jpg)  
 
 <span style="color: #0000ff;">**دانستن پسورد قرار داده شده بر روی ویندوز**</span>
 
 توسط<span style="color: #008000;"> *( این نرم افزار )*</span> می توانید بدون پاک کردن رمز و یا تغییر آن ، پسورد مورد استفاده در ویندوز را بدانید.
 
-![mhkarami97](/files/2017/05/itarfand-268.jpg)
+![mhkarami97](/files/2017/05/itarfand-268.jpg)  

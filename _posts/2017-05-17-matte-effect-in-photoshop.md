@@ -22,16 +22,16 @@ tags:
 
 بعد از باز کردن عکس در فتوشاپ از قسمت چپ ابزار *Magnetic Lasso Tool* را مانند عکس زیر انتخاب کنید و سپس توسط آن قسمتی از عکس را که می خواهید تار کنید مشخص کنید.
 
-![mhkarami97](/files/2017/05/itarfand-236.jpg)
+![mhkarami97](/files/2017/05/itarfand-236.jpg)  
 
 اکنون از سربرگ *Filter* به قسمت *Blur* بروید و گزینه *Gaussian Blur* را انتخاب کنید.
 
-![mhkarami97](/files/2017/05/itarfand-237.jpg)
+![mhkarami97](/files/2017/05/itarfand-237.jpg)  
 
 توسط گزینه *Radius* در صفحه باز شده می توانید مقدار تاری عکس را تغییر دهید.
 
-![mhkarami97](/files/2017/05/itarfand-238.jpg)
+![mhkarami97](/files/2017/05/itarfand-238.jpg)  
 
 همان طور که مشاهده می کنید قسمت های مشخص شده از عکس تار شده اند.
 
-![mhkarami97](/files/2017/05/itarfand-239.jpg)
+![mhkarami97](/files/2017/05/itarfand-239.jpg)  

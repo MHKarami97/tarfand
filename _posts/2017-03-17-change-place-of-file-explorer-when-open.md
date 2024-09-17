@@ -21,18 +21,18 @@ tags:
 
 در ویندوز ۱۰ وقتی بر روی *File Explorer* کلیک می شود صفحه *Quick Access* باز می شود.
 
-![mhkarami97](/files/2017/03/itarfand-146.jpg)
+![mhkarami97](/files/2017/03/itarfand-146.jpg)  
 
 صفحه ای که باز می شود:
 
-![mhkarami97](/files/2017/03/itarfand-143.jpg)
+![mhkarami97](/files/2017/03/itarfand-143.jpg)  
 
 برای تغییر این صفحه کافی است مانند عکس زیر *Change Folder Option* را انتخاب کنید.
 
-![mhkarami97](/files/2017/03/itarfand-144.jpg)
+![mhkarami97](/files/2017/03/itarfand-144.jpg)  
 
 سپس گزینه *This PC* را از قسمت *Open File Explorer To* انتخاب کنید.
 
-![mhkarami97](/files/2017/03/itarfand-145.jpg)
+![mhkarami97](/files/2017/03/itarfand-145.jpg)  
 
 بعد از این کار با کلیک بر روی آیکون فایل ، صفحه درایو های شما باز می شود.

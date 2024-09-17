@@ -67,7 +67,7 @@ tags:
 
  در داخل جعه یک وسیله کوچک مستطیل شکل هم موجود می باشد که کار آن گرفتن نویز است. این وسیله فقط به تلفن متصل می شود و روش اتصال آن به این صورت است: سیمی که به تلفن متصل است را به یک طرف این وسیله که فقط یک ورودی دارد وصل کنید و با یک سیم دیگر تلفن را به طرف دیگر این وسیله که دارای دو خروجی است و خروجی به اسم *Phone Out* متصل کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-805-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-805-min.jpg)  
 
  <span style="color:#0000CD;">**تنظیم مودم**</span>
 
@@ -81,27 +81,27 @@ tags:
 
  نام کاربری و رمز عبور پیش فرض این صفحه admin و admin می باشد.
 
- ![mhkarami97](/files/2018/07/itarfand-806-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-806-min.jpg)  
 
  اگر این صفحه ارور داد کافی است تنظیمات زیر را در قسمت *control panel* و *network and sharing center* وارد کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-822-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-822-min.jpg)  
 
  بعد از ورود به قسمت تنظیمات برای نصب کافی است به قسمت *Quick Stsrt* بروید و بر روی *Run Wizard* کلیک کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-807-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-807-min.jpg)  
 
  سپس در صفحه باز شده تهران را انتخاب و بر روی Next کلیک کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-808-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-808-min.jpg)  
 
  در صفحه بعد گزینه *PPPoE* را انتخاب کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-809-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-809-min.jpg)  
 
  اکنون در صفحه باز شده باید نام کاربری و رمز عبوری که از شرکت دریافت کرده اید را وارد کنید و سپس VPI را برابر ۰ و VCI را برابر ۳۵ قرار دهید و گزینه PPPoE LLC را انتخاب کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-810-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-810-min.jpg)  
 
  <span style="color:#0000FF;">**VCI و VPI چیست؟**</span>
 
@@ -115,7 +115,7 @@ tags:
 
  دو مقدار VPI و VCI در کنار یکدیگر، مسیر نهایی را مشخص می‌کنند. این دو مقدار باید توسط ISP به کاربر اطلاع داده شوند زیرا بدون فهمیدن این مقادیر، داده‌های ما عملاً به جایی غیر از ISP انتقال داده خواهند شد.
 
- ![mhkarami97](/files/2018/07/itarfand-814-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-814-min.jpg)  
 
  <span style="color:#0000FF;">**تنظیمات WIFI**</span>
 
@@ -125,17 +125,17 @@ tags:
 
  همچنین توسط گزینه Broadcast SSID می توانید مودم خود را پنهان کنید تا افراد آن را نتوانند مشاهده کنند و فقط خودتان با افزودن دستی آن در موبایل بتوانید به آن دسترسی پیدا کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-811-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-811-min.jpg)  
 
  <span style="color:#0000FF;">**محدود کردن استفاده افراد با MAC ID**</span>
 
  برای این کار ابتدا به بخش Status بروید تا در بخش مشخص شده بتوانید افراد متصل به مودم را مشاهده کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-813-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-813-min.jpg)  
 
  سپس به بخش عکس زیر بروید و بر روی Active کلیک کنید و تعیین کنید که افراد با این MAC ID آیا می توانند متصل شوند یا نه و سپس مک آی دی فرد مورد نظر را وارد کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-812-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-812-min.jpg)  
 
  <span style="color:#0000FF;">**تنظیمات برای سرعت بالا در تبادل اطلاعات ( پیشنهاد شده برای استفاده خانگی )**</span>
 
@@ -155,7 +155,7 @@ tags:
 
  ۷- Band Width: این مقدار با توجه به مدل مودم یا اکسس پوینت تنطیم میشود اگر اکسس پوینت شما دو بانده باشد ( یعنی ۲ تا آنتن وایرلس داشته باشه ) باید روی ۴۰ مگاهرتز تنطیم شود و اگر تک بانده باشد ( یعنی یک آنتن وایرلس داشته باشه ) باید روی ۲۰ مگاهرتز تنظیم شود
 
- ۸- Short Guard Interval: این گزینه باید حتما تیک زده شود و یا فعال شود ( با فعال کردن این گزینه پهنای باند شبکه وایرلس به طور متعادل در فضا پخش میشود و تمام قدرت روی کیفیت و تبادل اطلاعات متمرکز می شود )
+ ۸- Short Guard Interval: این گزینه باید حتما تیک زده شود و یا فعال شود ( با فعال کردن این گزینه پهنای باند شبکه وایرلس به طور متعادل در فضا پخش میشود و تمام قدرت روی کیفیت و تبادل اطلاعات متمرکز می شود )  
 
  <span style="color:#0000FF;">**تنظیمات برای سرعت بالا در تبادل اطلاعات در محیط هایی که موانع زیادی دارند ( پیشنهاد شده برای استفاده خانگی و اداری با موانع زیاد در محل )**</span>
 
@@ -203,7 +203,7 @@ tags:
 
  برای این کار مودم شما باید از Quality of Service پشتیبانی کند. توسط QoS در مودم ها می توانید برای فایل ها و یا بازی ها اولویت استفاده و محدودیت قرار دهید.
 
- ![mhkarami97](/files/2018/07/itarfand-824-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-824-min.jpg)  
 
  برای استفاده از این امکان باید IP و MAC Address فرد مورد نظر را بدانید. سپس می توانید برای او و پرتی خاص محدودیت قرار دهید. به طور مثال پورت ۸۰ برای دانلود در ویندوز استفاده می شود.
 
@@ -219,24 +219,24 @@ tags:
 
  آدرس مک فرد مورد نظر را باید در قسمت Destination MAC و Source MAC وارد کرد و سپس IP فرد را در بخش خود وارد کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-823-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-823-min.jpg)  
 
  <span style="color:#0000FF;">**تنظیم مودم های D-Link**</span>
 
  تنظیم این مودم هم شبیه عکس های بالا می باشد و فقط گرافیک آن فرق می کند. پس فقط کافی است عکس های زیر را دنبال کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-815-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-815-min.jpg)  
 
- ![mhkarami97](/files/2018/07/itarfand-816-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-816-min.jpg)  
 
- ![mhkarami97](/files/2018/07/itarfand-817-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-817-min.jpg)  
 
- ![mhkarami97](/files/2018/07/itarfand-818-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-818-min.jpg)  
 
- ![mhkarami97](/files/2018/07/itarfand-819-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-819-min.jpg)  
 
- ![mhkarami97](/files/2018/07/itarfand-820-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-820-min.jpg)  
 
- ![mhkarami97](/files/2018/07/itarfand-821-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-821-min.jpg)  
 
  اگر مشکلی در تنظیم مودم داشتید کافی است در نظرات بپرسید.

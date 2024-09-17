@@ -27,13 +27,13 @@ tags:
 
 برای این کار به قسمت تنظیمات Battery بروید و گزینه App Lunch را انتخاب کنید.
 
-![mhkarami97](/files/2020/03/itarfand-862-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-862-min.jpg)  
 سپس در صفحه باز شده اپلیکیشن مورد نظر خود را که در این آموزش ACR می باشد را پیدا کنید و از سمت راست آن را غیر فعال کنید.
 
-![mhkarami97](/files/2020/03/itarfand-863-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-863-min.jpg)  
 اکنون کافی است در قسمتی که باز می شود هر سه گزینه را فعال کنید.
 
-![mhkarami97](/files/2020/03/itarfand-864-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-864-min.jpg)  
 با انجام این کار مشکل کار نکردن خودکار حل می شود.
 
 **ضبط نکردن صدای خود فرد در مکالمه**

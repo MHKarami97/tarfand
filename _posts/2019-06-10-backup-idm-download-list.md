@@ -21,18 +21,18 @@ tags:
 
 برای این کار ابتدا دانلود منجر را باز کنید و به سربرگ Option بروید. در این بخش به قسمت Save To بروید تا محل ذخیره فایل ها را پیدا کنید.
 
-<div class="wp-block-image"><figure class="aligncenter">![mhkarami97](/files/2019/06/itarfand-841.jpg)
+<div class="wp-block-image"><figure class="aligncenter">![mhkarami97](/files/2019/06/itarfand-841.jpg)  
 اکنون به آدرس مشخص شده بروید و اگر تنظیمات نمایش فایل های مخفی را در ویندوز فعال نکرده اید مانند عکس زیر آن را فعال کنید تا تمام فایل ها نمایش داده بشود. سپس تمام فایل ها را به درایو دیگری منتقل کنید و در رایانه دیگری که میخواهید در مسیری که طبق عکس بالا مشخص شده است کپی کنید.
 
-<div class="wp-block-image"><figure class="aligncenter">![mhkarami97](/files/2019/06/itarfand-842.jpg)
+<div class="wp-block-image"><figure class="aligncenter">![mhkarami97](/files/2019/06/itarfand-842.jpg)  
 اکنون کلمه Regedit را جستجو کنید و سپس آن را اجرا و به آدرس زیر بروید.
 
 HKEY\_CURRENT\_USER &gt; Software &gt; DownloadManager
 
 اکنون بر روی پوشه راست کلیک کنید و بر روی Export کلیک کنید و آن را در محل دلخواه ذخیره کنید.
 
-<div class="wp-block-image"><figure class="aligncenter">![mhkarami97](/files/2019/06/itarfand-843.jpg)
+<div class="wp-block-image"><figure class="aligncenter">![mhkarami97](/files/2019/06/itarfand-843.jpg)  
 سپس فایل را در رایانه ای که می خواهید منتقل کنید و آن را اجرا کنید.
 
-<div class="wp-block-image"><figure class="aligncenter">![mhkarami97](/files/2019/06/itarfand-844.jpg)
+<div class="wp-block-image"><figure class="aligncenter">![mhkarami97](/files/2019/06/itarfand-844.jpg)  
 با انجام این کار لیست دانلود شما و همچنین فایل هایی که ناقص دانلود شده اند منتقل می شوند.

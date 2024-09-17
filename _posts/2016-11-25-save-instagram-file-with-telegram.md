@@ -22,11 +22,11 @@ tags:
 
 برای ذخیره ابتدا بر روی فایل مورد نظر خود در اینستاگرام راست کلیک کنید و گزینه *Copy Link Address* را انتخاب کنید.
 
-![itarfand-105](/files/2016/11/itarfand-105.jpg)
+![itarfand-105](/files/2016/11/itarfand-105.jpg)  
 
 اکنون از قسمت *Contact* تلگرام یک گفتگو با خودتان بسازید و لینک کپی شده را در آن *Paste* کنید.  
-![itarfand-106](/files/2016/11/itarfand-106.jpg)
+![itarfand-106](/files/2016/11/itarfand-106.jpg)  
 
 اکنون به راحتی می توانید عکس یا فیلم مورد نظر خود را ذخیره کنید.
 
-![itarfand-107](/files/2016/11/itarfand-107.jpg)
+![itarfand-107](/files/2016/11/itarfand-107.jpg)  

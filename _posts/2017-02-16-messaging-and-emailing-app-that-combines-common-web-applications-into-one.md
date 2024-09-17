@@ -42,26 +42,26 @@ tags:
 
 پس از نصب نرم افزار با پنجره زیر روبرو می شوید.
 
-![mhkarami97](/files/2017/02/itarfand-121.jpg)
+![mhkarami97](/files/2017/02/itarfand-121.jpg)  
 
 نرم افزار Rambox از بیشتر شبکه های اجتماعی پشتیبانی می کند که در زیر می توانید لیست آن ها را ببینید.
 
-![mhkarami97](/files/2017/02/itarfand-122.jpg)
+![mhkarami97](/files/2017/02/itarfand-122.jpg)  
 
-![mhkarami97](/files/2017/02/itarfand-123.jpg)
+![mhkarami97](/files/2017/02/itarfand-123.jpg)  
 
-![mhkarami97](/files/2017/02/itarfand-124.jpg)
+![mhkarami97](/files/2017/02/itarfand-124.jpg)  
 
-![mhkarami97](/files/2017/02/itarfand-125.jpg)
+![mhkarami97](/files/2017/02/itarfand-125.jpg)  
 
-![mhkarami97](/files/2017/02/itarfand-126.jpg)
+![mhkarami97](/files/2017/02/itarfand-126.jpg)  
 
 <span style="color: #0000ff;">**اضافه کردن شبکه اجتماعی**</span>
 
 برای این کار کافیست بر روی شبکه اجتماعی کلیک کنید و سپس گزینه *Add ChatWork* را بزنید.
 
-![mhkarami97](/files/2017/02/itarfand-127-1.jpg)
+![mhkarami97](/files/2017/02/itarfand-127-1.jpg)  
 
 <span style="color: #0000ff;">**تلگرام ساخته شده در این نرم افزار**</span>
 
-![mhkarami97](/files/2017/02/itarfand-127.jpg)
+![mhkarami97](/files/2017/02/itarfand-127.jpg)  

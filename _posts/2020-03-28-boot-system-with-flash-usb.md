@@ -11,8 +11,8 @@ categories:
 
 در این صفحه به سربرگ Boot بروید و ترتیب بوت را تغییر بدهید. اگر گزینه usb را مشاهده نمی کردید کافی است فلش خود را متصل کنید.
 
-![mhkarami97](/files/2020/03/itarfand-880-min.jpg)
-![mhkarami97](/files/2020/03/itarfand-882-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-880-min.jpg)  
+![mhkarami97](/files/2020/03/itarfand-882-min.jpg)  
 اکنون کافی است با زدن کلید F10 و یا رفتن به سربرگ Exit گزینه Save &amp; Exit را انتخاب کنید تا سیستم شما با بوت تعیین شده اجرا شود.
 
-![mhkarami97](/files/2020/03/itarfand-881-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-881-min.jpg)  

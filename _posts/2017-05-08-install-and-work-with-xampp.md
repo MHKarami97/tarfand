@@ -37,25 +37,25 @@ tags:
 
 اگر با ارور زیر روبرو شدید بر روی *Yes* کلیک کنید.
 
-![mhkarami97](/files/2017/05/itarfand-180.jpg)
+![mhkarami97](/files/2017/05/itarfand-180.jpg)  
 
 در صفحه زیر می توانید اجزایی که می خواهید نصب شوند را انتخاب کنید.
 
-![mhkarami97](/files/2017/05/itarfand-181.jpg)
+![mhkarami97](/files/2017/05/itarfand-181.jpg)  
 
 در این صفحه می توانید محل نصب نرم افزار را تغییر دهید.
 
-![mhkarami97](/files/2017/05/itarfand-182-1.jpg)
+![mhkarami97](/files/2017/05/itarfand-182-1.jpg)  
 
 <span style="color: #0000ff;">**کار با نرم افزار**</span>
 
 بعد از اجرا نرم افزار با صفحه زیر روبرو می شوید که با توجه به نیاز خود می توانید هرکدام را که خواستید با کلیک بر روی *Start* اجرا کنید.
 
-![mhkarami97](/files/2017/05/itarfand-183.jpg)
+![mhkarami97](/files/2017/05/itarfand-183.jpg)  
 
 اکنون با تایپ کلمه *localhost* در مرورگر خود می توانید به صفحه *PhpMyAdmin* دسترسی پیدا کنید.
 
-![mhkarami97](/files/2017/05/itarfand-184.jpg)
+![mhkarami97](/files/2017/05/itarfand-184.jpg)  
 
 <span style="color: #0000ff;">**اجرای فایل های PHP**</span>
 

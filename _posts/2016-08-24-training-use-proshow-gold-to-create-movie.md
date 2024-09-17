@@ -31,7 +31,7 @@ tags:
 
 هنگامی که برای اولین بار نرم افزار را اجرا می کنید با صفحه زیر روبرو می شوید که به معنی فعال نبودن نرم افزار است.
 
-![mhkarami97](/files/2016/08/itarfand-13.jpg)
+![mhkarami97](/files/2016/08/itarfand-13.jpg)  
 
 برای فعال سازی فایل کرک را *( از این لینک )* دانلود کنید و آن ها را از حالت فشرده خارج کنید.
 
@@ -39,65 +39,65 @@ tags:
 
 <span style="color: #993300;">*C:\\Program Files (x86)\\Photodex\\ProShow Gold*</span>
 
-![mhkarami97](/files/2016/08/itarfand-14.jpg)
+![mhkarami97](/files/2016/08/itarfand-14.jpg)  
 
 اکنون فایل *Patch* را به صورت ***Run As Administrator*** اجرا نمایید.
 
-![mhkarami97](/files/2016/08/itarfand-15.jpg)
+![mhkarami97](/files/2016/08/itarfand-15.jpg)  
 
 بر روی گزینه *Patch* کلیک کنید و صبر کنید تا پیغام *Ok* نمایش داده شود.
 
-![mhkarami97](/files/2016/08/itarfand-16.jpg)
+![mhkarami97](/files/2016/08/itarfand-16.jpg)  
 
 اکنون اگر نرم افزار را اجرا کنید می بینید که دیگر آن پیغام نمایش داده نمی شود.
 
-![mhkarami97](/files/2016/08/itarfand-17.jpg)
+![mhkarami97](/files/2016/08/itarfand-17.jpg)  
 
 <span style="color: #0000ff;">**ساخت کلیپ از عکس ها**</span>
 
 برای افزودن عکس های مورد نظر ابتدا از قسمت *Folder List* به پوشه مورد نظر بروید و بر روی عکس هایی که می خواهید کلیک کنید و یا آن ها را کشیده و در قسمت سفید رنگ رها کنید.
 
-![mhkarami97](/files/2016/08/itarfand-18.jpg)
+![mhkarami97](/files/2016/08/itarfand-18.jpg)  
 
 برای افزودن موسیقی به کلیپ خود از قسمت بالا گزینه *Music* را انتخاب کرده و یا از کلید های ترکیبی Ctrl+M استفاده کنید و سپس مانند عکس زیر عمل کنید.
 
-![mhkarami97](/files/2016/08/itarfand-19.jpg)
+![mhkarami97](/files/2016/08/itarfand-19.jpg)  
 
-![mhkarami97](/files/2016/08/itarfand-21.jpg)
+![mhkarami97](/files/2016/08/itarfand-21.jpg)  
 
 برای قرار دادن افکت بر روی عکس راست کلید کرده و گزینه *Slide Option* را انتخاب کنید.
 
-![mhkarami97](/files/2016/08/itarfand-22.jpg)
+![mhkarami97](/files/2016/08/itarfand-22.jpg)  
 
 اکنون می توانید از قسمت مشخص شده در عکس زیر استایل مورد نظر خود را انتخاب کنید و سپس بر روی *Apply Style* در قسمت پایین کلیک کنید.
 
-![mhkarami97](/files/2016/08/itarfand-23.jpg)
+![mhkarami97](/files/2016/08/itarfand-23.jpg)  
 
 اگر استایل شما دارای تنظیمات مختلف بود ، آن ها در سمت چپ نمایش داده می شوند که می توانید آن ها را تغییر دهید. به طور مثال اگر افکت دارای متن بود مانند عکس زیر می توانید آن را تغییر دهید.
 
-![mhkarami97](/files/2016/08/itarfand-24.jpg)
+![mhkarami97](/files/2016/08/itarfand-24.jpg)  
 
 برای تغییر مدت زمان نمایش هر عکس مانند عکس زیر عمل کنید.
 
-![mhkarami97](/files/2016/08/itarfand-25.jpg)
+![mhkarami97](/files/2016/08/itarfand-25.jpg)  
 
 برای تغییر استایل پایانی هر عکس و شروع عکس بعدی می توانید قسمت مشخص شده در عکس زیر را انتخاب کنید.
 
-![mhkarami97](/files/2016/08/itarfand-26.jpg)
+![mhkarami97](/files/2016/08/itarfand-26.jpg)  
 
 برای خروجی گرفتن از کلیپ ساخته شده گزینه *Publish* را از قسمت بالا انتخاب و سپس گزینه *Custom Video File* را انتخاب کنید.
 
-![mhkarami97](/files/2016/08/itarfand-27.jpg)
+![mhkarami97](/files/2016/08/itarfand-27.jpg)  
 
 اکنون با توجه به کیفیت و حجم کلیپ مورد نظر می توانید قسمت های مشخص شده در عکس زیر را تغییر دهید.
 
-![mhkarami97](/files/2016/08/itarfand-28.jpg)
+![mhkarami97](/files/2016/08/itarfand-28.jpg)  
 
 <span style="color: #0000ff;">**افزودن استایل های بیشتر به نرم افزار**</span>
 
 برای این کار بعد از دانلود افکت های مورد نظر از اینترنت به طور مثال از لینک های زیر آن ها را به مسیر زیر اضافه کنید.
 
-[پارت اول](http://dl2.soft98.ir/soft/p-q/Photodex.ProShow.Producer.StylePacks.part1.rar) + [پارت دوم](http://dl2.soft98.ir/soft/p-q/Photodex.ProShow.Producer.StylePacks.part2.rar)
+[پارت اول](http://dl2.soft98.ir/soft/p-q/Photodex.ProShow.Producer.StylePacks.part1.rar) + [پارت دوم](http://dl2.soft98.ir/soft/p-q/Photodex.ProShow.Producer.StylePacks.part2.rar)  
 
 <span style="color: #993300;">*C:\\Program Files (x86)\\Photodex\\ProShow Gold\\styles*</span>
 
@@ -107,9 +107,9 @@ tags:
 
 ProShow Gold به طور پیش فرض از زبان فارسی پشتیبانی نمی کند ، اما شما توسط نرم افزار های زیر می توانید در محیط این نرم افزار به زبان فارسی بنویسید.
 
-[فارسی نویس مریم](http://maryamsoft.com/)
+[فارسی نویس مریم](http://maryamsoft.com/)  
 
-[پارسی نگار](http://soft98.ir/software/farsi/285-LeoMoon-ParsiNegar.html)
+[پارسی نگار](http://soft98.ir/software/farsi/285-LeoMoon-ParsiNegar.html)  
 
 <span style="color: #0000ff;">**فیلم آموزش فعال سازی و همچنین کلیپ نمونه ساخته شده:**</span>
 

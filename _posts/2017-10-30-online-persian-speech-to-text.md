@@ -27,7 +27,7 @@ tags:
 
 اکنون شروع به صحبت کنید تا گفتار شما به متن تبدیل شود.
 
-![mhkarami97](/files/2017/10/itarfand-574-min-1.jpg)
+![mhkarami97](/files/2017/10/itarfand-574-min-1.jpg)  
 
 <span style="color: #0000ff;">**سایت Google Docs**</span>
 
@@ -35,14 +35,14 @@ tags:
 
 برای این کار ابتدا به [*(این لینک)*](https://docs.google.com/document/u/0/) بروید و سپس بر روی *Blank* کلیک کنید.
 
-![mhkarami97](/files/2017/10/itarfand-571-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-571-min.jpg)  
 
 سپس از سربرگ *Tool* گزینه *Voice Typing* را انتخاب کنید.
 
-![mhkarami97](/files/2017/10/itarfand-572-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-572-min.jpg)  
 
 سپس زبان فارسی را انتخاب کنید و بر روی آیکون میکروفون کلیک کنید و سپس در پیغام نمایش داده شده بر روی *Allow* کلیک کنید تا دسترسی شنیدن صدا را به این سایت بدهید.
 
 اکنون کافی است صحبت کنید تا متن آن را تحویل بگیرید.
 
-![mhkarami97](/files/2017/10/itarfand-573-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-573-min.jpg)  

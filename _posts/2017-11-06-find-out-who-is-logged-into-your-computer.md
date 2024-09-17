@@ -51,21 +51,21 @@ tags:
 
 ابتدا کلمه *gpedit.msc* را در ویندوز خود جستجو کنید تا صفحه زیر باز شود و سپس مانند عکس گزینه *Audit logon events* را انتخاب کنید.
 
-![mhkarami97](/files/2017/11/itarfand-576-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-576-min.jpg)  
 
 سپس در پنجره باز شده دو گزینه *Success* و *Failure* را فعال کنید.
 
-![mhkarami97](/files/2017/11/itarfand-577-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-577-min.jpg)  
 
 <span style="color: #0000ff;">**مشاهده افراد وارد شده به ویندوز**</span>
 
 اکنون کلمه *Event Viewer* را در ویندوز جستجو کنید و مانند عکس زیر به قسمت *Security* بروید.
 
-![mhkarami97](/files/2017/11/itarfand-578-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-578-min.jpg)  
 
 در وسط صفحه گزینه هایی که *ID* آن ها برابر *۴۶۲۴* می باشد موفق به ورود به رایانه شما شده اند که با کلیک بر روی آن ها می توانید ویژگی های بیشتری از آن را ببینید.
 
-![mhkarami97](/files/2017/11/itarfand-579-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-579-min.jpg)  
 
 <span style="color: #0000ff;">**دانستن فعالیت های انجام شده در رایانه**</span>
 
@@ -73,7 +73,7 @@ tags:
 
 نرم افزار *LastActivityView* به ترتیب از بالا به پایین لیست آخرین فعالیت های انجام شده در رایانه را نمایش می دهد.
 
-![mhkarami97](/files/2017/11/itarfand-626.jpg)
+![mhkarami97](/files/2017/11/itarfand-626.jpg)  
 
 <span style="color: #0000ff;">**دانستن وصل شدن USB به رایانه**</span>
 
@@ -81,7 +81,7 @@ tags:
 
 نرم افزار *usbdeview* لیست تمام وسیله های جانبی متصل شده به دستگاه شما را نمایش می دهد که با کلیک بر روی گزینه تاریخ می توانید آن ها را بر حسب آخرین زمان متصل شدن مرتب کنید.
 
-![mhkarami97](/files/2017/11/itarfand-625.jpg)
+![mhkarami97](/files/2017/11/itarfand-625.jpg)  
 
 همچنین می توانید با جستجو کلمه *regedit* و رفتن به آدرس زیر لیست دستگاه های متصل شده به رایانه را مشاهده کنید.
 
@@ -91,4 +91,4 @@ tags:
 
 Disk&amp;Ven\_PHD\_3.0&amp;Prod\_<span style="color: #008000;">Silicon-Power</span>&amp;Rev\_0
 
-![mhkarami97](/files/2017/11/itarfand-624.jpg)
+![mhkarami97](/files/2017/11/itarfand-624.jpg)  

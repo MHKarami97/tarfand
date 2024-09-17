@@ -19,32 +19,32 @@ tags:
 
 ابتدا در قسمت جستجو کلمه Feedback را جستجو کنید.
 
-![mhkarami97](/files/2020/04/itarfand-897-min.jpg)
+![mhkarami97](/files/2020/04/itarfand-897-min.jpg)  
 
 سپس در قسمت باز شده گزینه Basic را انتخاب کنید، با انتخاب این گزینه هم اطلاعات شما به سرورهای ماکروسافت فرستاده نمی شود و هم مقدار زیادی از هارد و همچنین اینترنت شما ذخیره می شود.
 
-![mhkarami97](/files/2020/04/itarfand-898-min.jpg)
+![mhkarami97](/files/2020/04/itarfand-898-min.jpg)  
 **غیرفعال کردن Data Collection**
 
 ابتدا gpedit.msc را در قسمت Run ویندوز (Win+R) وارد کنید.
 
-![mhkarami97](/files/2020/04/itarfand-899-min-1.jpg)
+![mhkarami97](/files/2020/04/itarfand-899-min-1.jpg)  
 
 
 سپس در قسمت باز شده به آدرس مشخص شده در عکس بروید.
 
-![mhkarami97](/files/2020/04/itarfand-900-min-1.jpg)
+![mhkarami97](/files/2020/04/itarfand-900-min-1.jpg)  
 اکنون گزینه Allow Telemetry را انتخاب کنید و در صفحه باز شده Disable را انتخاب کنید.
 
-![mhkarami97](/files/2020/04/itarfand-901-min-1.jpg)
+![mhkarami97](/files/2020/04/itarfand-901-min-1.jpg)  
 **غیر فعال کردن Task Microsoft Compatibility AppRaiser**
 
 ابتدا در قسمت جستجو کلمه Task Scheduler را جستجو کنید.
 
-![mhkarami97](/files/2020/04/itarfand-902-min.jpg)
+![mhkarami97](/files/2020/04/itarfand-902-min.jpg)  
 در صفحه باز شده به آدرس مشخص شده در عکس بروید و گزینه مشخص شده را غیرفعال کنید.
 
-![mhkarami97](/files/2020/04/itarfand-903-min.jpg)
+![mhkarami97](/files/2020/04/itarfand-903-min.jpg)  
 **خالی کردن پوشه Temp**
 
 اگر روش های بالا برای شما کار نکرد، راه دیگر خالی کردن پوشه Temp ویندوز می باشد، برای دسترسی به این پوشه کلمه **%temp%** را در ویندوز جستجو کنید.

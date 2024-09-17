@@ -56,13 +56,13 @@ tags:
 
 هنگامی که نرم افزار را اجرا می کنید با صفحه زیر روبرو می شوید. برای اضافه کردن فایل از قسمت *File* گزینه *New* را انتخاب کنید.
 
-![itarfand- (59)](/files/2016/09/itarfand-59.jpg)
+![itarfand- (59)](/files/2016/09/itarfand-59.jpg)  
 
 <span style="color: #0000ff;">**بخش Source**</span>
 
 ابتدا از قسمت *Browse* پوشه قالب یا افزونه خود را انتخاب کنید و سپس *ورژن php* خود را از سمت راست انتخاب کنید.
 
-![itarfand- (60)](/files/2016/09/itarfand-60.jpg)
+![itarfand- (60)](/files/2016/09/itarfand-60.jpg)  
 
 <span style="color: #0000ff;">**بخش Target**</span>
 
@@ -70,37 +70,37 @@ tags:
 
 <span style="color: #800000;">*نکته: تیک گزینه Allow Target To Be Within The Source Tree را نیز بزنید.*</span>
 
-![itarfand- (61)](/files/2016/09/itarfand-61.jpg)
+![itarfand- (61)](/files/2016/09/itarfand-61.jpg)  
 
 <span style="color: #0000ff;">**بخش Restrictions**</span>
 
 در این بخش می توانید کاری کنید که فایل *فقط بر روی یک یا چند سایت* قابل اجرا باشد و یا *محدودیت زمانی* بر روی فایل قرار دهید. همچنین می توانید بر روی فایل *رمز* قرار دهید و یا فایلی به عنوان *license* برای ویرایش فایل قرار دهید تا کسی بدون آن نتواند فایل را ویرایش کند.
 
-![itarfand- (62)](/files/2016/09/itarfand-62.jpg)
+![itarfand- (62)](/files/2016/09/itarfand-62.jpg)  
 
 <span style="color: #0000ff;">**بخش customisation**</span>
 
 در این بخش با فعال بودن *Add Text* می توانید یک متن بنویسید که در فایل کد شده نیز نوشته شود.
 
-![itarfand- (63)](/files/2016/09/itarfand-63.jpg)
+![itarfand- (63)](/files/2016/09/itarfand-63.jpg)  
 
 <span style="color: #0000ff;">**بخش Messages**</span>
 
 در این بخش می توانید پیغامی که در حالت های مختلف مانند استفاده غیرمجاز از فایل یا نامعتبر بودن سریال نمایش داده می شود را وارد کنید.
 
-![itarfand- (64)](/files/2016/09/itarfand-64.jpg)
+![itarfand- (64)](/files/2016/09/itarfand-64.jpg)  
 
 بعد از اتمام تنظیمات بر روی *Ok* کلیک کنید و سپس بر روی گزینه زیر کلیک کنید تا رمزگذاری آغاز شود.
 
-![itarfand- (65)](/files/2016/09/itarfand-65.jpg)
+![itarfand- (65)](/files/2016/09/itarfand-65.jpg)  
 
 اگر با پیغام زیر مواجه شدید کارهای گفته شده در بخش فعال سازی در آخر پست را انجام دهید.
 
-![itarfand- (66)](/files/2016/09/itarfand-66.jpg)
+![itarfand- (66)](/files/2016/09/itarfand-66.jpg)  
 
 اکنون کدگذاری انجام شده است و می توانید از فایل کد شده خود استفاده کنید.
 
-![itarfand- (67)](/files/2016/09/itarfand-67.jpg)
+![itarfand- (67)](/files/2016/09/itarfand-67.jpg)  
 
 <span style="color: #0000ff;">**فعال سازی نرم افزار**</span>
 

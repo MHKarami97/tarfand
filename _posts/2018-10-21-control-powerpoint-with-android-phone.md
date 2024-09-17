@@ -20,28 +20,28 @@ tags:
 
  اکنون افزونه آن را به صورت زیر نصب کنید:
 
- ![mhkarami97](/files/2018/10/itarfand-832-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-832-min.jpg)  
 
  اکنون بلوتوث موبایل و لپ تاپ خود را روشن کنید و در قسمت تنظیمات دو دستگاه خود را Pair کنید.
 
- ![mhkarami97](/files/2018/10/itarfand-834-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-834-min.jpg)  
 
- ![mhkarami97](/files/2018/10/itarfand-835-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-835-min.jpg)  
 
- ![mhkarami97](/files/2018/10/itarfand-836-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-836-min.jpg)  
 
  اکنون نرم افزار آفیس خود مانند Power Point را اجرا کنید و به سربرگ Office Remote بروید و آن را Turn On کنید.
 
- ![mhkarami97](/files/2018/10/itarfand-833-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-833-min.jpg)  
 
  اکنون در دستگاه اندرویدی خود نام لپ تاپ خود را انتخاب کنید.
 
- ![mhkarami97](/files/2018/10/itarfand-838-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-838-min.jpg)  
 
  در صفحه بعد می توانید لیستی از فایل های آفیس که در لپ تاپ باز می باشند را مشاهده کنید.
 
- ![mhkarami97](/files/2018/10/itarfand-837-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-837-min.jpg)  
 
  اکنون می توانید فایل خود را با موبایل کنترل کنید و زمان گذشته و صفحه های اسلاید را نیز در اندروید مشاهده کنید. از ویژگی های دیگر آن می تواند به شبیه سازی لیزر با نگه داشتن انگشت در نقطه ای که می خواهید در اندروید اشاره کرد.
 
- ![mhkarami97](/files/2018/10/itarfand-839-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-839-min.jpg)  

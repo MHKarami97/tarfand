@@ -28,15 +28,15 @@ tags:
 
 اکنون ویندوز بوتیل را بر روی فلش یا *CD* رایت کنید و سیستمی که مشکلی با *Deep Freeze* نداشت را با آن بوت کنید.
 
-![mhkarami97](/files/2016/10/itarfand-88.jpg)
+![mhkarami97](/files/2016/10/itarfand-88.jpg)  
 
 اکنون وارد *My Computer* شوید و سپس وارد درایوی که ویندوز را بر روی آن نصب کرده اید شوید.
 
-![itarfand-89](/files/2016/10/itarfand-89.jpg)
+![itarfand-89](/files/2016/10/itarfand-89.jpg)  
 
 اکنون فایلی به نام *Persi0.sys* را بر روی فلش کپی کنید.
 
-![itarfand-90](/files/2016/10/itarfand-90.jpg)
+![itarfand-90](/files/2016/10/itarfand-90.jpg)  
 
 اکنون سیستم مشکل دار خود را با ویندوز بوتیل بالا بیاورید.
 

@@ -29,11 +29,11 @@ tags:
 
 نکته : *مدت زمان لود شدن فایل کمی طولانی است.*
 
-![itarfand- (39)](/files/2016/08/itarfand-39.jpg)
+![itarfand- (39)](/files/2016/08/itarfand-39.jpg)  
 
 بعد از لود شدن فایل در قسمت چپ تنظیمات مختلفی نمایش داده می شود که به توضیح آن ها می پردازیم.
 
-![itarfand- (40)](/files/2016/08/itarfand-40.jpg)
+![itarfand- (40)](/files/2016/08/itarfand-40.jpg)  
 
 <span style="color: #0000ff;">**قسمت Removals**</span>
 
@@ -41,13 +41,13 @@ tags:
 
 <span style="color: #800000;">نکته: *ایجاد تغییر زیاد در این قسمت باعث خرابی ویندوز می شود.*</span>
 
-![itarfand- (41)](/files/2016/08/itarfand-41.jpg)
+![itarfand- (41)](/files/2016/08/itarfand-41.jpg)  
 
 <span style="color: #0000ff;">**قسمت Features**</span>
 
 این قسمت مربوط به ویژگی های ویندوز می باشد که می توانید آن ها راپاک کنید و یا بعضی از آن ها را اضافه کنید.
 
-![itarfand- (43)](/files/2016/08/itarfand-43.jpg)
+![itarfand- (43)](/files/2016/08/itarfand-43.jpg)  
 
 <span style="color: #0000ff;">**قسمت Updates**</span>
 
@@ -55,11 +55,11 @@ tags:
 
 <span style="color: #800000;">نکته : *بعضی آپدیت ها با ویندوز سازگار نیست ، پس در انتخاب خود دقت کنید.*</span>
 
-![itarfand- (44)](/files/2016/08/itarfand-44.jpg)
+![itarfand- (44)](/files/2016/08/itarfand-44.jpg)  
 
 به طور مثال برای اضافه کردن *Net Framework 3.5* می توانید مانند عکس زیر عمل کنید.
 
-![itarfand- (45)](/files/2016/08/itarfand-45.jpg)
+![itarfand- (45)](/files/2016/08/itarfand-45.jpg)  
 
 <span style="color: #0000ff;">**بخش Drivers**</span>
 
@@ -69,7 +69,7 @@ tags:
 
 <span style="color: #800000;">نکته : *از اضافه کردن درایو کارت گرافیک خودداری کنید.*</span>
 
-![itarfand- (46)](/files/2016/08/itarfand-46.jpg)
+![itarfand- (46)](/files/2016/08/itarfand-46.jpg)  
 
 <span style="color: #0000ff;">**بخش Setting**</span>
 
@@ -77,7 +77,7 @@ tags:
 
 <span style="color: #800000;">نکته : *از غیر فعال کردن تنظیمات حساس خودداری کنید.*</span>
 
-![itarfand- (47)](/files/2016/08/itarfand-47.jpg)
+![itarfand- (47)](/files/2016/08/itarfand-47.jpg)  
 
 <span style="color: #0000ff;">**بخش Unattended**</span>
 
@@ -85,7 +85,7 @@ tags:
 
 برای تغییر در این قسمت ابتدا گزینه *Enable* را انتخاب کنید.
 
-![itarfand- (48)](/files/2016/08/itarfand-48.jpg)
+![itarfand- (48)](/files/2016/08/itarfand-48.jpg)  
 
 <span style="color: #0000ff;">**قسمت Post-Setup**</span>
 
@@ -93,7 +93,7 @@ tags:
 
 برای اضافه کردن نرم افزار می توانید از گزینه *Add* استفاده کنید.
 
-![itarfand- (49)](/files/2016/08/itarfand-49.jpg)
+![itarfand- (49)](/files/2016/08/itarfand-49.jpg)  
 
 نرم افزار ها قبل از زمان بوت و به صورت *Silent* نصب می شوند که کنترل نصب آن ها سخت است.
 
@@ -101,7 +101,7 @@ tags:
 
 پارامترهای مربوط به نصب خودکار به صورت *q , /quiet , /passive/* می باشد.
 
-![itarfand- (50)](/files/2016/08/itarfand-50.jpg)
+![itarfand- (50)](/files/2016/08/itarfand-50.jpg)  
 
 <span style="color: #0000ff;">**بخش Apply**</span>
 
@@ -109,7 +109,7 @@ tags:
 
 ابتدا از فعال بودن دو گزینه زیر اطمینان حاصل کنید.
 
-![itarfand- (51)](/files/2016/08/itarfand-51.jpg)
+![itarfand- (51)](/files/2016/08/itarfand-51.jpg)  
 
 محل ذخیره فایل ویندوز و نام آن را در صفحه ای که به طور اتومات باز می شود انتخاب کنید و سپس بر روی *Start* کلیک کنید.
 

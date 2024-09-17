@@ -16,8 +16,8 @@ tags:
 
  بعد از باز کردن فتوشاپ از سربرگ *Edit* گزینه *Prefences* و سپس *General* را انتخاب کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-746-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-746-min.jpg)  
 
  اکنون به بخش *Scratch Disk* بروید. در این قسمت می توانید محل پیش فرض پوشه تمپ نرم افزار را انتخاب کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-747-min.jpg)
+ ![mhkarami97](/files/2018/07/itarfand-747-min.jpg)  

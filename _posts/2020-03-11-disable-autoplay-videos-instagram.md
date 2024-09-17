@@ -18,11 +18,11 @@ tags:
 
 ابتدا به پروفایل خود بروید و مانند عکس گزینه Setting را انتخاب کنید.
 
-![mhkarami97](/files/2020/03/itarfand-857-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-857-min.jpg)  
 سپس در صفحه باز شده گزینه Account را انتخاب کنید.
 
-![mhkarami97](/files/2020/03/itarfand-858-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-858-min.jpg)  
 اکنون گزینه Mobile Data Use را انتخاب کنید.
 
-![mhkarami97](/files/2020/03/itarfand-859-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-859-min.jpg)  
 اکنون در صفحه باز شده کافی است گزینه Data Saver را فعال کنید تا دیگر ویدیو ها به صورت خودکار پخش نشوند.

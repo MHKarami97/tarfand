@@ -22,13 +22,13 @@ tags:
 
 بعد از دانلود و اجرا، از قسمت پایین راست، بر روی (لیست) که با ۳ خط روی هم مشخص شده کلیک کنید.
 
-![mhkarami97](/files/2020/11/itarfand-932-min.jpg)
+![mhkarami97](/files/2020/11/itarfand-932-min.jpg)  
 اکنون بر وری ADD کلیک کنید. و گزینه (افزودن آدرس) را انتخاب کنید.
 
-![mhkarami97](/files/2020/11/itarfand-933-min.jpg)
+![mhkarami97](/files/2020/11/itarfand-933-min.jpg)  
 در صفحه باز شده، آدرس فیلم مورد نظر خود را وارد کنید.
 
-![mhkarami97](/files/2020/11/itarfand-934-min.jpg)
+![mhkarami97](/files/2020/11/itarfand-934-min.jpg)  
 اکنون با انتخاب لینک اضافه شده می‌توانید فیلم مورد نظر خود را بدون نیاز به صبر کردن برای دانلود کامل آن مشاهده کنید.
 
-![mhkarami97](/files/2020/11/itarfand-935-min.jpg)
+![mhkarami97](/files/2020/11/itarfand-935-min.jpg)  

@@ -44,89 +44,89 @@ tags:
 
 بعد از رایت کردن فایل شما باید سیستم خود را *Reboot* کنید تا بتوانید ویندوز را نصب کنید. در زمانی که آیکون شرکت تولید کننده لپ تاپ شما نمایش داده می شود چند بار کلید<span style="color: #339966;"> *f12 و یا fn + f12 یا del یا f2* </span>را بزنید و به سربرگ *Boot* بروید و با توجه به این که فایل را بر روی *USB* و یا *DVD* رایت کرده اید گزینه بوت اول را بر روی آن قرار دهید.
 
-![mhkarami97](/files/2017/08/itarfand-490-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-490-min.jpg)  
 
 <span style="color: #0000ff;">**نصب ویندوز**</span>
 
 بعد از انجام کارهای بالا سیستم شما دوباره روشن خواهد شد و بعد از زدن یک کلید دلخواه با صفحه زیر روبرو می شوید که در گزینه مشخص شده باید *Persian* را انتخاب کنید.
 
-![mhkarami97](/files/2017/08/itarfand-448-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-448-min.jpg)  
 
 در صفحه باز شده می توانید ویندوز جدید نصب کنید و یا ویندوز خود را تعمیر کنید.
 
-![mhkarami97](/files/2017/08/itarfand-449-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-449-min.jpg)  
 
 تیک گزینه مشخص شده را بزنید و سپس بر روی *Next* کلیک کنید.
 
-![mhkarami97](/files/2017/08/itarfand-450-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-450-min.jpg)  
 
 در صفحه باز شده گزینه *Custom* را انتخاب کنید.
 
-![mhkarami97](/files/2017/08/itarfand-451-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-451-min.jpg)  
 
 در صفحه باز شده می توانید یک درایو برای نصب ویندوز انتخاب کنید و با دکمه *Format* نیز می توانید اطلاعات آن را پاک کنید.
 
 <span style="color: #339966;">*نکته :* دکمه *Delete* پارتیشن انتخاب شده را حذف می کند.</span>
 
-![mhkarami97](/files/2017/08/itarfand-452-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-452-min.jpg)  
 
 اکنون عملیات نصب ویندوز شروع شده و پس از مدتی سیستم ریست می شود.
 
-![mhkarami97](/files/2017/08/itarfand-453-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-453-min.jpg)  
 
 پس از روشن شدن دوباره سیستم با صفحه زیر روبرو می شوید که باید تا اتمام آن صبر کنید.
 
-![mhkarami97](/files/2017/08/itarfand-454-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-454-min.jpg)  
 
 سپس صفحه زیر نمایش داده می شود.
 
-![mhkarami97](/files/2017/08/itarfand-455-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-455-min.jpg)  
 
 در صفحه زیر شما باید کشور خود را انتخاب کنید.
 
-![mhkarami97](/files/2017/08/itarfand-456-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-456-min.jpg)  
 
-در این صفحه شما باید صفحه کلید اصلی را انتخاب کنید. ( گزینه US را انتخاب کنید)
+در این صفحه شما باید صفحه کلید اصلی را انتخاب کنید. ( گزینه US را انتخاب کنید)  
 
-![mhkarami97](/files/2017/08/itarfand-457-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-457-min.jpg)  
 
 در این صفحه بر روی *Add LayOut* کلیک کنید.
 
-![mhkarami97](/files/2017/08/itarfand-458-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-458-min.jpg)  
 
 در این صفحه گزینه *Persian* را انتخاب بکنید و در صفحه بعد گزینه *Persian Standard* را انتخاب کنید.
 
-![mhkarami97](/files/2017/08/itarfand-459-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-459-min.jpg)  
 
-![mhkarami97](/files/2017/08/itarfand-460-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-460-min.jpg)  
 
 صفحه باز شده برای اتصال به اینترنت می باشد پس بر روی *Skip For Now* کلیک کنید.
 
-![mhkarami97](/files/2017/08/itarfand-461-min-1.jpg)
+![mhkarami97](/files/2017/08/itarfand-461-min-1.jpg)  
 
 اکنون شما باید یک نام برای ویندوز خود انتخاب بکنید.
 
-![mhkarami97](/files/2017/08/itarfand-462-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-462-min.jpg)  
 
 در صفحه های بعد باید ابتدا یک رمز عبور برای ویندوز خود قرار بدهید و سپس با وارد کردن دوباره آن را تایید کنید و یک یادآورد برای مواقع فراموشی رمز عبور قرار بدهید.
 
-![mhkarami97](/files/2017/08/itarfand-463-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-463-min.jpg)  
 
-![mhkarami97](/files/2017/08/itarfand-464-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-464-min.jpg)  
 
-![mhkarami97](/files/2017/08/itarfand-465-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-465-min.jpg)  
 
 صفحه نمایش داده شده برای تنظیمات حریم شخصی می باشد. بعد از تغییرات دلخواه در آن بر روی *Accept* کلیک کنید.
 
-![mhkarami97](/files/2017/08/itarfand-466-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-466-min.jpg)  
 
 اکنون صفحه زیر نمایش داده می شود که به معنی اتمام نصب می باشد.
 
-![mhkarami97](/files/2017/08/itarfand-467-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-467-min.jpg)  
 
 ویندوز شما نصب شده است و اکنون می توانید از آن استفاده بکنید.
 
-![mhkarami97](/files/2017/08/itarfand-468-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-468-min.jpg)  
 
 <span style="color: #3366ff;">**نرم افزار رایت ویندوز:**</span>
 

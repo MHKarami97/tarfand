@@ -43,47 +43,47 @@ tags:
 
 ابتدا در قسمت جستجو کلمه *Network And Sharing Center* را تایپ کنید و سپس *Change Advance Sharing Settings* را انتخاب کنید.
 
-![mhkarami97](/files/2017/03/itarfand-129-1.jpg)
+![mhkarami97](/files/2017/03/itarfand-129-1.jpg)  
 
 اکنون تنظیمات را مانند عکس زیر انجام دهید.
 
-![mhkarami97](/files/2017/03/itarfand-130.jpg)
+![mhkarami97](/files/2017/03/itarfand-130.jpg)  
 
 *Password Protected* را بر روی *Off* قرار دهید.
 
-![mhkarami97](/files/2017/03/itarfand-131.jpg)
+![mhkarami97](/files/2017/03/itarfand-131.jpg)  
 
 بعد از انجام کارهای بالا بر روی فایلی که می خواهید منتقل کنید راست کلیک کرده و *Share With* را انتخاب کنید.
 
-![mhkarami97](/files/2017/03/itarfand-132.jpg)
+![mhkarami97](/files/2017/03/itarfand-132.jpg)  
 
 اکنون مانند عکس زیر گزینه *Every One* را انتخاب کنید.
 
-![mhkarami97](/files/2017/03/itarfand-133.jpg)
+![mhkarami97](/files/2017/03/itarfand-133.jpg)  
 
 سپس *Permission* آن را بر روی *Read/Write* قرار دهید.
 
-![mhkarami97](/files/2017/03/itarfand-134.jpg)
+![mhkarami97](/files/2017/03/itarfand-134.jpg)  
 
 بعد از این کار فرد مقابل می تواند این فایل را از قسمت *Network* در رایانه خود کپی کند.
 
 اگر رایانه های خود و فرد مقابل را در این قسمت مشاهده نکردید چند دقیقه صبر کنید.
 
-![mhkarami97](/files/2017/03/itarfand-135.jpg)
+![mhkarami97](/files/2017/03/itarfand-135.jpg)  
 
 <span style="color: #0000ff;">**اتصال دو LapTop توسط Wireless**</span>
 
 برای این کار در قسمت *Network And Sharing Center* بر روی *Set Up A New Connection* کلیک کنید و سپس *Manually Connect To A Wireless* را انتخاب کنید.
 
-![mhkarami97](/files/2017/03/itarfand-136.jpg)
+![mhkarami97](/files/2017/03/itarfand-136.jpg)  
 
 در این قسمت باید برای شبکه خود نام و رمز عبور انتخاب کنید.
 
-![mhkarami97](/files/2017/03/itarfand-137.jpg)
+![mhkarami97](/files/2017/03/itarfand-137.jpg)  
 
 در صورت مشاهده پیام زیر شبکه با موفقیت ساخته شده است و فرد مقابل می تواند به آن متصل شود.
 
-![mhkarami97](/files/2017/03/itarfand-138.jpg)
+![mhkarami97](/files/2017/03/itarfand-138.jpg)  
 
 برای انتقال اطلاعات شما باید یک *HomeGroup* بسازید.
 
@@ -93,14 +93,14 @@ tags:
 
 در صورت مشاهده این خطا به اینترنت متصل شوید و سپس مانند عکس زیر عمل کنید.
 
-![mhkarami97](/files/2017/03/itarfand-139.jpg)
+![mhkarami97](/files/2017/03/itarfand-139.jpg)  
 
 در این صفحه می توانید مشخص کنید که کدام پوشه ها *Share* شوند.
 
-![mhkarami97](/files/2017/03/itarfand-140.jpg)
+![mhkarami97](/files/2017/03/itarfand-140.jpg)  
 
 پس از این کار شما یک رمز مشاهده می کنید که فرد مقابل باید در همان صفحه *Home Group* و قسمت *Connect To HomeGroup* آن را وارد کند.
 
-![mhkarami97](/files/2017/03/itarfand-141.jpg)
+![mhkarami97](/files/2017/03/itarfand-141.jpg)  
 
 اکنون می توانید به راحتی فایل های حجیم خود را با سرعتی بیش از MB/S *۹۰* منتقل کنید.

@@ -23,14 +23,14 @@ tags:
 
 در صفحه باز شده میتوانید لیست تمام افراد متصل به اینترنت را ببینید.
 
-![mhkarami97](/files/2020/11/itarfand-954-min.jpg)
+![mhkarami97](/files/2020/11/itarfand-954-min.jpg)  
 اکنون به سربرگ Interface Setup و سپس Wireless بروید.
 
-![mhkarami97](/files/2020/11/itarfand-955-min.jpg)
+![mhkarami97](/files/2020/11/itarfand-955-min.jpg)  
 در این قسمت کافی است گزینه Active را انتخاب کنید و سپس مانند عکس زیر گزینه Deny Association را انتخاب کنید و افرادی که نمیخواید به اینترنت متصل شوند را در قسمت های پایین آن وارد کنید.
 
 برای بدست آوردن mac افراد نیز میتوانید از همان صفحه اول که لیست تمام افراد متصل نشان داده شده بود استفاده کنید.
 
 همچنین در این قسمت میتوانید گزینه Allow Association را انتخاب کنید و لیست افرادی که اجازه اتصال دارند را وارد کنید.
 
-![mhkarami97](/files/2020/11/itarfand-956-min.jpg)
+![mhkarami97](/files/2020/11/itarfand-956-min.jpg)  

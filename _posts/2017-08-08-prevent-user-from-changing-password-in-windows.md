@@ -22,10 +22,10 @@ tags:
 
 در صفحه باز شده از قسمت چپ بر روی *User* کلیک کنید و سپس بر روی کاربری که می خواهید این محدودیت را بر روی آن قرار بدهید راست کلیک کنید و گزینه *Properties* را انتخاب کنید.
 
-![mhkarami97](/files/2017/08/itarfand-405-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-405-min.jpg)  
 
 در صفحه باز شده تیک گزینه *User cannot change password* را بزنید.
 
-![mhkarami97](/files/2017/08/itarfand-406-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-406-min.jpg)  
 
 بعد از این کار کاربر مورد نظر دیگر امکان تغییر رمز عبور را ندارد.

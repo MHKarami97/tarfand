@@ -31,45 +31,45 @@ tags:
 
 ابتدا به سایت [multcloud](https://www.multcloud.com/sign?method=up&tc=51feffd65ff9cd94015ffe65d815046d) بروید و در آن ثبت نام کنید.
 
-![mhkarami97](/files/2017/12/itarfand-631-min.jpg)
+![mhkarami97](/files/2017/12/itarfand-631-min.jpg)  
 
 اکنون کافی است حافظه های ابری خود مانند گوگل درایو یا مگادانلود را از قسمت *Add Cloud* اضافه کنید.
 
-![mhkarami97](/files/2017/12/itarfand-634-min.jpg)
+![mhkarami97](/files/2017/12/itarfand-634-min.jpg)  
 
 <span style="color: #0000ff;">**آپلود فایل با آدرس و از رایانه**</span>
 
 یکی از مشکلاتی که گوگل درایو دارد عدم امکان آپلود از طریق آدرس می باشد ، اما توسط این سایت می توانید به راحتی و انتخاب حافظه خود از سمت چپ توسط آدرس و یا از رایانه خود در حافظه مورد نظر فایل آپلود کنید.
 
-![mhkarami97](/files/2017/12/itarfand-638-min.jpg)
+![mhkarami97](/files/2017/12/itarfand-638-min.jpg)  
 
 <span style="color: #0000ff;">**انتقال فایل به حافظه ها**</span>
 
 برای انتقال فایل کافی است از قسمت بالا گزینه *Cloud Transfer* را انتخاب کنید و سپس ابتدا فایل هایی که می خواهید منتقل کنید و سپس حافظه ای که فایل ها به آن منتقل می شود را انتخاب کنید.
 
-![mhkarami97](/files/2017/12/itarfand-633-min.jpg)
+![mhkarami97](/files/2017/12/itarfand-633-min.jpg)  
 
 بعد از این کار با انتخاب گزینه مشخص شده می توانید انتقال فایل ها را مشاهده کنید.
 
-![mhkarami97](/files/2017/12/itarfand-632-min.jpg)
+![mhkarami97](/files/2017/12/itarfand-632-min.jpg)  
 
 <span style="color: #0000ff;">**مشاهده وضعیت حافظه ها**</span>
 
 برای مشاهده مقدار فضای استفاده شده از حافظه ها گزینه *Cloud Explore* را انتخاب کنید.
 
-![mhkarami97](/files/2017/12/itarfand-635-min.jpg)
+![mhkarami97](/files/2017/12/itarfand-635-min.jpg)  
 
 <span style="color: #0000ff;">**همگام سازی حافظه ها**</span>
 
 برای همگام سازی دو حافظه به صورتی که اگر فایلی در یکی اضافه شد در دیگری هم اضافه شود کافی است گزینه *Cloud Sync* را انتخاب کنید و حافظه های خود را اضافه کنید.
 
-![mhkarami97](/files/2017/12/itarfand-636-min.jpg)
+![mhkarami97](/files/2017/12/itarfand-636-min.jpg)  
 
 <span style="color: #0000ff;">**اضافه کردن زیر حساب**</span>
 
 نسخه رایگان این سایت محدودیت انتقال ۲ ترابایت اطلاعات را دارد اما شما می توانید با کلیک بر روی نام کاربری خود در بالا راست و انتخاب *Sub Account* چند حساب دیگر از این سایت ایجاد و به آن اضافه کنید.
 
-![mhkarami97](/files/2017/12/itarfand-637-min.jpg)
+![mhkarami97](/files/2017/12/itarfand-637-min.jpg)  
 
 <span style="color: #0000ff;">**انتقال فایل بین هاست**</span>
 

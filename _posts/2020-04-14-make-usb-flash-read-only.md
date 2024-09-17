@@ -9,11 +9,11 @@ categories:
 
 ابتدا نیاز است که فلش خود را به صورت NTFS فرمت کنید، برای این کار بر روی آن راست کلیک کنید و گزینه Format را انتخاب کنید و مانند عکس عمل کنید.
 
-![mhkarami97](/files/2020/04/itarfand-905-min-1.jpg)
+![mhkarami97](/files/2020/04/itarfand-905-min-1.jpg)  
 بعد از فرمت شدن بر روی آن راست کلیک کنید و Properties را انتخاب کنید. سپس به سربرگ Security بروید و گزینه Edit را انتخاب کنید.
 
-![mhkarami97](/files/2020/04/itarfand-906-min.jpg)
+![mhkarami97](/files/2020/04/itarfand-906-min.jpg)  
 اکنون Every one را از بالا انتخاب کنید و از قسمت بالا همه گزینه ها را بجز Read را بر روی Deny قرار بدهید.
 
-![mhkarami97](/files/2020/04/itarfand-907-min-1.jpg)
+![mhkarami97](/files/2020/04/itarfand-907-min-1.jpg)  
 با انجام این کار دیگر کسی نمی تواند بر روی فلش شما تغییری ایجاد کند.

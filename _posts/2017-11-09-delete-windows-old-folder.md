@@ -38,18 +38,18 @@ tags:
 
 ابتدا کلمه *Disk Cleanup* را در ویندوز جستجو کنید و سپس درایوی که پوشه در آن می باشد را انتخاب کنید. سپس در صفحه باز شده بر روی *Clean Up System File* کلیک کنید.
 
-![mhkarami97](/files/2017/11/itarfand-588-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-588-min.jpg)  
 
 بعد از این کار ویندوز شروع به جستجو در درایو مورد نظر می کند.
 
-![mhkarami97](/files/2017/11/itarfand-589-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-589-min.jpg)  
 
 سپس در صفحه باز شده تیک گزینه *Previous Windows Installation* و *Temporary Windows installation files* را بزنید.
 
-![mhkarami97](/files/2017/11/itarfand-590-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-590-min.jpg)  
 
 بعد از این کار صفحه ای برای تایید عملیات پاک کردن پوشه مورد نظر نمایش داده می شود که باید بر روی *Yes* کلیک کنید.
 
-![mhkarami97](/files/2017/11/itarfand-591-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-591-min.jpg)  
 
 اکنون ویندوز شروع به پاک کردن پوشه مورد نظر می کند و بعد از مدتی فضای درایو شما آزاد می شود.

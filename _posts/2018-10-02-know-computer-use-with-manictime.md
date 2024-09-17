@@ -52,16 +52,16 @@ tags:
 
  دقت کنید که از قسمت بالا حتما بر روی start کلیک کرده باشید و آیکون نرم افزار در قسمت پایین راست ویندوز قرمز نباشد.
 
- ![mhkarami97](/files/2018/10/itarfand-826-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-826-min.jpg)  
 
- ![mhkarami97](/files/2018/10/itarfand-827-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-827-min.jpg)  
 
  از ویژگی های خوب این نرم افزار می توان به قسمت گزارش گیری اشاره کرد که دارای قابلیت های بسیار زیاد می باشد.
 
- ![mhkarami97](/files/2018/10/itarfand-828-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-828-min.jpg)  
 
- ![mhkarami97](/files/2018/10/itarfand-829-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-829-min.jpg)  
 
  در قسمت تنظیمات نیز کارهای زیادی مانند تنظیم عکس گرفتن از صفحه و یا پشتیبان گیری خودکار اشاره کرد.
 
- ![mhkarami97](/files/2018/10/itarfand-830-min.jpg)
+ ![mhkarami97](/files/2018/10/itarfand-830-min.jpg)  

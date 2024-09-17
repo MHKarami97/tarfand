@@ -30,20 +30,20 @@ tags:
 
 <span style="color: #800000;">[PDF To JPG](https://pdf2jpg.net/)</span>
 
-![mhkarami97](/files/2017/04/itarfand-155.jpg)
+![mhkarami97](/files/2017/04/itarfand-155.jpg)  
 
 اکنون کافی است به آدرس زیر بروید و فایل های خود را آپلود کنید.
 
 <span style="color: #800000;">[Google Drive](https://drive.google.com/drive/my-drive)</span>
 
-![mhkarami97](/files/2017/04/itarfand-156.jpg)
+![mhkarami97](/files/2017/04/itarfand-156.jpg)  
 
 بعد از آپلود کردن فایل ها کافی است بر روی فایل مورد نظر راست کلیک کنید و مانند عکس گزینه *Open With Google Docs* را انتخاب کنید.
 
-![mhkarami97](/files/2017/04/itarfand-157.jpg)
+![mhkarami97](/files/2017/04/itarfand-157.jpg)  
 
 همان طور که مشاهده می کنید فایل شما به متن قابل ویرایش تبدیل شده است.
 
-![mhkarami97](/files/2017/04/itarfand-158.jpg)
+![mhkarami97](/files/2017/04/itarfand-158.jpg)  
 
 توسط این روش می توانید بسیاری از فایل های *PDF* که توسط نرم افزارهای مختلف قابل تبدیل به فایل *Docs* نیستند را به راحتی به متن قابل ویرایش تبدیل کنید.

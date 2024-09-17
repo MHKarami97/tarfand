@@ -47,15 +47,15 @@ tags:
 
 ابتدا به [(این سایت)](https://www.seedr.cc/?r=838956) بروید و یک اکانت رایگان در آن بسازید تا ۳ گیگ حجم رایگان بگیرید.
 
-![mhkarami97](/files/2018/02/itarfand-660-min.jpg)
+![mhkarami97](/files/2018/02/itarfand-660-min.jpg)  
 
 بعد از ساخت اکانت و ورود به حساب با صفحه زیر روبرو می شوید که می توانید لینک تورنت خود را در قسمت بالا و Paste Torrent URL قرار دهید تا بعد از مدتی آن فایل به حساب شما اضافه شود.
 
-![mhkarami97](/files/2018/02/itarfand-661-min.jpg)
+![mhkarami97](/files/2018/02/itarfand-661-min.jpg)  
 
 اکنون می توانید بر روی فایل مورد نظر راست کلیک کنید و با کلیک بر روی *Download* آن را توسط نرم افزارهای مدیریت دانلود و با قابلیت *Pause* و بالاترین سرعت ممکن دانلود کنید.
 
-![mhkarami97](/files/2018/02/itarfand-662-min.jpg)
+![mhkarami97](/files/2018/02/itarfand-662-min.jpg)  
 
 <span style="color: #0000ff;">**معرفی سایت های تورنت**</span>
 

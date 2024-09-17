@@ -36,42 +36,42 @@ tags:
 
 اکنون نرم افزار را اجرا کنید و با کلیک بر روی قسمت مشخص شده یک پروفایل جدید بسازید.
 
-![mhkarami97](/files/2017/10/itarfand-561-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-561-min.jpg)  
 
 اکنون به سربرگ *Task* بروید و بر روی *Add A Task* کلیک کنید.
 
-![mhkarami97](/files/2017/10/itarfand-562-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-562-min.jpg)  
 
 اکنون گزینه *Root* را انتخاب کنید.
 
-![mhkarami97](/files/2017/10/itarfand-563-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-563-min.jpg)  
 
 در صفحه باز شده گزینه *Mobile Data* را انتخاب کنید.
 
-![mhkarami97](/files/2017/10/itarfand-564-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-564-min.jpg)  
 
 اکنون این بخش را بر روی *Enable* قرار دهید و سپس بر روی *Ok* کلیک کنید.
 
-![mhkarami97](/files/2017/10/itarfand-565-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-565-min.jpg)  
 
 اکنون در صفحه اصلی به سربرگ *Triggers* بروید و بر روی گزینه مشخص شده کلیک کنید.
 
-![mhkarami97](/files/2017/10/itarfand-566-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-566-min.jpg)  
 
 سپس در قسمت *Schedule* زمان و روزهایی که می خواهید دیتا به صورت خوددکار روشن شود را مشخص کنید.
 
-![mhkarami97](/files/2017/10/itarfand-567-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-567-min.jpg)  
 
 <span style="color: #0000ff;">**دانلود زمان بندی شده در ADM**</span>
 
 ابتدا مانند عکس زیر از قسمت *Downloading* گزینه *Smart Download* را روشن کنید.
 
-![mhkarami97](/files/2017/10/itarfand-568-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-568-min.jpg)  
 
 سپس از قسمت پایین *Smart Downloading* گزینه *Setting* را انتخاب کنید و سپس به قسمت *Planning* بروید. اکنون تیک گزینه *Download Files* را روشن کنید و زمان شروع و پایان دانلود را مشخص کنید. همچنین در این صفحه می توانید روشن شدن خوددکار *WiFi* و خاموش شدن آن در پایان و همچنین بسته شدن نرم افزار در پایان را مشخص کنید.
 
-![mhkarami97](/files/2017/10/itarfand-569-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-569-min.jpg)  
 
-![mhkarami97](/files/2017/10/itarfand-569-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-569-min.jpg)  
 
 با انجام کار بالا با فرا رسیدن زمان شروع دانلود ، تمام فایل های موجود در لیست دانلود نشده ها به ترتیب شروع به دانلود می کنند.

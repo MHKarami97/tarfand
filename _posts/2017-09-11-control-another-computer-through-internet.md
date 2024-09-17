@@ -59,15 +59,15 @@ tags:
 
 اگر می خواهید رایانه دیگری را کنترل کنید در سمت را *ID* فرد را وارد کنید و بر روی *Connect To Partner* کلیک کنید.
 
-![mhkarami97](/files/2017/09/itarfand-475-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-475-min.jpg)  
 
 در صفحه باز شده رمز عبوری را که در رایانه هدف نمایش داده می شود را وارد کنید.
 
-![mhkarami97](/files/2017/09/itarfand-476-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-476-min.jpg)  
 
 بعد از این کار رایانه فرد مورد نظر برای شما نمایش داده می شود و می توانید آن را کنترل کنید.
 
-![mhkarami97](/files/2017/09/itarfand-477-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-477-min.jpg)  
 
 <span style="color: #0000ff;">**نرم افزار Any Desk**</span>
 
@@ -77,7 +77,7 @@ tags:
 
 همچنین در قسمت پایین نرم افزار لیست اتصال های اخیر نمایش داده می شود که می توانید بدون نیاز به وارد کردن دوباره آی دی فرد به او متصل شوید.
 
-![mhkarami97](/files/2017/09/itarfand-478-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-478-min.jpg)  
 
 بعد از کلیک بر روی *Connect* با صفحه زیر روبرو می شوید که می توانید سطح دسترسی فرد را کنترل کنید.
 
@@ -89,7 +89,7 @@ tags:
 
 <span style="color: #800000;">Allow to block keyboard and mouse :</span> با فعال بودن این گزینه فرد متصل شده می تواند دسترسی شما به موس و کیبرد را قطع کند.
 
-![mhkarami97](/files/2017/09/itarfand-479-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-479-min.jpg)  
 
 برای متصل شدن فرد بر روی *Accept* کلیک کنید.
 
@@ -97,7 +97,7 @@ tags:
 
 برای پایان دادن به اتصال بر روی *DisConnect* کلیک کنید.
 
-![mhkarami97](/files/2017/09/itarfand-480-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-480-min.jpg)  
 
 برای فرد متصل شده نیز صفحه ای مانند زیر نمایش داده می شود که در قسمت بالا چپ می توانید بین سیستم هایی که متصل شده اید *Switch* کنید.
 
@@ -106,7 +106,7 @@ tags:
 - نمایش گفت و گو های شما
 - نمایش تنظیمات کیبورد
 - نمایش تنظیمات زیر: 
-    - Switch side : تغییر نحوه اتصال دو کاربر ( وصل شدن شما به فرد مقابل و کنترل آن و یا برعکس)
+    - Switch side : تغییر نحوه اتصال دو کاربر ( وصل شدن شما به فرد مقابل و کنترل آن و یا برعکس)  
     - Take Screenshot : عکس گرفتن از صفحه نمایش
     - Show system info : نمایش مشخصات سیستم فرد مقابل
 - نمایش تنظیمات زیر: 
@@ -120,7 +120,7 @@ tags:
     - Block user’s input : قطع کردن کنترل فرد مقابل بر روی موس و کیبرد
     - Exit : پایان عملیات
 
-![mhkarami97](/files/2017/09/itarfand-481-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-481-min.jpg)  
 
 <span style="color: #0000ff;">**نرم افزار Ammyy Admin**</span>
 
@@ -130,7 +130,7 @@ tags:
 
 توسط *IP* می توانید بدون نیاز به اینترنت در شبکه های داخلی به یکدیگر متصل شوید.
 
-![mhkarami97](/files/2017/09/itarfand-482-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-482-min.jpg)  
 
 بعد از کلیک بر روی *Connect* با صفحه زیر روبرو می شوید که در آن می توانید سطح دسترسی فرد را کنترل کنید:
 
@@ -140,15 +140,15 @@ tags:
 - امکان چپ صوتی
 - پشتیبانی از RDP برای اتصال گرافیکی
 
-![mhkarami97](/files/2017/09/itarfand-483-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-483-min.jpg)  
 
 بعد از تنظیمات بالا با صفحه زیر روبرو می شوید و می توانید رایانه را کنترل کنید.
 
-![mhkarami97](/files/2017/09/itarfand-484-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-484-min.jpg)  
 
 همچنین توسط گزینه مشخص شده در عکس زیر می توانید سطح دسترسی و اندازه صفحه نمایش را کنترل کنید.
 
-![mhkarami97](/files/2017/09/itarfand-485-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-485-min.jpg)  
 
 <span style="color: #0000ff;">**استفاده از Remote Desktop Connection ویندوز**</span>
 
@@ -156,36 +156,36 @@ tags:
 
 برای این کار ابتدا بر روی *My PC* راست کلیک کنید و گزینه *Properties* را انتخاب کنید. در صفحه باز شده گزینه مشخص شده در عکس را انتخاب کنید.
 
-![mhkarami97](/files/2017/09/itarfand-486-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-486-min.jpg)  
 
 اکنون در سربرگ *Remote* تیک گزینه *Allow Remote* را بزنید.
 
-![mhkarami97](/files/2017/09/itarfand-487-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-487-min.jpg)  
 
 اکنون می توانید با جستجو ابزار *Remote Desktop* در ویندوز و وارد کردن *IP* خود به رایانه متصل شوید.
 
 برای دانستن *IP* در *CMD* عبارت *ipconfig* را وارد کنید. عبارت مقابل *ipv4* آی پی شما می باشد.
 
-![mhkarami97](/files/2017/09/itarfand-488-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-488-min.jpg)  
 
 <span style="color: #0000ff;">**استفاده از افزونه Chrome Remote Desktop در مرورگر کروم**</span>
 
 ابتدا از [<span style="color: #339966;">(این لینک)</span>](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp) افزونه را بر روی مرورگر خود نصب کنید.
 
-![mhkarami97](/files/2017/09/itarfand-470-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-470-min.jpg)  
 
 بعد از نصب آیکون افزونه به صفحه *Apps* های شما اضافه می شود.
 
-![mhkarami97](/files/2017/09/itarfand-471-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-471-min.jpg)  
 
 با کلیک بر روی آن با صفحه زیر روبرو می شوید که ابتدا باید دسترسی برای اتصال را به افزونه بدهید.
 
-![mhkarami97](/files/2017/09/itarfand-472-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-472-min.jpg)  
 
 اکنون با صفحه زیر روبرو می شود که در آن می توانید رایانه خود را به اشتراک بگذارید و یا به یک رایانه دیگر متصل شوید.
 
-![mhkarami97](/files/2017/09/itarfand-473-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-473-min.jpg)  
 
 برای اتصال به یک رایانه دیگر باید رمز عبوری را که در رایانه فرد مقابل نمایش داده می شود را وارد کنید.
 
-![mhkarami97](/files/2017/09/itarfand-474-min.jpg)
+![mhkarami97](/files/2017/09/itarfand-474-min.jpg)  

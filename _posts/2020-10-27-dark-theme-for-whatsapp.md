@@ -9,7 +9,7 @@ categories:
 
 بعد از باز کردن واتساپ، به قسمت تنظیمات بروید و گزینه Chat را انتخاب کنید.
 
-![mhkarami97](/files/2020/10/itarfand-928-min.jpg)
+![mhkarami97](/files/2020/10/itarfand-928-min.jpg)  
 پس از رفتن به قسمت چت از قسمت Display و سپس قسمت Theme می توانید ظاهر واتساپ را به دارک تغییر بدهید.
 
-![mhkarami97](/files/2020/10/itarfand-929-min.jpg)
+![mhkarami97](/files/2020/10/itarfand-929-min.jpg)  

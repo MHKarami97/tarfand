@@ -42,7 +42,7 @@ tags:
 
 پس از دانلود کافی است فایل *install.bat* را اجرا کنید تا نرم افزار نصب شود و سپس بر روی *Restart\_explorer.bat* کلیک کنید.
 
-![mhkarami97](/files/2017/07/itarfand-391-min.jpg)
+![mhkarami97](/files/2017/07/itarfand-391-min.jpg)  
 
 برای پاک کردن نیز می توانید فایل *Unistall.bat* را اجرا کنید.
 
@@ -50,11 +50,11 @@ tags:
 
 بعد از نصب مشاهده می کنید که آیکون تمام فایل های *apk* برای شما نمایش داده می شود.
 
-![mhkarami97](/files/2017/07/itarfand-392-min.jpg)
+![mhkarami97](/files/2017/07/itarfand-392-min.jpg)  
 
 همچنین گزینه ای به راست کلیک شما اضافه می شود که به صورت زیر می باشد:
 
-<span style="color: #008000;">*گزینه اول :* </span>تغییر نام فایل به صورت (<span style="color: #008000;"> نام نرم افزار + نسخه</span> )
+<span style="color: #008000;">*گزینه اول :* </span>تغییر نام فایل به صورت (<span style="color: #008000;"> نام نرم افزار + نسخه</span> )  
 
 *<span style="color: #008000;">گزینه دوم :</span>* مشاهده نرم افزار در گوگل پلی
 
@@ -62,13 +62,13 @@ tags:
 
 <span style="color: #008000;">*گزینه چهارم :* </span>تنظیمات نرم افزار
 
-![mhkarami97](/files/2017/07/itarfand-395-min.jpg)
+![mhkarami97](/files/2017/07/itarfand-395-min.jpg)  
 
 <span style="color: #0000ff;">**تنظیمات نرم افزار**</span>
 
 در بخش تنظیمات می توانید کار های زیر را انجام بدهید:
 
-![mhkarami97](/files/2017/07/itarfand-393-min.jpg)
+![mhkarami97](/files/2017/07/itarfand-393-min.jpg)  
 
 - <span style="color: #008000;">نمایش آیکون فایل های *IOS* و *Windows Phone*</span>
 - <span style="color: #008000;">تغییر گزینه های راست کلیک</span>

@@ -27,7 +27,7 @@ tags:
 
 اگر صفحه لپ تاپ شما نیز ۴k است حتما با مشکل کوچک نشان داده شدن آیکون بعضی نرم افزار ها مانند عکس مواجه شده اید.
 
-![mhkarami97](/files/2017/04/itarfand-256.jpg)
+![mhkarami97](/files/2017/04/itarfand-256.jpg)  
 
 <span style="color: #0000ff;">**پیش نیاز**</span>
 
@@ -37,15 +37,15 @@ tags:
 
 ابتدا بر روی نرم افزاری که این مشکل را دارد راست کلیک کنید و گزینه *Properties* را انتخاب کنید.
 
-![mhkarami97](/files/2017/04/itarfand-257.jpg)
+![mhkarami97](/files/2017/04/itarfand-257.jpg)  
 
 اکنون به تب *Compatibility* بروید و مانند عکس زیر عمل کنید.
 
-![mhkarami97](/files/2017/04/itarfand-258.jpg)
+![mhkarami97](/files/2017/04/itarfand-258.jpg)  
 
 نمونه عکس بعد از ترفند بالا:
 
-![mhkarami97](/files/2017/04/itarfand-259.jpg)
+![mhkarami97](/files/2017/04/itarfand-259.jpg)  
 
 توسط ترفند بالا مشکل شما به صورت ۱۰۰% حل می شود.
 
@@ -57,15 +57,15 @@ tags:
 
 <span style="color: #008000;">HKEY\_LOCAL\_MACHINE &gt; SOFTWARE &gt; Microsoft &gt; Windows &gt; CurrentVersion &gt; SideBySide</span>
 
-![mhkarami97](/files/2017/04/itarfand-276.jpg)
+![mhkarami97](/files/2017/04/itarfand-276.jpg)  
 
 در سمت راست ، کلیک راست کنید و از قسمت New گزینه *DWORD 32Bit* را انتخاب کنید و نام آن را به *preferExternalmanifest* تغییر دهید.
 
-![mhkarami97](/files/2017/04/itarfand-277.jpg)
+![mhkarami97](/files/2017/04/itarfand-277.jpg)  
 
 اکنون بر روی فایل ساخته شده دو بار کلیک چپ کنید و سپس مقدار V*alue Data* را به ۱ تغییر دهید و گزینه D*ecimal* را انتخاب کنید.
 
-![mhkarami97](/files/2017/04/itarfand-278.jpg)
+![mhkarami97](/files/2017/04/itarfand-278.jpg)  
 
 بعد از انجام کارهای بالا به محل نصب نرم افزار بروید و سپس *<span style="color: #993300;">(این فایل)</span>* را دانلود کرده و در آنجا بریزید.
 
@@ -75,6 +75,6 @@ tags:
 
 <span style="color: #008080;">KMPlayer.exe.manifest : change download file name</span>
 
-![mhkarami97](/files/2017/04/itarfand-279.jpg)
+![mhkarami97](/files/2017/04/itarfand-279.jpg)  
 
 <span style="color: #008080;">نکته :</span> این روش بر روی تمام نرم افزارها جواب نمی دهد.

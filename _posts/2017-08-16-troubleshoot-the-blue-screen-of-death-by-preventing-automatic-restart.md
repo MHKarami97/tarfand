@@ -28,11 +28,11 @@ tags:
 
 ابتدا در قسمت جستجو ویندوز کلمه *System Settings* را تایپ کنید تا پنجره زیر باشد. در این صفحه باز شده به تب *Security* بروید و مانند عکس زیر عمل کنید.
 
-![mhkarami97](/files/2017/08/itarfand-413-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-413-min.jpg)  
 
 در این قسمت کافی است تیک گزینه *Automatically Restart* را بردارید و سپس بر روی *Ok* کلیک کنید.
 
-![mhkarami97](/files/2017/08/itarfand-414-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-414-min.jpg)  
 
 <span style="color: #3366ff;">**بررسی ارور Blue Screen Death**</span>
 
@@ -40,6 +40,6 @@ tags:
 
 توسط این نرم افزار می توانید علت مشکل خود را بفهمید.
 
-![mhkarami97](/files/2017/08/itarfand-415-min.jpg)
+![mhkarami97](/files/2017/08/itarfand-415-min.jpg)  
 
 بعد از انجام کارهای بالا سیستم شما به صورت خوددکار ریست نمی شود و منتظر عکس العمل شما مانند زدن دکمه *Power* کیس و یا لپ تاپ می ماند.

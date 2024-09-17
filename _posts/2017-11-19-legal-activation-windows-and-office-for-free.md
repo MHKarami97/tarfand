@@ -53,58 +53,58 @@ tags:
 
 اکنون دستور slmgr/upk را در آن تایپ کنید و *Enter* را بزنید.
 
-![mhkarami97](/files/2017/11/itarfand-593-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-593-min.jpg)  
 
 سپس با توجه به ورژن ویندوز خود یکی از سریال های [(این لینک)](http://textuploader.com/dq5hq) را وارد کنید و اینتر را بزنید.
 
-![mhkarami97](/files/2017/11/itarfand-594-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-594-min.jpg)  
 
 اکنون دستور *SLUI 4* را تایپ کنید و اینتر را بزنید تا صفحه زیر باز شود و سپس در صفحه باز شده *United Kingdom* را انتخاب کنید.
 
-![mhkarami97](/files/2017/11/itarfand-595-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-595-min.jpg)  
 
 اکنون ویندوز به شما یک *Installation ID* می دهد که باید آن را یادداشت کنید.
 
-![mhkarami97](/files/2017/11/itarfand-596-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-596-min.jpg)  
 
 اکنون به [(این لینک)](https://partner.support.services.microsoft.com/en-us/contact/menu/software/windows/setup/) بروید و گزینه Chat را انتخاب کنید.
 
-![mhkarami97](/files/2017/11/itarfand-598-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-598-min.jpg)  
 
 اکنون شما به یک فرد متصل می شوید که باید با دادن *Installation ID* و *Product Key* که از [(این لینک)](http://textuploader.com/dq5hq) برداشته بودید ، از او بخواهید که *Confirmation Id* را به شما بدهد.
 
-![mhkarami97](/files/2017/11/itarfand-599-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-599-min.jpg)  
 
-![mhkarami97](/files/2017/11/itarfand-600-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-600-min.jpg)  
 
-![mhkarami97](/files/2017/11/itarfand-601-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-601-min.jpg)  
 
-![mhkarami97](/files/2017/11/itarfand-602-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-602-min.jpg)  
 
-![mhkarami97](/files/2017/11/itarfand-603-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-603-min.jpg)  
 
 و در نهایت صفحه نظرسنجی برای شما باز می شود.
 
-![mhkarami97](/files/2017/11/itarfand-604-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-604-min.jpg)  
 
 اکنون کافی است *Installation ID* را در صفحه زیر وارد کنید.
 
-![mhkarami97](/files/2017/11/itarfand-605-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-605-min.jpg)  
 
 <span style="color: #0000ff;">**فعال سازی قانونی Microsoft Office 2016**</span>
 
 ابتدا به سربرگ *File* بروید و از سمت چپ *Account* را انتخاب کنید وسپس بر روی *Change Product Key* کلیک کنید و در بخش باز شده یکی از کدهای [(این لینک)](http://textuploader.com/dq5xk) را با توجه به نوع آفیس خود وارد کنید و سپس بر روی *Install* کلیک کنید.
 
-![mhkarami97](/files/2017/11/itarfand-612-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-612-min.jpg)  
 
 اکنون بر روی گزینه مشخص شده در عکس زیر کلیک کنید.
 
-![mhkarami97](/files/2017/11/itarfand-613-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-613-min.jpg)  
 
 در صفحه باز شده شما می توانید *Installation ID* خود را ببینید.
 
 ![mhkarami97](/files/2017/11/itarfand-614-min.jpg) اکنون به [(این لینک)](https://partner.support.services.microsoft.com/en-us/contact/menu/software/office/setup/) بروید و بر روی Chat کلیک کنید. اکنون مانند فعال سازی ویندوز شما به یک پشتیبان متصل می شوید که با دادن *Installation ID* و *Product Key* از او بخواهید که *Confirmation Id* بدهد و این کد را در آفیس وارد کنید.
 
-![mhkarami97](/files/2017/11/itarfand-615-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-615-min.jpg)  
 
 با انجام کارهای بالا ویندوز و آفیس شما به صورت قانونی و نامحدود فعال شده است که می توانید با [*OPA Back Up*](http://www.opa-backup.de/index_en.php) از آن پشتیبان بگیرید و هر بار که خواستید از آن استفاده کنید.

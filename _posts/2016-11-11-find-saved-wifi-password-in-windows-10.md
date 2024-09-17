@@ -27,12 +27,12 @@ tags:
 
 اکنون بر روی آیکون وای فای راست کلیک کنید و گزینه *Status* را انتخاب کنید.
 
-![itarfand-101](/files/2016/11/itarfand-101.jpg)
+![itarfand-101](/files/2016/11/itarfand-101.jpg)  
 
 اکنون گزینه *Wireless Properties* را انتخاب کنید.
 
-![itarfand-102](/files/2016/11/itarfand-102.jpg)
+![itarfand-102](/files/2016/11/itarfand-102.jpg)  
 
 اکنون می توانید پسورد *WiFi* خود را مشاهده کنید.
 
-![itarfand-103](/files/2016/11/itarfand-103.jpg)
+![itarfand-103](/files/2016/11/itarfand-103.jpg)  

@@ -24,13 +24,13 @@ tags:
 
  ***روش اول ( بدون از دست رفتن اطلاعات) با Paragon Hard Disk Manager*** ابتدا نرم افزار مورد نظر را از لینک های زیر دانلود کنید.
 
- [پارت یک](http://s5.picofile.com/file/8134817842/HBCD15_2_US_Keyboard_Paragon_Hard_Disk_Manager_Only_part1_OF_3.rar.html) + [پارت دو ](http://s5.picofile.com/file/8134818792/HBCD15_2_US_Keyboard_Paragon_Hard_Disk_Manager_Only_part2_OF_3.rar.html) + [پارت سه](http://s5.picofile.com/file/8134819484/HBCD15_2_US_Keyboard_Paragon_Hard_Disk_Manager_Only_part3_OF_3.rar.html)
+ [پارت یک](http://s5.picofile.com/file/8134817842/HBCD15_2_US_Keyboard_Paragon_Hard_Disk_Manager_Only_part1_OF_3.rar.html) + [پارت دو ](http://s5.picofile.com/file/8134818792/HBCD15_2_US_Keyboard_Paragon_Hard_Disk_Manager_Only_part2_OF_3.rar.html) + [پارت سه](http://s5.picofile.com/file/8134819484/HBCD15_2_US_Keyboard_Paragon_Hard_Disk_Manager_Only_part3_OF_3.rar.html)  
 
  برای صرفه جویی در حجم اینترنت فقط گزینه ای که برای تغییر پارتیشن مورد نیاز است قرار داده شده است. دقت داشته باشید که این روش در بعضی مواقع خاص باعث پاک شدن اطلاعات می شود. تمام فایل های دانلود شده را در یک پوشه قرار دهید و سپس از حالت فشرده خارج کنید. اکنون فایل iso ایجاد شده را توسط نرم افزارهایی مانند [Power Iso](http://soft98.ir/software/Cd-dvd-tools/455-PowerISO.html) بر روی فلش یا CD رایت کنید. بعد از بوت شدن سیستم گزینه مورد نظر در عکس زیر را انتخاب کنید. ![itarfand_4](/files/2016/08/itarfand_4.jpg) اکنون گزینه زیر را انتخاب کنید. ![itarfand_5](/files/2016/08/itarfand_5.jpg) اکنون گزینه *Paragon Hard Disk Manager* را انتخاب کنید. ![itarfand_6](/files/2016/08/itarfand_6.jpg) اکنون با توجه به GPT یا MBR بودن هارد شما با یکی از صفحه های زیر مواجه می شوید که باید گزینه مورد نظر را انتخاب کنید.
 
  هارد شما : GPT
 
- ![itarfand_7](/files/2016/08/itarfand_7.jpg)
+ ![itarfand_7](/files/2016/08/itarfand_7.jpg)  
 
  هارد شما : MBR
 

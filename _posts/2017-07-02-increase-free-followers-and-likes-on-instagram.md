@@ -40,11 +40,11 @@ tags:
 
 سپس در نرم افزار بر روی *Direct Mode* کلیک کنید و سپس بر روی *Click to paste* کلیک کنید.
 
-![mhkarami97](/files/2017/07/itarfand-335-min.jpg)
+![mhkarami97](/files/2017/07/itarfand-335-min.jpg)  
 
 اکنون در این صفحه گزینه *US1* و سپس *Commit* را انتخاب کنید.
 
-![mhkarami97](/files/2017/07/itarfand-337-min.jpg)
+![mhkarami97](/files/2017/07/itarfand-337-min.jpg)  
 
 <span style="color: #0000ff;">**استفاده از سایت**</span>
 
@@ -54,7 +54,7 @@ tags:
 
 <span style="color: #008000;">[Second Site](http://froze.pw/)</span>
 
-![mhkarami97](/files/2017/07/itarfand-336.jpg)
+![mhkarami97](/files/2017/07/itarfand-336.jpg)  
 
 <span style="color: #0000ff;">**استفاده از سایت برای دریافت دنبال کننده**</span>
 
@@ -62,8 +62,8 @@ tags:
 
 در این صفحه بنا به نیاز خود *Instagram Follower* یا *Instagram Likes* را انتخاب کنید و سپس آی دی صفحه خود را انتخاب کنید. گزینه *CPC* مقداری است که در صورت دنبال شدن شما توسط دیگران از مقدار سکه های شما کم می شود.
 
-![mhkarami97](/files/2017/07/itarfand-338-min-1.jpg)
+![mhkarami97](/files/2017/07/itarfand-338-min-1.jpg)  
 
 اکنون برای افزایش سکه از قسمت چپ گزینه *Instagram Like* را انتخاب کنید. در این صفحه با لایک کردن هر فرد حدودا ۸ سکه می گیرید.
 
-![mhkarami97](/files/2017/07/itarfand-339-min.jpg)
+![mhkarami97](/files/2017/07/itarfand-339-min.jpg)  

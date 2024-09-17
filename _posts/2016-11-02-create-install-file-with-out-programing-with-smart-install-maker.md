@@ -26,19 +26,19 @@ tags:
 
 این بخش مربوط به تنظیمات پایه مانند نام نرم افزار و ورژن آن می باشد که مانند عکس زیر می توانید آن را کامل کنید.
 
-![itarfand-95](/files/2016/11/itarfand-95.jpg)
+![itarfand-95](/files/2016/11/itarfand-95.jpg)  
 
 <span style="color: #0000ff;">**بخش Files**</span>
 
 این بخش برای اضافه کردن فایل ها به فایل نصبی است تا بعد از نصب شدن در محل مورد نظر ایجاد شوند.
 
-![itarfand-96](/files/2016/11/itarfand-96.jpg)
+![itarfand-96](/files/2016/11/itarfand-96.jpg)  
 
 <span style="color: #0000ff;">**بخش Requirements**</span>
 
 این بخش برای سیستم پیشنهادی برای کارکرد درست نرم افزار و همچنین ورژن مورد نیاز *Net Framework* می باشد.
 
-![itarfand-97](/files/2016/11/itarfand-97.jpg)
+![itarfand-97](/files/2016/11/itarfand-97.jpg)  
 
 <span style="color: #0000ff;">**بخش Dialogs**</span>
 
@@ -58,13 +58,13 @@ tags:
 
 این بخش مربوط به زمان پایان نصب می باشد که توسط آن می توانید از کاربر بخواهید یک فایل را مطالعه کند و یا سایت شما را مشاهده کند یا سیستم *Restart* شود.
 
-![itarfand-98](/files/2016/11/itarfand-98.jpg)
+![itarfand-98](/files/2016/11/itarfand-98.jpg)  
 
 <span style="color: #0000ff;">**بخش Interface**</span>
 
 توسط این بخش می توانید رنگ پس زمینه ، سرتیتر فایل نصبی ، لوگو ، زبان فایل نصبی و آیکون نصب را تغییر دهید.
 
-![itarfand-99](/files/2016/11/itarfand-99.jpg)
+![itarfand-99](/files/2016/11/itarfand-99.jpg)  
 
 <span style="color: #0000ff;">**بخش ShortCut**</span>
 

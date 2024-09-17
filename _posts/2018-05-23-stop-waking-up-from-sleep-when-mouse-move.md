@@ -33,16 +33,16 @@ tags:
 
 برای این کار ابتدا *Mouse* را در ویندوز جستجو کنید و سپس گزینه *Change Mouse Setting* را انتخاب کنید. سپس در صفحه باز شده *Additional Mouse Option* را انتخاب کنید.
 
-![mhkarami97](/files/2018/05/itarfand-726-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-726-min.jpg)  
 
 در صفحه باز شده به سربرگ *Hardware* بروید و موس خود را انتخاب کنید و سپس بر روی *Properties* کلیک کنید.
 
-![mhkarami97](/files/2018/05/itarfand-727-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-727-min.jpg)  
 
 اکنون بر روی *Change Setting* کلیک کنید.
 
-![mhkarami97](/files/2018/05/itarfand-728-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-728-min.jpg)  
 
 در صفحه باز شده به سربرگ *Power Management* بروید. در این صفحه با برداشتن تیک گزینه *Allow this device to wake the computer* حرکت دادن موس باعث روشن شدن رایانه شما نمی شود.
 
-![mhkarami97](/files/2018/05/itarfand-729-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-729-min.jpg)  

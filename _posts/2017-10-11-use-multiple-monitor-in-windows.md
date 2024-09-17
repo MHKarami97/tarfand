@@ -27,7 +27,7 @@ tags:
 
 پیش نیاز اتصال چند صفحه نمایش داشتن یکی از سیم های انتقال تصویر مانند *VGA , HDMI DVI* می باشد.
 
-![mhkarami97](/files/2017/10/itarfand-526-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-526-min.jpg)  
 
 <span style="color: #0000ff;">**اتصال صفحه نمایش ها به هم**</span>
 
@@ -40,7 +40,7 @@ tags:
 - <span style="color: #008000;">صفحه نمایش اصلی شما گسترش می یابد و یک صفحه دیگر نیز برای انجام کار به شما نشان داده خواهد شد.</span>
 - <span style="color: #008000;">دیگر صفحه های نمایش نشان داده خواهند شد و صفحه اصلی خاموش می شود.</span>
 
-![mhkarami97](/files/2017/10/itarfand-527-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-527-min.jpg)  
 
 <span style="color: #0000ff;">**تنظیمات صفحه نمایش**</span>
 
@@ -48,25 +48,25 @@ tags:
 
 در صفحه باز شده کافی است که بر روش صفحه ای که می خواهید تنظیمات آن را تغییر دهید کلیک کنید ( ۱ یا ۲ ) و سپس تنظیمات دلخواه مانند وضوح تصویر و یا چرخواندن تصویر را تغییر دهید.
 
-![mhkarami97](/files/2017/10/itarfand-528-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-528-min.jpg)  
 
 همچنین در قسمت *MultiTasking* نیز می توانید تنظیماتی اضافه برای حالت استفاده از چند صفحه نمایش را مشاهده کنید.
 
-![mhkarami97](/files/2017/10/itarfand-529-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-529-min.jpg)  
 
 <span style="color: #0000ff;">**اتصال چند مانیتور به صورت WiFi**</span>
 
 برای این کار مانند عکس زیر گزینه *Connect To Wireless Display* را انتخای کنید.
 
-![mhkarami97](/files/2017/10/itarfand-530-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-530-min.jpg)  
 
 بعد از این کار صفحه زیر به شما نشان داده خواهد شد. بعد از روشن کردن بلوتوث دستگاه خود و سیستم هدف بر روی گزینه مشخص شده در زیر کلیک کنید.
 
-![mhkarami97](/files/2017/10/itarfand-531-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-531-min.jpg)  
 
 سپس در صفحه باز شده برای دو سیستم گزینه *Available Every One* را انتخاب کنید.
 
-![mhkarami97](/files/2017/10/itarfand-532-min.jpg)
+![mhkarami97](/files/2017/10/itarfand-532-min.jpg)  
 
 <span style="color: #0000ff;">**نرم افزارهای مدیریت چند مانیتور**</span>
 

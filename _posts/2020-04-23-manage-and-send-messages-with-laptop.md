@@ -17,20 +17,20 @@ tags:
 
 ابتدا اگر اپلیکیشن پیامک شما Google messages نمی باشد، آن را دانلود و نصب کنید، سپس به سایت زیر بروید.
 
-[Download](https://messages.google.com/)
+[Download](https://messages.google.com/)  
 
-[Web Message](https://messages.google.com/web/authentication)
+[Web Message](https://messages.google.com/web/authentication)  
 
-![mhkarami97](/files/2020/04/itarfand-909-min.jpg)
+![mhkarami97](/files/2020/04/itarfand-909-min.jpg)  
 اکنون در اپلیکیشن خود به قسمت پیام ها بروید و از سمت راست، بالا بر روی سه نقطه کلیک کنید و سپس گزینه Messages for web را انتخاب کنید.
 
-![mhkarami97](/files/2020/04/itarfand-910-min-1.jpg)
+![mhkarami97](/files/2020/04/itarfand-910-min-1.jpg)  
 در صفحه ای که باز می شود بر روی QR code scanner کلیک کنید و کدی که در آدرس بالا باز شده بود را اسکن کنید.
 
-![mhkarami97](/files/2020/04/itarfand-911-min-1.jpg)
+![mhkarami97](/files/2020/04/itarfand-911-min-1.jpg)  
 اکنون به تمام پیامک های خود دسترسی دارید.
 
-![mhkarami97](/files/2020/04/itarfand-912-min-1.jpg)
+![mhkarami97](/files/2020/04/itarfand-912-min-1.jpg)  
 همچنین می توانید از تم Dark نیز استفاده کنید.
 
-![mhkarami97](/files/2020/04/itarfand-913-min-1.jpg)
+![mhkarami97](/files/2020/04/itarfand-913-min-1.jpg)  

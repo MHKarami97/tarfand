@@ -24,18 +24,18 @@ Setting/Battery/App Lunch
 
 در این صفحه دنبال اپلیکیشن مورد نظر خود بگردید و گزینه روبرو آن را غیر فعال کنید تا صفحه زیر باز شود، در صفحه باز شده مطمئن شوید هر ۳ آیتم روشن باشند. همچنین برای دسترسی به این قسمت از صفحه خود اپلیکیشن در قسمت Apps هم می‌توانید اقدام کنید.
 
-![mhkarami97](/files/2021/03/itarfand-975-min.jpg)
+![mhkarami97](/files/2021/03/itarfand-975-min.jpg)  
 سپس به قسمت زیر بروید:
 
 Setting/System &amp; Updates/Developer Options
 
 در این صفحه به بخش Apps بروید و گزینه Background process limit را بر روی ۴ قرار دهید. همچنین برای دسترسی به این قسمت می‌توانید کلمه Background را در قسمت تنظیمات جستجو کنید.
 
-![mhkarami97](/files/2021/03/itarfand-974-min.jpg)
+![mhkarami97](/files/2021/03/itarfand-974-min.jpg)  
 با انجام کارهای بالا مشکل قطع شدن VPN حل خواهد شد.
 
 **اگر با کارهای بالا مشکل شما حل نشد، کافی هست کارهای کلیپ زیر را انج**ام دهید:
 
 [VPN Auto disconnect problem solved || VPN auto disconnect problem pubg mobile lite – YouTub](https://www.youtube.com/watch?v=Rz66esR049s)e
 
-[App Cloner 2.13.2 – نصب نسخه های متعدد از یک اپلیکیشن در اندروید (farsroid.com)](https://www.farsroid.com/app-cloner-android/)
+[App Cloner 2.13.2 – نصب نسخه های متعدد از یک اپلیکیشن در اندروید (farsroid.com)](https://www.farsroid.com/app-cloner-android/)  

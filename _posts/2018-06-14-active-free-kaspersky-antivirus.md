@@ -18,15 +18,15 @@ tags:
 
  ابتدا آنتی ویروس خود را باز کنید و مانند عکس زیر به قسمت تنظیمات بروید.
 
- ![mhkarami97](/files/2018/06/itarfand-797-min.jpg)
+ ![mhkarami97](/files/2018/06/itarfand-797-min.jpg)  
 
  اکنون در صفحه باز شده به قسمت *Additional* بروید و گزینه *Self-Defence* را انتخاب کنید.
 
- ![mhkarami97](/files/2018/06/itarfand-798-min-1.jpg)
+ ![mhkarami97](/files/2018/06/itarfand-798-min-1.jpg)  
 
  در صفحه باز شده گزینه مسخص شده را غیر فعال کنید.
 
- ![mhkarami97](/files/2018/06/itarfand-799-min.jpg)
+ ![mhkarami97](/files/2018/06/itarfand-799-min.jpg)  
 
  اکنون بر روی آیکون آنتی ویروس راست کلیک کنید و گزینه *Pause Protection* و سپس *Exit* را انتخاب کنید.
 
@@ -34,15 +34,15 @@ tags:
 
  در صفحه باز شده بر روی *Reset Activation* کلیک کنید.
 
- ![mhkarami97](/files/2018/06/itarfand-801-min.jpg)
+ ![mhkarami97](/files/2018/06/itarfand-801-min.jpg)  
 
  بعد از این کار آنتی ویروس به صورت خود کار باز می شود. در صفحه باز شده کافی است یکی از کدهای فعال ساز قرار داده شده در آخر پست را وارد کنید.
 
- ![mhkarami97](/files/2018/06/itarfand-802-min.jpg)
+ ![mhkarami97](/files/2018/06/itarfand-802-min.jpg)  
 
  همان طور که مشاهده می کنید آنتی ویروس با موفقیت فعال شده است.
 
- ![mhkarami97](/files/2018/06/itarfand-803-min.jpg)
+ ![mhkarami97](/files/2018/06/itarfand-803-min.jpg)  
 
  <span style="color:#0000CD;">**کد فعال ساز**</span>
 

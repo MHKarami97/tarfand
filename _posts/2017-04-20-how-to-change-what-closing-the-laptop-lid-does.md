@@ -22,8 +22,8 @@ tags:
 
 اکنون از سمت چپ گزینه *Choose What Closing The Lid Does* را انتخاب کنید.
 
-![mhkarami97](/files/2017/04/itarfand-174.jpg)
+![mhkarami97](/files/2017/04/itarfand-174.jpg)  
 
 در قسمت مشخص شده در عکس زیر می توانید مشخص کنید که هنگامی که لپ تاپ در شارژ است و یا مواقع دیگر چه اتفاقی هنگام بستن درب آن بیافتد.
 
-![mhkarami97](/files/2017/04/itarfand-175.jpg)
+![mhkarami97](/files/2017/04/itarfand-175.jpg)  

@@ -28,20 +28,20 @@ tags:
 
 برای دانلود این اپلیکیشن از *Windows Store* نیاز است که کشور خود را از قسمت تنظیمات مانند این عکس به آمریکا تغییر دهید.
 
-![mhkarami97](/files/2016/12/itarfand-115.jpg)
+![mhkarami97](/files/2016/12/itarfand-115.jpg)  
 
 اکنون *Store* ویندوز ۱۰ خود را باز کنید و کلمه *Instagram* را در آن جستجو کنید و سپس آن را دانلود کنید.
 
-![mhkarami97](/files/2016/12/itarfand-116.jpg)
+![mhkarami97](/files/2016/12/itarfand-116.jpg)  
 
 بعد از نصب همان طور که می بینید ایستاگرام بر روی ویندوز شما نصب شده است.
 
-![mhkarami97](/files/2016/12/itarfand-117.jpg)
+![mhkarami97](/files/2016/12/itarfand-117.jpg)  
 
 <span style="color: #0000ff;">**استفاده از اینستاگرام در Windows 10**</span>
 
 بعد از ورود به نرم افزار می توانید از این شبکه اجتماعی در ویندوز خود لذت ببرید و تمام کارهایی که در اپلیکیشن موباید می توانستید انجام دهید را در این برنامه انجام دهید.
 
-![mhkarami97](/files/2016/12/itarfand-118.jpg)
+![mhkarami97](/files/2016/12/itarfand-118.jpg)  
 
-![mhkarami97](/files/2016/12/itarfand-119.jpg)
+![mhkarami97](/files/2016/12/itarfand-119.jpg)  

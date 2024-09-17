@@ -86,44 +86,44 @@ tags:
 
 همان طور که در سایت *ShutterStock* مشاهده می کنید تمام عکس های دارای واترمارک بر روی خود هستند و نمی توان از آن ها استفاده کرد.
 
-![mhkarami97](/files/2017/06/itarfand-284.jpg)
+![mhkarami97](/files/2017/06/itarfand-284.jpg)  
 
 برای انجام این ترفند شما نیاز به یک اکانت *FaceBook* دارید.
 
 ابتدا وارد اکانت فیس بوک خود بشوید و مانند عکس زیر گزینه *Create Advert* را انتخاب کنید.
 
-![mhkarami97](/files/2017/06/itarfand-285.jpg)
+![mhkarami97](/files/2017/06/itarfand-285.jpg)  
 
 اکنون در صفحه باز شده گزینه *Brand Awareness* را انتخاب کنید.
 
-![mhkarami97](/files/2017/06/itarfand-286.jpg)
+![mhkarami97](/files/2017/06/itarfand-286.jpg)  
 
 در صفحه باز شده یک نام دلخواه وارد کنید و سپس بر روی *Set Up* کلیک کنید.
 
-![mhkarami97](/files/2017/06/itarfand-287.jpg)
+![mhkarami97](/files/2017/06/itarfand-287.jpg)  
 
 سپس بر روی *Continue* کلیک کنید.
 
-![mhkarami97](/files/2017/06/itarfand-288.jpg)
+![mhkarami97](/files/2017/06/itarfand-288.jpg)  
 
 در صفحه باز شده بر روی گزینه *single Image* کلیک کنید.
 
-![mhkarami97](/files/2017/06/itarfand-289.jpg)
+![mhkarami97](/files/2017/06/itarfand-289.jpg)  
 
 اکنون در قسمت *select Image* به تب *Stock Image* بروید و عکس های دلخواه خود را انتخاب کنید.
 
-![mhkarami97](/files/2017/06/itarfand-290.jpg)
+![mhkarami97](/files/2017/06/itarfand-290.jpg)  
 
 اکنون بر روی عکس انتخاب شده راست کلیک کنید و گزینه *Inspect* را انتخاب کنید.
 
-![mhkarami97](/files/2017/06/itarfand-291.jpg)
+![mhkarami97](/files/2017/06/itarfand-291.jpg)  
 
 اکنون می توانید لینک عکس را در قسمت باز شده مشاهده کنید که با دو بار کلیک بر روی آن لینک انتخاب می شود.
 
 اگر قسمت مشخص شده را مشاهده نکردید بر روی گزینه مشخص شده با علامت قرمز در عکس زیر کلیک کنید و سپس بر روی عکس خود کلیک کنید.
 
-![mhkarami97](/files/2017/06/itarfand-292.jpg)
+![mhkarami97](/files/2017/06/itarfand-292.jpg)  
 
 نمونه عکس:
 
-![mhkarami97](/files/2017/06/itarfand-293.jpg)
+![mhkarami97](/files/2017/06/itarfand-293.jpg)  

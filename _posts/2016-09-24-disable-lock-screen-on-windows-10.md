@@ -21,21 +21,21 @@ tags:
 
 ابتدا کلمه *Edit Group Policy* را در ویندوز ۱۰ جستجو کنید و سپس آن را اجرا کنید.
 
-![itarfand-75](/files/2016/09/itarfand-75.jpg)
+![itarfand-75](/files/2016/09/itarfand-75.jpg)  
 
 اکنون به قسمت مشخص شده در عکس زیر بروید و گزینه *Do Not Display The Lock Screen* را انتخاب کنید.
 
-![itarfand-76](/files/2016/09/itarfand-76.jpg)
+![itarfand-76](/files/2016/09/itarfand-76.jpg)  
 
 برای غیر فعال کردن *Lock Screen* بر روی *Enabled* کلیک کنید.
 
-![itarfand-77](/files/2016/09/itarfand-77.jpg)
+![itarfand-77](/files/2016/09/itarfand-77.jpg)  
 
 <span style="color: #0000ff;">**روش دوم غیر فعال سازی لوک اسکرین**</span>
 
 ابتدا کلمه *Regedit* را در ویندوز ۱۰ جستجو کنید.
 
-![itarfand-78](/files/2016/09/itarfand-78.jpg)
+![itarfand-78](/files/2016/09/itarfand-78.jpg)  
 
 اکنون به آدرس زیر بروید.
 
@@ -43,14 +43,14 @@ tags:
 
 بر روی *Windows* راست کلیک کنید و یک *Key* جدید با نام *Personalization* بسازید تا یک پوشه ساخته شود.
 
-![itarfand-79](/files/2016/09/itarfand-79.jpg)
+![itarfand-79](/files/2016/09/itarfand-79.jpg)  
 
 اکنون مانند عکس زیر در پوشه ساخته شده راست کلیک کنید و گزینه مشخص شده را ایجاد کنید و نام آن را *NoLockScreen* قرار دهید.
 
-![itarfand-80](/files/2016/09/itarfand-80-1.jpg)
+![itarfand-80](/files/2016/09/itarfand-80-1.jpg)  
 
 بر روی فایل ایجاد شده کلیک کنید و عدد ۰ را به عدد ۱ تغییر دهید.
 
-![itarfand-81](/files/2016/09/itarfand-81.jpg)
+![itarfand-81](/files/2016/09/itarfand-81.jpg)  
 
 بعد از انجام یکی از کارهای بالا *Lock Screen* شما غیر فعال می شود.

@@ -35,11 +35,11 @@ tags:
 
 <span style="color: #008000;">*Itarfand :*</span> نام دلخواه برای فلش می باشد که محدودیت کاراکتر <span style="color: #993300;">ندارد</span>.
 
-![itarfand-83](/files/2016/10/itarfand-83.jpg)
+![itarfand-83](/files/2016/10/itarfand-83.jpg)  
 
 اکنون از قسمت File در بالا فایل *Text* گزینه *Save As* را انتخاب کنید و سپس مانند عکس زیر مشخصات آن را کامل کنید.
 
-![itarfand-84](/files/2016/10/itarfand-84.jpg)
+![itarfand-84](/files/2016/10/itarfand-84.jpg)  
 
 <span style="color: #993300;">File Name : autorun.inf</span>
 
@@ -47,4 +47,4 @@ tags:
 
 همان طور که می بینید آیکون فلش شما تغییر کرده است.
 
-![itarfand-85](/files/2016/10/itarfand-85.jpg)
+![itarfand-85](/files/2016/10/itarfand-85.jpg)  

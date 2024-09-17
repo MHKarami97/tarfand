@@ -30,12 +30,12 @@ tags:
 
 ابتدا به قسمت *Setting* بروید و سپس گزینه *Theme And Mods* را انتخاب کنید.
 
-![mhkarami97](/files/2018/02/itarfand-650-min.jpg)
+![mhkarami97](/files/2018/02/itarfand-650-min.jpg)  
 
 اکنون گزینه *Chat Previews* را فعال کنید.
 
-![mhkarami97](/files/2018/02/itarfand-651-min.jpg)
+![mhkarami97](/files/2018/02/itarfand-651-min.jpg)  
 
 با فعال کردن این گزینه ، با نگه داشتن انگشت خود بر روی فرد مورد نظر می توانید پیش نمایشی از پیغام های او را بدون تیک خوردن مشاهده کنید.
 
-![mhkarami97](/files/2018/02/itarfand-652-min.jpg)
+![mhkarami97](/files/2018/02/itarfand-652-min.jpg)  

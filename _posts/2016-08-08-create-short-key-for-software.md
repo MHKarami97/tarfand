@@ -18,10 +18,10 @@ tags:
 
 بعد از ساخت *Short Cut* بر روی آن راست کلیک کنید و گزینه *Properties* را انتخاب نمایید.
 
-![itarfand_1](/files/2016/08/itarfand_1-1.jpg)
+![itarfand_1](/files/2016/08/itarfand_1-1.jpg)  
 
 اکنون به **سربرگ ShortCut** بروید و در **قسمت Short Key** عبارتی مانند: *Ctrl+Shift+I* را وارد کنید و سپس بر روی **Ok** کلیک کنید.
 
-![itarfand_2](/files/2016/08/itarfand_2-1.jpg)
+![itarfand_2](/files/2016/08/itarfand_2-1.jpg)  
 
 اکنون اگر عبارتی که انتخاب کرده اید را در هر جایی بزنید نرم افزار مورد نظر اجرا خواهد شد.

@@ -21,11 +21,11 @@ tags:
 
 بعد از اجرا نرم افزار با صفحه زیر روبرو می شوید که باید بر روی *Setting* کلیک کنید.
 
-![mhkarami97](/files/2018/01/itarfand-410-min.jpg)
+![mhkarami97](/files/2018/01/itarfand-410-min.jpg)  
 
 در صفحه باز شده بر روی + کلیک کنید و سپس نام دلخواه خود را وارد کنید.
 
-![mhkarami97](/files/2018/01/itarfand-411-min.jpg)
+![mhkarami97](/files/2018/01/itarfand-411-min.jpg)  
 
 اکنون با گفتن کلمه وارد شده ، دستیار صوتی *Cortana* فعال می شود.
 

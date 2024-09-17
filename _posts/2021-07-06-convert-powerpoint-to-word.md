@@ -18,13 +18,13 @@ tags:
 
 ابتدا به سربرگ File بروید و سپس از سمت چپ گزینه Export را انتخاب نمایید.
 
-![mhkarami97](/files/2021/07/itarfand-1000-min.jpg)
+![mhkarami97](/files/2021/07/itarfand-1000-min.jpg)  
 سپس در صفحه باز شده گزینه Create Handouts را انتخاب کنید.
 
-![mhkarami97](/files/2021/07/itarfand-1001-min.jpg)
+![mhkarami97](/files/2021/07/itarfand-1001-min.jpg)  
 اکنون گزینه Outline Only را انتخاب و سپس بر روی Ok کلیک کنید.
 
-![mhkarami97](/files/2021/07/itarfand-1002-min.jpg)
+![mhkarami97](/files/2021/07/itarfand-1002-min.jpg)  
 با انجام این کار فایل شما به فایل Word تبدیل میشود.
 
 **<span class="has-inline-color has-vivid-cyan-blue-color">استفاده از RTF</span>**
@@ -33,9 +33,9 @@ tags:
 
 سپس در صفحه باز شده نوع فایل را بر روی rtf قرار دهید.
 
-![mhkarami97](/files/2021/07/itarfand-1003-min.jpg)
+![mhkarami97](/files/2021/07/itarfand-1003-min.jpg)  
 **<span class="has-inline-color has-vivid-cyan-blue-color">استفاده از سایت</span>**
 
 ابتدا به [(این سایت)](https://www.freeconvert.com/pptx-to-word) بروید و سپس فایل پاورپوینت خود را وارد کنید تا عملیات تبدیل انجام شود.
 
-![mhkarami97](/files/2021/07/itarfand-1004-min.jpg)
+![mhkarami97](/files/2021/07/itarfand-1004-min.jpg)  

@@ -37,16 +37,16 @@ tags:
 
 ابتدا افزونه *JavaScript Popup Blocker* را از [<span style="color: #993300;">( این لینک )</span>](https://chrome.google.com/webstore/detail/javascript-popup-blocker/hiajdlfgbgnnjakkbnpdhmhfhklkbiol?hl=en-US) بر روی مرورگر خود نصب کنید.
 
-![itarfand-92](/files/2016/10/itarfand-92.jpg)
+![itarfand-92](/files/2016/10/itarfand-92.jpg)  
 
 بعد از نصب پلاگین آیکونی به نوار مرورگر شما اضافه می شود که به طور اتوماتیک تمام پنجره های پاپ آپ را مسدود می کند.
 
-![itarfand-93](/files/2016/10/itarfand-93.jpg)
+![itarfand-93](/files/2016/10/itarfand-93.jpg)  
 
 توسط گزینه *Remove This Site From PopUp Black List* می توانید کاری کنید که پنجره های پاپ آپ در سایت مورد نظر باز شوند.
 
 توسط گزینه *Extension Setting* می توانید سایت های مسدود شده را مشاهده نمایید و سایتی را اضافه کنید.
 
-![itarfand-94](/files/2016/10/itarfand-94.jpg)
+![itarfand-94](/files/2016/10/itarfand-94.jpg)  
 
 از این به بعد دیگر هیچ صفحه پاپ آپی برای شما باز نخواهد شد و به راحتی می توانید در اینترنت جستجو کنید.

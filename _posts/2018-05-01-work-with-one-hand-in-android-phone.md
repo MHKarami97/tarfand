@@ -29,11 +29,11 @@ tags:
 
 این برنامه را می توانید از [(این لینک)](https://play.google.com/store/apps/details?id=com.xda.onehandedmode) دانلود کنید.
 
-![mhkarami97](/files/2018/05/itarfand-719-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-719-min.jpg)  
 
-![mhkarami97](/files/2018/05/itarfand-718-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-718-min.jpg)  
 
-![mhkarami97](/files/2018/05/itarfand-717-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-717-min.jpg)  
 
 <span style="color: #0000ff;">**اپلیکیشن Simple Control**</span>
 
@@ -41,9 +41,9 @@ tags:
 
 می توانید این اپلیکیشن را از[ (این لینک)](https://play.google.com/store/apps/details?id=ace.jun.simplecontrol) دانلود کنید.
 
-![mhkarami97](/files/2018/05/itarfand-715-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-715-min.jpg)  
 
-![mhkarami97](/files/2018/05/itarfand-716-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-716-min.jpg)  
 
 <span style="color: #0000ff;">**تغییر محل Address Bar گوگل کروم**</span>
 
@@ -53,8 +53,8 @@ tags:
 
 در صفحه باز شده به دنبال *Chrome Home* بگرید و آن را فعال کنید.
 
-![mhkarami97](/files/2018/05/itarfand-713-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-713-min.jpg)  
 
 هما طور که می بینید قسمت جستجو به پایین صفحه منتقل شده است.
 
-![mhkarami97](/files/2018/05/itarfand-714-min.jpg)
+![mhkarami97](/files/2018/05/itarfand-714-min.jpg)  

@@ -21,16 +21,16 @@ tags:
 
 ابتدا بر روی فایل مورد نظر خود راست کلیک کنید و از قسمت *Open With* گزینه *Winrar* را انتخاب کنید.
 
-![mhkarami97](/files/2017/05/itarfand-241.jpg)
+![mhkarami97](/files/2017/05/itarfand-241.jpg)  
 
 بعد از این کار صفحه زیر باز می شود که شما باید وارد پوشه *Word* بشوید.
 
-![mhkarami97](/files/2017/05/itarfand-242n.jpg)
+![mhkarami97](/files/2017/05/itarfand-242n.jpg)  
 
 اکنون وارد پوشه *Media* بشوید.
 
-![mhkarami97](/files/2017/05/itarfand-243.jpg)
+![mhkarami97](/files/2017/05/itarfand-243.jpg)  
 
 همان طور که مشاهده می کنید در داخل این پوشه تمام عکس های استفاده شده در فایل موجود است.
 
-![mhkarami97](/files/2017/05/itarfand-244.jpg)
+![mhkarami97](/files/2017/05/itarfand-244.jpg)  

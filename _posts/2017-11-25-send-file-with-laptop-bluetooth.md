@@ -20,40 +20,40 @@ tags:
 
 ابتدا مانند عکس زیر گزینه بلوتوث را روشن کنید و سپس بر روی آن راست کلیک کنید و گزینه *Setting* را انتخاب کنید.
 
-![mhkarami97](/files/2017/11/itarfand-627.jpg)
+![mhkarami97](/files/2017/11/itarfand-627.jpg)  
 
 سپس در صفحه باز شده بر روی *Send Or Receive File* کلیک کنید.
 
-![mhkarami97](/files/2017/11/itarfand-616-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-616-min.jpg)  
 
 اکنون در صفحه باز شده با توجه به خواسته خود بر روی Send یا Receive کلیک کنید.
 
-![mhkarami97](/files/2017/11/itarfand-628.jpg)
+![mhkarami97](/files/2017/11/itarfand-628.jpg)  
 
 همچنین می توانید بر روی آیکون بلوتوث راست کلیک کنید و گزینه *Send* یا *Receive* را انتخاب کنید.
 
-![mhkarami97](/files/2017/11/itarfand-617-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-617-min.jpg)  
 
 <span style="color: #0000ff;">**دریافت فایل**</span>
 
 بعد از کلیک بر روی *receive* با صفحه زیر روبرو می شوید که در این حالت باید توسط دستگاه دیگر فایل های مورد نظر خود را بفرستید.
 
-![mhkarami97](/files/2017/11/itarfand-618-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-618-min.jpg)  
 
 سپس دستگاه شروع به دریافت فایل می کند.
 
-![mhkarami97](/files/2017/11/itarfand-619-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-619-min.jpg)  
 
-![mhkarami97](/files/2017/11/itarfand-620-min.jpg)
+![mhkarami97](/files/2017/11/itarfand-620-min.jpg)  
 
 <span style="color: #0000ff;">**ارسال فایل**</span>
 
 بعد از کلیک بر روی *Send* با صفحه زیر روبرو می شوید که باید دستگاهی که می خواهید فایل را به آن ارسال کنید را انتخاب نمایید.
 
-![mhkarami97](/files/2017/11/itarfand-629.jpg)
+![mhkarami97](/files/2017/11/itarfand-629.jpg)  
 
 <span style="color: #0000ff;">**حل مشکل عدم ارسال**</span>
 
 اگر برای ارسال و یا دریافت فایل با مشکل روبرو شدید گزینه زیر را بررسی کنید که *فعال* باشد.
 
-![mhkarami97](/files/2017/11/itarfand-630.jpg)
+![mhkarami97](/files/2017/11/itarfand-630.jpg)  

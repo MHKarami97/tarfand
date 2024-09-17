@@ -22,28 +22,28 @@ tags:
 
 برای انجام این کار ابتدا به سایت زیر بروید و در آن ثبت نام کنید.
 
-[Big Blue Button](https://bigbluebutton.org/)
+[Big Blue Button](https://bigbluebutton.org/)  
 
 بعد از ورود به سایت با صفحه زیر مواجه می شوید که در آن می توانید یک کلاس جدید بسازید.
 
-![mhkarami97](/files/2020/03/itarfand-850-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-850-min.jpg)  
 برای کلاس خود می توانید نام دلخواه ، رمز ورود و تنظیماتی درباره کاربران انجام بدهید.
 
-![mhkarami97](/files/2020/03/itarfand-851-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-851-min.jpg)  
 برای ورود به کلاس توسط خودتان و یا افراد دیگر کافی است به لینک داده شده برای هر کلاس بروید. شما به دو صورت می توانید عضو کلاس بشوید، فقط شنونده و یا کسی که می تواند حرف بزند.
 
-![mhkarami97](/files/2020/03/itarfand-852-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-852-min.jpg)  
 بعد از ورود به کلاس با صفحه زیر روبرو می شوید که می توانید قسمت های مختلف آن مانند چت، لیست اعضا، لیست فایل ها، وایت برد و … را مشاهده کنید.
 
-![mhkarami97](/files/2020/03/itarfand-853-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-853-min.jpg)  
 در قسمت تنظیمات می توانید گزینه هایی مانند زبان، فونت، ذخیره دیتا اینترنت و … را مشاهده و تغییر بدهید.
 
-![mhkarami97](/files/2020/03/itarfand-854-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-854-min.jpg)  
 در قسمت اسلایدها می توانید توسط گزینه های مختلف شبیه به وایت برد کلاس شروع به نوشتن کنید.
 
-![mhkarami97](/files/2020/03/itarfand-855-min.jpg)
+![mhkarami97](/files/2020/03/itarfand-855-min.jpg)  
 از امکانات خوب دیگر این سایت امکان چت آنلاین و مدیریت کاربران و امکان چت تصویری و همچنین امکان اضافه کردن فایل اشاره کرد.
 
 همچنین این سایت به صورت open source می باشد که توسط آن می توانید سرور لوکال خود را توسط نصب آسان آن بالا بیاورید و بصورت اختصاصی کلاس خود را بسازید.
 
-[Click To See Source](https://github.com/bigbluebutton/bigbluebutton)
+[Click To See Source](https://github.com/bigbluebutton/bigbluebutton)  

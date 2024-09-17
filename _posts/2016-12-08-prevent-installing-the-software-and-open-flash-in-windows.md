@@ -30,7 +30,7 @@ tags:
 
 ابتدا توسط کلید های ترکیبی *Win+R* قسمت *Run* ویندوز را باز کنید و سپس کلمه *gpedit.msc* را در آن بنویسید.
 
-![mhkarami97](/files/2016/12/itarfand-110.jpg)
+![mhkarami97](/files/2016/12/itarfand-110.jpg)  
 
 <span style="color: #0000ff;">**غیر فعال کردن امکان نصب نرم افزار و بازی**</span>
 
@@ -38,11 +38,11 @@ tags:
 
 <span style="color: #993300;">Administrative Templates + Windows Components + Windows Installer</span>
 
-![mhkarami97](/files/2016/12/itarfand-111.jpg)
+![mhkarami97](/files/2016/12/itarfand-111.jpg)  
 
 اکنون گزینه *Enable* و سپس گزینه *Always* را انتخاب کنید.
 
- ![mhkarami97](/files/2016/12/itarfand-112.jpg)
+ ![mhkarami97](/files/2016/12/itarfand-112.jpg)  
 
 <span style="color: #0000ff;">**غیر فعال کردن امکان وصل شدن فلش به رایانه**</span>
 
@@ -64,4 +64,4 @@ tags:
 
 <span style="color: #800080;">۳)جلوگیری از ریختن اطلاعات به فلش</span>
 
-![mhkarami97](/files/2016/12/itarfand-113.jpg)
+![mhkarami97](/files/2016/12/itarfand-113.jpg)  

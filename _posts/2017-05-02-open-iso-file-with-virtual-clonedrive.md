@@ -47,12 +47,12 @@ tags:
 
 این نرم افزار از فرمت های *iso* و *bin* پشتیبانی می کند و با نصب آن یک درایو مجازی بر روی رایانه شما ایجاد می شود.
 
-![mhkarami97](/files/2017/05/itarfand-177.jpg)
+![mhkarami97](/files/2017/05/itarfand-177.jpg)  
 
 این نرم افزار دارای تنظیماتی ساده می باشد که در آن می توانید تعداد درایو های مجازی که ساخته می شود را تعیین کنید.
 
-![mhkarami97](/files/2017/05/itarfand-178.jpg)
+![mhkarami97](/files/2017/05/itarfand-178.jpg)  
 
 لینک دانلود :
 
-[<span style="color: #008000;">Visual Clone Drive</span>](https://soft98.ir/software/Cd-dvd-tools/344-Virtual-CloneDrive.html)
+[<span style="color: #008000;">Visual Clone Drive</span>](https://soft98.ir/software/Cd-dvd-tools/344-Virtual-CloneDrive.html)  
