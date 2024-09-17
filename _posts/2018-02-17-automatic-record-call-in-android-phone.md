@@ -1,6 +1,6 @@
 ---
 title: 'ضبط خودکار مکالمات در موبایل اندرویدی'
-image: /files/2018/02/itarfand-659-min.jpg
+img: /files/2018/02/itarfand-659-min.jpg
 categories:
     - 'برنامه موبایل'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'تغییر محل باز شدن هنگام کلیک بر روی File Explorer'
-image: /files/2017/03/itarfand-147-1.jpg
+img: /files/2017/03/itarfand-147-1.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

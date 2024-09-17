@@ -1,6 +1,6 @@
 ---
 title: 'نصب سیستم عامل مک بر روی VMWare به صورت مجازی'
-image: /files/2017/10/itarfand-560-min-1.jpg
+img: /files/2017/10/itarfand-560-min-1.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

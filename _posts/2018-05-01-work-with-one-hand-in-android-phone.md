@@ -1,6 +1,6 @@
 ---
 title: 'کار کردن راحت با یک دست در موبایل های اندرویدی'
-image: /files/2018/05/itarfand-720-min.jpg
+img: /files/2018/05/itarfand-720-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

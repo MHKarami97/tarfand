@@ -1,6 +1,6 @@
 ---
 title: 'دانلود خودکار در موبایل با ADM'
-image: /files/2017/10/itarfand-570-min.jpg
+img: /files/2017/10/itarfand-570-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

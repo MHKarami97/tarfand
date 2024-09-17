@@ -1,6 +1,6 @@
 ---
 title: 'انتقال فایل ها بین موبایل و لپ تاپ توسط WiFi'
-image: /files/2020/05/itarfand-921-min.jpg
+img: /files/2020/05/itarfand-921-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

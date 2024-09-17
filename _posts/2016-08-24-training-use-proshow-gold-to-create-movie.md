@@ -1,6 +1,6 @@
 ---
 title: 'ساخت کلیپ از عکس ها با ProShow Gold'
-image: /files/2016/08/itarfand-29.jpg
+img: /files/2016/08/itarfand-29.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

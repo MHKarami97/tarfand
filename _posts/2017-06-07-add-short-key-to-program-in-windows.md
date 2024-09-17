@@ -1,6 +1,6 @@
 ---
 title: 'قرار دادن کلید میانبر برای نرم افزارها'
-image: /files/2017/06/itarfand-275.jpg
+img: /files/2017/06/itarfand-275.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

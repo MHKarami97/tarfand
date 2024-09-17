@@ -1,6 +1,6 @@
 ---
 title: 'کنترل پاورپوینت با موبایل'
-image: /files/2018/10/itarfand-840-min.jpg
+img: /files/2018/10/itarfand-840-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

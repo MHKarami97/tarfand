@@ -1,6 +1,6 @@
 ---
 title: 'استفاده از چند مانیتور با یک کیس در ویندوز'
-image: /files/2017/10/itarfand-533-min.jpg
+img: /files/2017/10/itarfand-533-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

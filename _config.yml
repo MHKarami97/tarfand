@@ -126,13 +126,13 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://mhkarami97.ir"
     - label: "Aparat"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://linkedin.com/in/mhkarami97"
 
 footer:
   links:
     - label: "وبسایت"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://mhkarami97.ir"
 
 defaults:

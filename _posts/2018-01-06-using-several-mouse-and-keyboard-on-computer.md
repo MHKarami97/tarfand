@@ -1,6 +1,6 @@
 ---
 title: 'استفاده هم زمان از چند موس و کیبورد بر روی رایانه'
-image: /files/2018/01/itarfand-647.jpg
+img: /files/2018/01/itarfand-647.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

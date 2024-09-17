@@ -1,6 +1,6 @@
 ---
 title: 'حل مشکل اکانت گوگل پس از Factory Reset موبایل'
-image: /files/2017/06/itarfand-319-min-1.jpg
+img: /files/2017/06/itarfand-319-min-1.jpg
 categories:
     - 'ترفند موبایل'
 tags:

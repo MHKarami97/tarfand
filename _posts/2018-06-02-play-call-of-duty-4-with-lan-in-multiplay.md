@@ -1,6 +1,6 @@
 ---
 title: 'آموزش شبکه کردن بازی Call Of duty 4'
-image: /files/2018/06/itarfand-525-min.jpg
+img: /files/2018/06/itarfand-525-min.jpg
 categories:
     - 'ترفند بازی'
 tags:

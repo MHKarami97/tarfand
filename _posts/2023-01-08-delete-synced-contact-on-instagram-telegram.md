@@ -1,6 +1,6 @@
 ---
 title: 'حذف مخاطبین ذخیره شده در Instagram و Telegram'
-image: /files/2023/01/itarfand-1025-min.jpg
+img: /files/2023/01/itarfand-1025-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

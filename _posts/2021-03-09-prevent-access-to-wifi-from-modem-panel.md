@@ -1,6 +1,6 @@
 ---
 title: 'جلوگیری از دسترسی افراد به اینترنت WiFi'
-image: /files/2020/11/itarfand-957-min.jpg
+img: /files/2020/11/itarfand-957-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'پارتیشن بندی ویندوز با نرم افزار EaseUS Partition Master'
-image: /files/2017/08/itarfand-447-min.jpg
+img: /files/2017/08/itarfand-447-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

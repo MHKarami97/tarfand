@@ -1,6 +1,6 @@
 ---
 title: 'تبدیل هارد از GPT به MBR بدون از دست دادن اطلاعات'
-image: /files/2016/08/itarfand_12.jpg
+img: /files/2016/08/itarfand_12.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

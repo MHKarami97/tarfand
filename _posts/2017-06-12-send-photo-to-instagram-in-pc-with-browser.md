@@ -1,6 +1,6 @@
 ---
 title: 'ارسال عکس به Instagram توسط مرورگر در کامپیوتر'
-image: /files/2017/06/itarfand-283.jpg
+img: /files/2017/06/itarfand-283.jpg
 categories:
     - 'ترفند مرورگر'
 tags:

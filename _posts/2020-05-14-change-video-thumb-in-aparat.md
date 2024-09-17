@@ -1,6 +1,6 @@
 ---
 title: 'تغییر تصویر شاخص ویدیو در آپارت'
-image: /files/2020/05/itarfand-924-min.jpg
+img: /files/2020/05/itarfand-924-min.jpg
 categories:
     - 'ترفند اینترنت'
 tags:

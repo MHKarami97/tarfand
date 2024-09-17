@@ -1,6 +1,6 @@
 ---
 title: 'ّافزایش Follower و like به صورت رایگان در اینستاگرام'
-image: /files/2017/07/itarfand-340-min.jpg
+img: /files/2017/07/itarfand-340-min.jpg
 categories:
     - 'سایت انگلیسی'
 tags:

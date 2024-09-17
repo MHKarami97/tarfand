@@ -1,6 +1,6 @@
 ---
 title: 'دانستن افراد استفاده کرده از رایانه در نبود شما'
-image: /files/2017/11/itarfand-580-min.jpg
+img: /files/2017/11/itarfand-580-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'جلوگیری از تغییر Password ویندوز توسط کاربران در ویندوز'
-image: /files/2017/08/itarfand-407-min.jpg
+img: /files/2017/08/itarfand-407-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

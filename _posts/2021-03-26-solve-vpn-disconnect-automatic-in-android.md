@@ -1,6 +1,6 @@
 ---
 title: 'حل مشکل قطع شدن خودکار VPN در اندروید'
-image: /files/2021/03/itarfand-976-min.jpg
+img: /files/2021/03/itarfand-976-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

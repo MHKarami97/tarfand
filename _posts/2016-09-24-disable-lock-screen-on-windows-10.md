@@ -1,6 +1,6 @@
 ---
 title: 'غیر فعال کردن Lock Screen در ویندوز ۱۰'
-image: /files/2016/09/itarfand-82.jpg
+img: /files/2016/09/itarfand-82.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

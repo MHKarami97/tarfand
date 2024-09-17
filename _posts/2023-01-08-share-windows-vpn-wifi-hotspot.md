@@ -1,6 +1,6 @@
 ---
 title: 'به اشتراک گذاشتن VPN در ویندوز با Hotspot'
-image: /files/2023/01/itarfand-1024-min.jpg
+img: /files/2023/01/itarfand-1024-min.jpg
 categories:
     - 'ترفند اینترنت'
 tags:

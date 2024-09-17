@@ -1,6 +1,6 @@
 ---
 title: 'حل مشکل ۱۰۰ درصد شدن استفاده از دیسک در لپ تاپ'
-image: /files/2020/04/itarfand-904-min.jpg
+img: /files/2020/04/itarfand-904-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

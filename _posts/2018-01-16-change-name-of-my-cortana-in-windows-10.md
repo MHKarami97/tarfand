@@ -1,6 +1,6 @@
 ---
 title: 'آموزش تغییر نام دستیار صوتی Cortana'
-image: /files/2018/01/itarfand-412-min.jpg
+img: /files/2018/01/itarfand-412-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'فیلم برداری از صفحه نمایش لپ تاپ با Camtasia Recorder'
-image: /files/2020/03/itarfand-876-min.jpg
+img: /files/2020/03/itarfand-876-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

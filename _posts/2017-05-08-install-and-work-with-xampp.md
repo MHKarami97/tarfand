@@ -1,6 +1,6 @@
 ---
 title: 'آموزش استفاده از نرم افزار XAMPP برای ایجاد وب سرور داخلی'
-image: /files/2017/05/itarfand-185.jpg
+img: /files/2017/05/itarfand-185.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

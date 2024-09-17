@@ -1,6 +1,6 @@
 ---
 title: 'ایجاد Nas Storage در ویندوز'
-image: /files/2021/03/itarfand-973-min.jpg
+img: /files/2021/03/itarfand-973-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

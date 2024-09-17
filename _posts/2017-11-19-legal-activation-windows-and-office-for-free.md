@@ -1,6 +1,6 @@
 ---
 title: 'آموزش فعال سازی قانونی و رایگان Windows و Office'
-image: /files/2017/11/itarfand-606-min.jpg
+img: /files/2017/11/itarfand-606-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

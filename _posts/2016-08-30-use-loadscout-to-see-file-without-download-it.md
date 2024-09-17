@@ -1,6 +1,6 @@
 ---
 title: 'آموزش LoadScout برای استخراج محتویات فایل قبل از دانلود'
-image: /files/2016/08/itarfand-58.jpg
+img: /files/2016/08/itarfand-58.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'تغییر پوشه پیش فرض Temp در فتوشاپ'
-image: /files/2018/07/itarfand-748-min.jpg
+img: /files/2018/07/itarfand-748-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:
