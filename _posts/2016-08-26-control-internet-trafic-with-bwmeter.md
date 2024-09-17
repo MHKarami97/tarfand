@@ -1,24 +1,5 @@
 ---
-id: 319
 title: 'کنترل ترافیک اینترنت با BWMeter'
-date: '2016-08-26T17:44:31+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=319'
-permalink: /control-internet-trafic-with-bwmeter/
-
-snap_MYURL:
-    - ''
-snapEdIT:
-    - '1'
-snapTG:
-    - 's:183:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:15:"%TITLE% - %URL%";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTG";s:1:"1";}}";'
-rating:
-    - '5.0'
-
-summary:
-    - 'کنترل ترافیک اینترنت با BWMeter'
 image: /files/2016/08/itarfand_37.jpg
 categories:
     - 'ترفند نرم افزار'

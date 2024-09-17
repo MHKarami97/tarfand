@@ -1,20 +1,5 @@
 ---
-id: 1607
 title: 'پاک کردن پوشه windows.Old'
-date: '2017-11-09T19:37:20+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1607'
-permalink: /delete-windows-old-folder/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.0'
-summary:
-    - 'پاک کردن پوشه windows.Old'
 image: /files/2017/11/itarfand-592-min.jpg
 categories:
     - 'ترفند ویندوز'

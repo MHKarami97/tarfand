@@ -1,22 +1,5 @@
 ---
-id: 531
 title: 'تغییر آیکون حافظه های جانبی'
-date: '2016-10-07T09:06:49+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=531'
-permalink: /customize-the-icon-on-removable-drive/
-
-rating:
-    - '4.0'
-
-summary:
-    - 'تغییر آیکون حافظه های جانبی'
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
 image: /files/2016/10/itarfand-86-1.jpg
 categories:
     - 'ترفند ویندوز'

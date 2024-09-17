@@ -1,20 +1,5 @@
 ---
-id: 1047
 title: 'جدا کردن عکس های فایل Word'
-date: '2017-05-30T15:13:28+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1047/'
-permalink: /extracting-images-from-word-file/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.0'
-summary:
-    - 'جدا کردن عکس های فایل Word'
 image: /files/2017/05/itarfand-245.jpg
 categories:
     - 'ترفند آفیس'

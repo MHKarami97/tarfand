@@ -1,12 +1,5 @@
 ---
-id: 2638
 title: 'ایجاد Nas Storage در ویندوز'
-date: '2021-03-23T18:37:02+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2638'
-permalink: /create-nas-storage-in-windows/
-
 image: /files/2021/03/itarfand-973-min.jpg
 categories:
     - 'ترفند ویندوز'

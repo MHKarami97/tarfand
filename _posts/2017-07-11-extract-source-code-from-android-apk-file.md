@@ -1,20 +1,5 @@
 ---
-id: 1185
 title: 'آموزش بدست آوردن Source فایل های APK موبایل'
-date: '2017-07-11T17:45:35+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1185/'
-permalink: /extract-source-code-from-android-apk-file/
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'آموزش بدست آوردن Source فایل های موبایل'
 image: /files/2017/07/itarfand-377.jpg
 categories:
     - 'ترفند نرم افزار'

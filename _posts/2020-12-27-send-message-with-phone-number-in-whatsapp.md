@@ -1,12 +1,5 @@
 ---
-id: 2580
 title: 'پیام دادن به فرد واتساپ بدون نیاز به ذخیره مخاطب'
-date: '2020-12-27T05:41:36+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2580'
-permalink: /send-message-with-phone-number-in-whatsapp/
-
 image: /files/2020/11/itarfand-960-min.jpg
 categories:
     - 'ترفند نرم افزار'

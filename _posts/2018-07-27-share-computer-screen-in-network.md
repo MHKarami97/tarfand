@@ -1,12 +1,5 @@
 ---
-id: 2113
 title: 'به اشتراک گذاری صفحه نمایش رایانه در شبکه'
-date: '2018-07-27T07:12:49+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2113'
-permalink: /share-computer-screen-in-network/
-
 image: /files/2018/07/itarfand-751-min.jpg
 categories:
     - 'نرم افزار کاربردی'

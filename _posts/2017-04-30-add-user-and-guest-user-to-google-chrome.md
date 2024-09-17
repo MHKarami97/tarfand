@@ -1,16 +1,5 @@
 ---
-id: 866
 title: 'اضافه کردن کاربر به مرورگر گوگل کروم'
-date: '2017-04-30T20:10:31+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=866/'
-permalink: /add-user-and-guest-user-to-google-chrome/
-rating:
-    - '4.0'
-summary:
-    - 'اضافه کردن کاربر به مرورگر گوگل کروم'
 image: /files/2017/04/itarfand-235.jpg
 categories:
     - 'ترفند مرورگر'

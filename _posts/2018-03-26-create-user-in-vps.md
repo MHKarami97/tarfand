@@ -1,17 +1,5 @@
 ---
-id: 1829
 title: 'ساخت User در سرور مجازی یا VPS'
-date: '2018-03-26T11:28:55+04:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1829'
-permalink: /create-user-in-vps/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '-'
 image: /files/2018/03/itarfand-683-min.jpg
 categories:
     - 'ترفند ویندوز'

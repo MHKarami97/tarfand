@@ -1,18 +1,5 @@
 ---
-id: 508
 title: 'غیر فعال کردن Lock Screen در ویندوز ۱۰'
-date: '2016-09-24T16:03:50+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=508'
-permalink: /disable-lock-screen-on-windows-10/
-
-rating:
-    - '4.0'
-
-summary:
-    - 'غیر فعال کردن Lock Screen در ویندوز ۱۰'
 image: /files/2016/09/itarfand-82.jpg
 categories:
     - 'ترفند ویندوز'

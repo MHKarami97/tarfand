@@ -1,11 +1,5 @@
 ---
-id: 1936
 title: 'نمایش صفحه موبایل بر روی لپ تاپ و تلویزیون'
-date: '2018-05-13T14:41:06+04:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1936'
-permalink: /show-android-phone-screen-in-laptop-and-tv/
 image: /files/2018/05/itarfand-725-min.jpg
 categories:
     - 'ترفند موبایل'

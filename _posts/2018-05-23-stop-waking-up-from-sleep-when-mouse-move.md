@@ -1,11 +1,5 @@
 ---
-id: 1950
 title: 'جلوگیری از روش شدن خودکار رایانه در صورت حرکت موس'
-date: '2018-05-23T08:40:54+04:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1950'
-permalink: /stop-waking-up-from-sleep-when-mouse-move/
 image: /files/2018/05/itarfand-730-min.jpg
 categories:
     - 'ترفند ویندوز'

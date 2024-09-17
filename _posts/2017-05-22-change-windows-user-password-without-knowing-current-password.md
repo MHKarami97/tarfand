@@ -1,16 +1,5 @@
 ---
-id: 1026
 title: 'تغییر رمز ویندوز بدون دانستن آن'
-date: '2017-05-22T11:21:18+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1026/'
-permalink: /change-windows-user-password-without-knowing-current-password/
-rating:
-    - '5.0'
-summary:
-    - 'تغییر رمز ویندوز بدون دانستن آن'
 image: /files/2017/05/itarfand-269.jpg
 categories:
     - 'ترفند ویندوز'

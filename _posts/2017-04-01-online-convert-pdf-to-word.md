@@ -1,16 +1,5 @@
 ---
-id: 753
 title: 'تبدیل Pdf فارسی به فایل Word قابل ویرایش'
-date: '2017-04-01T22:49:51+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=753'
-permalink: /online-convert-pdf-to-word/
-rating:
-    - '4.0'
-summary:
-    - 'تبدیل Pdf فارسی به فایل Word قابل ویرایش'
 image: /files/2017/04/itarfand-159.jpg
 categories:
     - 'ترفند اینترنت'

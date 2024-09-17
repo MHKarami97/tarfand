@@ -1,18 +1,5 @@
 ---
-id: 381
 title: 'ویرایش دلخواه در فایل ویندوز برای ساخت ویندوز شخصی'
-date: '2016-08-28T11:11:14+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=381'
-permalink: /create-custom-windows-with-ntlite/
-
-rating:
-    - '4.5'
-
-summary:
-    - 'ویرایش دلخواه در فایل ویندوز برای ساخت ویندوز شخصی'
 image: /files/2016/08/itarfand-52.jpg
 categories:
     - 'ترفند نرم افزار'

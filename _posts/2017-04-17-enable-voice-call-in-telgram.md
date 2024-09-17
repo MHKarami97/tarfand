@@ -1,16 +1,5 @@
 ---
-id: 814
 title: 'فعال سازی تماس صوتی در تلگرام'
-date: '2017-04-17T13:31:55+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=814/'
-permalink: /enable-voice-call-in-telgram/
-rating:
-    - '4.5'
-summary:
-    - 'فعال سازی تماس صوتی در تلگرام'
 image: /files/2017/04/itarfand-255.jpg
 categories:
     - 'ترفند موبایل'

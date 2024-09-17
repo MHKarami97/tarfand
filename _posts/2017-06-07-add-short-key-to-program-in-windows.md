@@ -1,20 +1,5 @@
 ---
-id: 1061
 title: 'قرار دادن کلید میانبر برای نرم افزارها'
-date: '2017-06-07T13:12:49+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1061/'
-permalink: /add-short-key-to-program-in-windows/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.0'
-summary:
-    - 'قرار دادن کلید میانبر برای نرم افزارها'
 image: /files/2017/06/itarfand-275.jpg
 categories:
     - 'ترفند ویندوز'

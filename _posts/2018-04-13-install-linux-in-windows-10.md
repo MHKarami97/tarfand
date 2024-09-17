@@ -1,15 +1,5 @@
 ---
-id: 1859
 title: 'آموزش نصب Linux بر روی ویندوز ۱۰'
-date: '2018-04-13T06:54:57+04:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1859'
-permalink: /install-linux-in-windows-10/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
 image: /files/2018/04/itarfand-703-min.jpg
 categories:
     - 'ترفند ویندوز'

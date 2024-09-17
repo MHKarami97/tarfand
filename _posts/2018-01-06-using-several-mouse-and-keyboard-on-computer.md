@@ -1,18 +1,5 @@
 ---
-id: 1717
 title: 'استفاده هم زمان از چند موس و کیبورد بر روی رایانه'
-date: '2018-01-06T08:19:52+03:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1717'
-permalink: /using-several-mouse-and-keyboard-on-computer/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '-'
-
 image: /files/2018/01/itarfand-647.jpg
 categories:
     - 'ترفند نرم افزار'

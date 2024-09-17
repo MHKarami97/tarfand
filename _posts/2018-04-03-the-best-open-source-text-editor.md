@@ -1,17 +1,5 @@
 ---
-id: 1848
 title: 'معرفی بهترین ویرایش گر های متن Open Source'
-date: '2018-04-03T07:09:35+04:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1848'
-permalink: /the-best-open-source-text-editor/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '-'
 image: /files/2018/04/itarfand-707-min.jpg
 categories:
     - 'نرم افزار کاربردی'

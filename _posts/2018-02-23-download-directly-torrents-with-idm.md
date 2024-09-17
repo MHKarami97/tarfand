@@ -1,17 +1,5 @@
 ---
-id: 1787
 title: 'دانلود مستقیم و پر سرعت فایل های تورنت با IDM'
-date: '2018-02-23T08:19:42+03:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1787'
-permalink: /download-directly-torrents-with-idm/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '-'
 image: /files/2018/02/itarfand-663-min.jpg
 categories:
     - 'سایت انگلیسی'

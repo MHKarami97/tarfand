@@ -1,12 +1,5 @@
 ---
-id: 2222
 title: 'آموزش Full Screen کردن اپ های ویندوز ۱۰'
-date: '2020-03-02T19:53:51+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2222'
-permalink: /make-windows-10-app-full-ascreen/
-
 image: /files/2020/03/itarfand-849-min.jpg
 categories:
     - 'ترفند ویندوز'

@@ -1,16 +1,5 @@
 ---
-id: 725
 title: 'تغییر محل باز شدن هنگام کلیک بر روی File Explorer'
-date: '2017-03-17T17:52:08+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=725'
-permalink: /change-place-of-file-explorer-when-open/
-rating:
-    - '3.0'
-summary:
-    - 'تغییر محل باز شدن هنگام کلیک بر روی File Explorer'
 image: /files/2017/03/itarfand-147-1.jpg
 categories:
     - 'ترفند ویندوز'

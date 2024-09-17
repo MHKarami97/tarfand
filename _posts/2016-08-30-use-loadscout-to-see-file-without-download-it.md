@@ -1,18 +1,5 @@
 ---
-id: 413
 title: 'آموزش LoadScout برای استخراج محتویات فایل قبل از دانلود'
-date: '2016-08-30T10:47:25+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=413'
-permalink: /use-loadscout-to-see-file-without-download-it/
-
-rating:
-    - '4.5'
-
-summary:
-    - 'آموزش LoadScout برای استخراج محتویات فایل قبل از دانلود'
 image: /files/2016/08/itarfand-58.jpg
 categories:
     - 'ترفند نرم افزار'

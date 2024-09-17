@@ -1,20 +1,5 @@
 ---
-id: 1158
 title: 'ّافزایش Follower و like به صورت رایگان در اینستاگرام'
-date: '2017-07-02T16:11:45+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1158/'
-permalink: /increase-free-followers-and-likes-on-instagram/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'ّافزایش Follower و like به صورت رایگان در اینستاگرام'
 image: /files/2017/07/itarfand-340-min.jpg
 categories:
     - 'سایت انگلیسی'

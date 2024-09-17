@@ -1,12 +1,5 @@
 ---
-id: 2397
 title: 'دسترسی به پیامک ها و ارسال پیامک توسط کامپیوتر'
-date: '2020-04-23T09:43:35+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2397'
-permalink: /manage-and-send-messages-with-laptop/
-
 image: /files/2020/04/itarfand-914-min.jpg
 categories:
     - 'ترفند ویندوز'

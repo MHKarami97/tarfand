@@ -1,20 +1,5 @@
 ---
-id: 1201
 title: 'نمایش آیکون فایل های APK در رایانه'
-date: '2017-07-23T18:04:19+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1201/'
-permalink: /show-mobile-app-icons-in-windows/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'نمایش آیکون فایل های APK در رایانه'
 image: /files/2017/07/itarfand-394-min.jpg
 categories:
     - 'نرم افزار کاربردی'

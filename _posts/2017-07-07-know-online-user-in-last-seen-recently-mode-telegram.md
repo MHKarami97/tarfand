@@ -1,20 +1,5 @@
 ---
-id: 1174
 title: 'دانستن آنلاین بودن فرد در حالت Last Seen Recently تلگرام'
-date: '2017-07-07T11:50:41+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1174/'
-permalink: /know-online-user-in-last-seen-recently-mode-telegram/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.5'
-summary:
-    - 'دانستن آنلاین بودن فرد در حالت Last Seen Recently تلگرام'
 image: /files/2017/07/itarfand-358.jpg
 categories:
     - 'ترفند موبایل'

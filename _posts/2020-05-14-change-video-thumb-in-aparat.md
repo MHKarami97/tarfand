@@ -1,12 +1,5 @@
 ---
-id: 2452
 title: 'تغییر تصویر شاخص ویدیو در آپارت'
-date: '2020-05-14T14:55:25+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2452'
-permalink: /change-video-thumb-in-aparat/
-
 image: /files/2020/05/itarfand-924-min.jpg
 categories:
     - 'ترفند اینترنت'

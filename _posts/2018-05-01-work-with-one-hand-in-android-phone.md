@@ -1,11 +1,5 @@
 ---
-id: 1915
 title: 'کار کردن راحت با یک دست در موبایل های اندرویدی'
-date: '2018-05-01T09:37:34+04:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1915'
-permalink: /work-with-one-hand-in-android-phone/
 image: /files/2018/05/itarfand-720-min.jpg
 categories:
     - 'ترفند موبایل'

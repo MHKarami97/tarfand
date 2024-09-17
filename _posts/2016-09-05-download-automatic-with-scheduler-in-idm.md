@@ -1,26 +1,5 @@
 ---
-id: 463
 title: 'زمان بندی IDM برای دانلود خودکار در ساعات شبانه'
-date: '2016-09-05T10:55:35+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=463'
-permalink: /download-automatic-with-scheduler-in-idm/
-snap_isAutoPosted:
-    - '1'
-
-snap_MYURL:
-    - ''
-snapEdIT:
-    - '1'
-snapTG:
-    - 's:175:"a:1:{i:0;a:7:{s:9:"msgFormat";s:15:"%TITLE% - %URL%";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTG";i:0;s:2:"do";i:0;}}";'
-rating:
-    - '4.0'
-
-summary:
-    - 'زمان بندی IDM برای دانلود خودکار در ساعات شبانه'
 image: /files/2016/09/itarfand-74.jpg
 categories:
     - 'ترفند نرم افزار'

@@ -1,16 +1,5 @@
 ---
-id: 906
 title: 'نصب مجازی Kali Linux بر روی VMware'
-date: '2017-05-10T22:54:18+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=906/'
-permalink: /install-kali-linux-in-vmware/
-rating:
-    - '5.0'
-summary:
-    - 'نصب مجازی Kali Linux بر روی VMware'
 image: /files/2017/05/itarfand-229.jpg
 categories:
     - 'ترفند نرم افزار'

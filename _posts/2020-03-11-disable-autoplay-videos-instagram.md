@@ -1,12 +1,5 @@
 ---
-id: 2254
 title: 'غیر فعال سازی پخش خودکار ویدیو در اینستاگرام'
-date: '2020-03-11T07:53:29+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2254'
-permalink: /disable-autoplay-videos-instagram/
-
 image: /files/2020/03/itarfand-861-min.jpg
 categories:
     - 'ترفند موبایل'

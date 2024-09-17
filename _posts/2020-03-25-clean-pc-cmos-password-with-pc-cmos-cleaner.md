@@ -1,12 +1,5 @@
 ---
-id: 2302
 title: 'پاک کردن CMOS با نرم افزار PC CMOS Cleaner'
-date: '2020-03-25T12:45:14+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2302'
-permalink: /clean-pc-cmos-password-with-pc-cmos-cleaner/
-
 image: /files/2020/03/itarfand-879-min.jpg
 categories:
     - 'ترفند ویندوز'

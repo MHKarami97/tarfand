@@ -1,18 +1,5 @@
 ---
-id: 218
 title: 'ساخت کلید میانبر برای نرم افزارها'
-date: '2016-08-08T14:47:32+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=218'
-permalink: /create-short-key-for-software/
-
-rating:
-    - '4.0'
-
-summary:
-    - 'ساخت کلید میانبر برای نرم افزارها'
 image: /files/2016/08/itarfand_3.jpg
 categories:
     - 'ترفند ویندوز'

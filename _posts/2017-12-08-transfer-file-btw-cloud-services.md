@@ -1,21 +1,5 @@
 ---
-id: 1694
 title: 'انتقال اطلاعات بین حافظه های ابری'
-date: '2017-12-08T06:46:58+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1694'
-permalink: /transfer-file-btw-cloud-services/
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'انتقال اطلاعات بین سرویس های ابری'
-
 image: /files/2017/12/itarfand-639-min.jpg
 categories:
     - 'سایت انگلیسی'

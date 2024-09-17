@@ -1,20 +1,5 @@
 ---
-id: 1670
 title: 'ارسال فایل با بلوتوث لپ تاپ'
-date: '2017-11-25T09:21:49+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1670'
-permalink: /send-file-with-laptop-bluetooth/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.0'
-summary:
-    - 'ارسال فایل با بلوتوث لپ تاپ'
 image: /files/2017/11/itarfand-621-min.jpg
 categories:
     - 'ترفند ویندوز'

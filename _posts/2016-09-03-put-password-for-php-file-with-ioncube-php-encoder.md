@@ -1,26 +1,5 @@
 ---
-id: 441
 title: 'رمزگذاری بر روی فایل PHP با ionCube PHP Encoder'
-date: '2016-09-03T15:00:14+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=441'
-permalink: /put-password-for-php-file-with-ioncube-php-encoder/
-snap_isAutoPosted:
-    - '1'
-
-snap_MYURL:
-    - ''
-snapEdIT:
-    - '1'
-snapTG:
-    - 's:183:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:15:"%TITLE% - %URL%";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTG";s:1:"1";}}";'
-rating:
-    - '4.0'
-
-summary:
-    - 'رمزگذاری بر روی فایل PHP با ionCube PHP Encoder'
 image: /files/2016/09/itarfand-68.jpg
 categories:
     - 'ترفند نرم افزار'

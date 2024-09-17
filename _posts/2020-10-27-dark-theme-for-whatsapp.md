@@ -1,11 +1,5 @@
 ---
-id: 2485
 title: 'فعال کردن تم تاریک برای واتساپ'
-date: '2020-10-27T18:01:38+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2485'
-permalink: /dark-theme-for-whatsapp/
 image: /files/2020/10/itarfand-930-min.jpg
 categories:
     - 'ترفند موبایل'

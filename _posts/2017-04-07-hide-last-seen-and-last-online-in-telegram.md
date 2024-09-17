@@ -1,16 +1,5 @@
 ---
-id: 773
 title: 'مخفی کردن آخرین بازدید در تلگرام با Last Seen Recently'
-date: '2017-04-07T10:31:33+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=773'
-permalink: /hide-last-seen-and-last-online-in-telegram/
-rating:
-    - '4.0'
-summary:
-    - 'مخفی کردن آخرین بازدید در تلگرام با Last Seen Recently'
 image: /files/2017/04/itarfand-163.jpg
 categories:
     - 'ترفند نرم افزار'

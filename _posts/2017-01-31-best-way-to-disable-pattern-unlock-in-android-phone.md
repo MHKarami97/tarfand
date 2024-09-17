@@ -1,24 +1,5 @@
 ---
-id: 653
 title: 'شکستن قفل پترن موبایل های اندروید'
-date: '2017-01-31T15:59:32+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=653'
-permalink: /best-way-to-disable-pattern-unlock-in-android-phone/
-
-rating:
-    - '5.0'
-Likes:
-    - '1'
-Dislikes:
-    - '0'
-'Likes minus dislikes':
-    - '1'
-
-summary:
-    - 'شکستن قفل پترن موبایل های اندروید'
 image: /files/2017/01/itarfand-120.jpg
 categories:
     - 'ترفند موبایل'

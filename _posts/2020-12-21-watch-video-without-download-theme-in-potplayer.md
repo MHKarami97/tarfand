@@ -1,12 +1,5 @@
 ---
-id: 2576
 title: 'مشاهده فیلم ها در ویندوز بدون نیاز به دانلود کردن آنها'
-date: '2020-12-21T06:46:25+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2576'
-permalink: /watch-video-without-download-theme-in-potplayer/
-
 image: /files/2020/11/itarfand-936-min.jpg
 categories:
     - 'ترفند نرم افزار'

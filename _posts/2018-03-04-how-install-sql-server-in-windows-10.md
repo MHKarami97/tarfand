@@ -1,17 +1,5 @@
 ---
-id: 1801
 title: 'آموزش نصب SQL Server بر روی ویندوز'
-date: '2018-03-04T06:44:35+03:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1801'
-permalink: /how-install-sql-server-in-windows-10/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '-'
 image: /files/2018/03/itarfand-675-min.jpg
 categories:
     - 'ترفند نرم افزار'

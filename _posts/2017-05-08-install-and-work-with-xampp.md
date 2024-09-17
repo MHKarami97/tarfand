@@ -1,17 +1,5 @@
 ---
-id: 890
 title: 'آموزش استفاده از نرم افزار XAMPP برای ایجاد وب سرور داخلی'
-date: '2017-05-08T10:25:53+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=890/'
-permalink: /install-and-work-with-xampp/
-rating:
-    - '3.5'
-summary:
-    - 'آموزش استفاده از نرم افزار XAMPP برای ایجاد وب سرور داخلی'
-
 image: /files/2017/05/itarfand-185.jpg
 categories:
     - 'ترفند نرم افزار'

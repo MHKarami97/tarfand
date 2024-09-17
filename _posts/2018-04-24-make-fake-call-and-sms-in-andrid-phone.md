@@ -1,15 +1,5 @@
 ---
-id: 1902
 title: 'درست کردن تماس و پیامک جعلی در موبایل'
-date: '2018-04-24T05:44:55+04:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1902'
-permalink: /make-fake-call-and-sms-in-andrid-phone/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
 image: /files/2018/04/itarfand-712-min.jpg
 categories:
     - 'ترفند موبایل'

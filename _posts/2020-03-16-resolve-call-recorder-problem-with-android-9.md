@@ -1,12 +1,5 @@
 ---
-id: 2266
 title: 'حل مشکل اپلیکیشن های ضبط تماس با اندروید ۹'
-date: '2020-03-16T10:11:30+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2266'
-permalink: /resolve-call-recorder-problem-with-android-9/
-
 image: /files/2020/03/itarfand-865-min.jpg
 categories:
     - 'ترفند موبایل'

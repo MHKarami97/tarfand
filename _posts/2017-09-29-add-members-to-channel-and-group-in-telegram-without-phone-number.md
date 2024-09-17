@@ -1,20 +1,5 @@
 ---
-id: 1442
 title: 'اضافه کردن افراد بدون شماره تلفن در گروه و کانال تلگرام'
-date: '2017-09-29T16:36:03+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1442/'
-permalink: /add-members-to-channel-and-group-in-telegram-without-phone-number/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.5'
-summary:
-    - 'اضافه کردن افراد بدون شماره تلفن در گروه و کانال تلگرام'
 image: /files/2017/09/itarfand-508-min.jpg
 categories:
     - 'ترفند موبایل'

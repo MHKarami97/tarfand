@@ -1,20 +1,5 @@
 ---
-id: 1466
 title: 'استفاده از چند مانیتور با یک کیس در ویندوز'
-date: '2017-10-11T10:58:21+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1466/'
-permalink: /use-multiple-monitor-in-windows/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.5'
-summary:
-    - 'استفاده از چند مانیتور با یک کیس در ویندوز'
 image: /files/2017/10/itarfand-533-min.jpg
 categories:
     - 'ترفند ویندوز'

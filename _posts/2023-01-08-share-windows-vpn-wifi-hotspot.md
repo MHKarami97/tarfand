@@ -1,12 +1,5 @@
 ---
-id: 2745
 title: 'به اشتراک گذاشتن VPN در ویندوز با Hotspot'
-date: '2023-01-08T10:11:07+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2745'
-permalink: /share-windows-vpn-wifi-hotspot/
-
 image: /files/2023/01/itarfand-1024-min.jpg
 categories:
     - 'ترفند اینترنت'

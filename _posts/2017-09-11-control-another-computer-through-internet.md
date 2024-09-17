@@ -1,20 +1,5 @@
 ---
-id: 1352
 title: 'مدیریت و کنترل از راه دور کامپیتور'
-date: '2017-09-11T12:27:15+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1352/'
-permalink: /control-another-computer-through-internet/
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'مدیریت و کنترل از راه دور کامپیتور'
 image: /files/2017/09/itarfand-489-min.jpg
 categories:
     - 'ترفند ویندوز'

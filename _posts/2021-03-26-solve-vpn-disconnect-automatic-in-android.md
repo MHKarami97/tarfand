@@ -1,12 +1,5 @@
 ---
-id: 2642
 title: 'حل مشکل قطع شدن خودکار VPN در اندروید'
-date: '2021-03-26T09:23:28+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2642'
-permalink: /solve-vpn-disconnect-automatic-in-android/
-
 image: /files/2021/03/itarfand-976-min.jpg
 categories:
     - 'ترفند موبایل'

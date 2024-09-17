@@ -1,11 +1,5 @@
 ---
-id: 2320
 title: 'بوت کردن سیستم با فلش usb'
-date: '2020-03-28T12:41:00+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2320'
-permalink: /boot-system-with-flash-usb/
 image: /files/2020/03/itarfand-883-min.jpg
 categories:
     - 'ترفند ویندوز'

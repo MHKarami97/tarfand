@@ -1,20 +1,5 @@
 ---
-id: 1589
 title: 'دانستن افراد استفاده کرده از رایانه در نبود شما'
-date: '2017-11-06T14:56:25+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1589'
-permalink: /find-out-who-is-logged-into-your-computer/
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'دانستن افراد استفاده کردن از رایانه در نبود شما'
 image: /files/2017/11/itarfand-580-min.jpg
 categories:
     - 'ترفند ویندوز'

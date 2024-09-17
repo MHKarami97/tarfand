@@ -1,12 +1,5 @@
 ---
-id: 2151
 title: 'کنترل پاورپوینت با موبایل'
-date: '2018-10-21T14:21:46+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2151'
-permalink: /control-powerpoint-with-android-phone/
-
 image: /files/2018/10/itarfand-840-min.jpg
 categories:
     - 'ترفند نرم افزار'

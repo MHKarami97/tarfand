@@ -1,16 +1,5 @@
 ---
-id: 1003
 title: 'آموزش تار کردن قسمتی از عکس در فتوشاپ'
-date: '2017-05-17T13:48:09+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1003/'
-permalink: /matte-effect-in-photoshop/
-rating:
-    - '4.0'
-summary:
-    - 'آموزش تار کردن قسمتی از عکس در فتوشاپ'
 image: /files/2017/05/itarfand-240.jpg
 categories:
     - 'ترفند نرم افزار گرافیکی'

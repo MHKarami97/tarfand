@@ -1,18 +1,5 @@
 ---
-id: 543
 title: 'آموزش پاک کردن پسورد نرم افزار Deep Freeze'
-date: '2016-10-16T20:22:36+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=543'
-permalink: /remove-deep-freeze-password/
-
-rating:
-    - '4.0'
-
-summary:
-    - 'آموزش پاک کردن پسورد نرم افزار Deep Freeze'
 image: /files/2016/10/itarfand-87.jpg
 categories:
     - 'ترفند نرم افزار'

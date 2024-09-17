@@ -1,21 +1,5 @@
 ---
-id: 1214
 title: 'دریافت VPS رایگان از سرورهای Microsoft و NVidia'
-date: '2017-07-31T16:38:12+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1214/'
-permalink: /get-free-vps-from-microsoft/
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.0'
-summary:
-    - 'دریافت VPS رایگان از سرورهای Microsoft'
-
 image: /files/2017/07/itarfand-386.jpg
 categories:
     - 'سایت انگلیسی'

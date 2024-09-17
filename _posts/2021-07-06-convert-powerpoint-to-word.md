@@ -1,12 +1,5 @@
 ---
-id: 2655
 title: 'تبدیل فایل PowerPoint به Word'
-date: '2021-07-06T10:28:07+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2655'
-permalink: /convert-powerpoint-to-word/
-
 image: /files/2021/07/itarfand-1005-min.jpg
 categories:
     - 'ترفند نرم افزار'

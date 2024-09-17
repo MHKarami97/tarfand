@@ -1,12 +1,5 @@
 ---
-id: 2058
 title: 'تغییر پوشه پیش فرض Temp در فتوشاپ'
-date: '2018-07-11T18:00:18+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2058'
-permalink: /change-temp-folder-in-photoshop/
-
 image: /files/2018/07/itarfand-748-min.jpg
 categories:
     - 'ترفند نرم افزار'

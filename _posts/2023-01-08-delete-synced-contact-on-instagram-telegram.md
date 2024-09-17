@@ -1,12 +1,5 @@
 ---
-id: 2742
 title: 'حذف مخاطبین ذخیره شده در Instagram و Telegram'
-date: '2023-01-08T09:26:40+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2742'
-permalink: /delete-synced-contact-on-instagram-telegram/
-
 image: /files/2023/01/itarfand-1025-min.jpg
 categories:
     - 'ترفند نرم افزار'

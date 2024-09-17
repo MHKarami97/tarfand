@@ -1,18 +1,5 @@
 ---
-id: 596
 title: 'دانستن پسورد ذخیره شده WiFi در ویندوز'
-date: '2016-11-11T12:11:25+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=596'
-permalink: /find-saved-wifi-password-in-windows-10/
-
-rating:
-    - '4.0'
-
-summary:
-    - 'دانستن پسورد ذخیره شده WiFi در ویندوز'
 image: /files/2016/11/itarfand-104.jpg
 categories:
     - 'ترفند ویندوز'

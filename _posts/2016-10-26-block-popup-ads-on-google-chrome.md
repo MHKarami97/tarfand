@@ -1,18 +1,5 @@
 ---
-id: 569
 title: 'مسدود کردن تبلیغات PopUp در مرورگر گوگل کروم'
-date: '2016-10-26T13:36:11+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=569'
-permalink: /block-popup-ads-on-google-chrome/
-
-rating:
-    - '4.0'
-
-summary:
-    - 'مسدود کردن تبلیغات PopUp در مرورگر گوگل کروم'
 image: /files/2016/10/itarfand-91.jpg
 categories:
     - 'ترفند مرورگر'

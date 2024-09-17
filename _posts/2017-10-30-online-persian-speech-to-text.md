@@ -1,20 +1,5 @@
 ---
-id: 1574
 title: 'تبدیل  آنلاین گفتار فارسی به متن'
-date: '2017-10-30T10:59:54+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=1574'
-permalink: /online-persian-speech-to-text/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.5'
-summary:
-    - 'تبدیل  آنلاین گفتار فارسی به متن'
 image: /files/2017/10/itarfand-575-min.jpg
 categories:
     - 'سایت انگلیسی'

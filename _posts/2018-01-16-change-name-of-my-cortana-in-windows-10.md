@@ -1,17 +1,5 @@
 ---
-id: 1732
 title: 'آموزش تغییر نام دستیار صوتی Cortana'
-date: '2018-01-16T18:30:27+03:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1732'
-permalink: /change-name-of-my-cortana-in-windows-10/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '-'
 image: /files/2018/01/itarfand-412-min.jpg
 categories:
     - 'ترفند ویندوز'

@@ -1,24 +1,5 @@
 ---
-id: 658
 title: 'مسنجر رایانه با امکان استفاده از بیشتر شبکه های اجتماعی'
-date: '2017-02-16T18:23:14+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=658'
-permalink: /messaging-and-emailing-app-that-combines-common-web-applications-into-one/
-
-rating:
-    - '4.0'
-Likes:
-    - '1'
-Dislikes:
-    - '0'
-'Likes minus dislikes':
-    - '1'
-
-summary:
-    - 'مسنجر رایانه با امکان استفاده از بیشتر شبکه های اجتماعی'
 image: /files/2017/02/itarfand-128.jpg
 categories:
     - 'ترفند ویندوز'

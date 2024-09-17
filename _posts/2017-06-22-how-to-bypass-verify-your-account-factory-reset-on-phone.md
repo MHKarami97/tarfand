@@ -1,20 +1,5 @@
 ---
-id: 1102
 title: 'حل مشکل اکانت گوگل پس از Factory Reset موبایل'
-date: '2017-06-22T23:39:16+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1102/'
-permalink: /how-to-bypass-verify-your-account-factory-reset-on-phone/
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'حل مشکل اکانت گوگل پس از Factory Reset موبایل'
 image: /files/2017/06/itarfand-319-min-1.jpg
 categories:
     - 'ترفند موبایل'

@@ -1,20 +1,5 @@
 ---
-id: 1247
 title: 'جلوگیری از ReStart شدن سیستم در زمان صفحه آبی مرگ'
-date: '2017-08-16T22:52:53+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1247/'
-permalink: /troubleshoot-the-blue-screen-of-death-by-preventing-automatic-restart/
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.0'
-summary:
-    - 'جلوگیری از ReStart شدن سیستم در زمان صفحه آبی مرگ'
 image: /files/2017/08/itarfand-416-min.jpg
 categories:
     - 'ترفند ویندوز'

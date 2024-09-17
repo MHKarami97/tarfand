@@ -1,16 +1,5 @@
 ---
-id: 839
 title: 'حل مشکل نرم افزارها با صفحه های ۴K'
-date: '2017-04-25T20:27:36+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=839/'
-permalink: /resolve-4k-display-problems-with-software/
-rating:
-    - '5.0'
-summary:
-    - 'حل مشکل نرم افزارها با صفحه های 4K'
 image: /files/2017/04/itarfand-260.jpg
 categories:
     - 'ترفند ویندوز'

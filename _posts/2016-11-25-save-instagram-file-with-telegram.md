@@ -1,18 +1,5 @@
 ---
-id: 610
 title: 'ذخیره کردن عکس ها و فیلم های اینستاگرام توسط تلگرام'
-date: '2016-11-25T11:23:18+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=610'
-permalink: /save-instagram-file-with-telegram/
-
-rating:
-    - '3.5'
-
-summary:
-    - 'ذخیره کردن عکس ها و فیلم های اینستاگرام توسط تلگرام'
 image: /files/2016/11/itarfand-108.jpg
 categories:
     - 'ترفند اینترنت'

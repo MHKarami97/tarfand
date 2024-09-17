@@ -1,16 +1,5 @@
 ---
-id: 880
 title: 'خواندن فایل های ISO با نرم افزار Visual CloneDrive'
-date: '2017-05-02T15:20:17+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=880/'
-permalink: /open-iso-file-with-virtual-clonedrive/
-rating:
-    - '3.5'
-summary:
-    - 'خواندن فایل های ISO با نرم افزار Visual CloneDrive'
 image: /files/2017/05/itarfand-179.jpg
 categories:
     - 'ترفند نرم افزار'

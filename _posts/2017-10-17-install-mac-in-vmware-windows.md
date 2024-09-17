@@ -1,20 +1,5 @@
 ---
-id: 1541
 title: 'نصب سیستم عامل مک بر روی VMWare به صورت مجازی'
-date: '2017-10-17T21:15:32+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1541'
-permalink: /install-mac-in-vmware-windows/
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'نصب سیستم عامل مک بر روی VMWare به صورت مجازی'
 image: /files/2017/10/itarfand-560-min-1.jpg
 categories:
     - 'ترفند نرم افزار'

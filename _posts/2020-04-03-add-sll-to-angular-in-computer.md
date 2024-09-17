@@ -1,12 +1,5 @@
 ---
-id: 2324
 title: 'اضافه کردن SSL به وبسایت در حال برنامه نویسی در Localhost'
-date: '2020-04-03T08:48:12+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2324'
-permalink: /add-sll-to-angular-in-computer/
-
 image: /files/2020/04/itarfand-896-min.jpg
 categories:
     - 'ترفند برنامه نویسی'

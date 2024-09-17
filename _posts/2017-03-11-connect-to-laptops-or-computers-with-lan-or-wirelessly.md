@@ -1,14 +1,5 @@
 ---
-id: 684
 title: 'متصل کردن دو لپ تاپ توسط سیم Lan یا توسط Wireless'
-date: '2017-03-11T12:19:30+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=684'
-permalink: /connect-to-laptops-or-computers-with-lan-or-wirelessly/
-rating:
-    - '5.0'
 image: /files/2017/03/itarfand-142.jpg
 categories:
     - 'ترفند ویندوز'

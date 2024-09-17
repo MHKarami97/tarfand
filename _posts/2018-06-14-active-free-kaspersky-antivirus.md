@@ -1,24 +1,5 @@
 ---
-id: 1999
 title: 'آموزش فعال سازی رایگان آنتی ویروس Kaspersky'
-date: '2018-06-14T22:33:43+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1999'
-permalink: /active-free-kaspersky-antivirus/
-
-text-dl:
-    - 'دانلود Terial Reset'
-link-dl:
-    - 'https://drive.google.com/file/d/1fUkgapmWbwpa-d8wU1I3neB2T50vIKKV/view'
-pass-file:
-    - ندارد
-size-file:
-    - '3 مگابایت'
-help-file:
-    - 'https://itarfand.com'
-text-manba:
-    - 'آی ترفند'
 image: /files/2018/06/itarfand-804-min.jpg
 categories:
     - 'ترفند نرم افزار'

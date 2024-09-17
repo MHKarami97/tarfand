@@ -1,20 +1,5 @@
 ---
-id: 1416
 title: 'انتقال برنامه های از حافظه داخلی به SD Card در اندروید بدون روت'
-date: '2017-09-22T17:39:08+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1416/'
-permalink: /move-apps-to-sd-card-android-in-android/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'انتقال برنامه های از حافظه داخلی به SD Card در اندروید'
 image: /files/2017/09/itarfand-503-min.jpg
 categories:
     - 'ترفند موبایل'

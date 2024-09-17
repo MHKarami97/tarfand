@@ -1,17 +1,5 @@
 ---
-id: 1772
 title: 'ضبط خودکار مکالمات در موبایل اندرویدی'
-date: '2018-02-17T06:49:01+03:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1772'
-permalink: /automatic-record-call-in-android-phone/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '-'
 image: /files/2018/02/itarfand-659-min.jpg
 categories:
     - 'برنامه موبایل'

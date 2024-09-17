@@ -1,12 +1,5 @@
 ---
-id: 2134
 title: 'دانستن مدت زمان استفاده از رایانه با ManicTime'
-date: '2018-10-02T19:13:47+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2134'
-permalink: /know-computer-use-with-manictime/
-
 image: /files/2018/10/itarfand-831-min.jpg
 categories:
     - 'ترفند نرم افزار'

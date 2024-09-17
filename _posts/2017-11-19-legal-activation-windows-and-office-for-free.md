@@ -1,20 +1,5 @@
 ---
-id: 1633
 title: 'آموزش فعال سازی قانونی و رایگان Windows و Office'
-date: '2017-11-19T15:12:46+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1633'
-permalink: /legal-activation-windows-and-office-for-free/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'آموزش فعال سازی قانونی و رایگان Windows و Office'
 image: /files/2017/11/itarfand-606-min.jpg
 categories:
     - 'ترفند ویندوز'

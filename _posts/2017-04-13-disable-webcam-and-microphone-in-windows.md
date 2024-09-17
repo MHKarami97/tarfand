@@ -1,16 +1,5 @@
 ---
-id: 802
 title: 'غیر فعال کردن وب کم و میکروفون لپ تاپ'
-date: '2017-04-13T11:07:50+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=802/'
-permalink: /disable-webcam-and-microphone-in-windows/
-rating:
-    - '3.5'
-summary:
-    - 'غیر فعال کردن وب کم و میکروفون لپ تاپ'
 image: /files/2017/04/itarfand-173.jpg
 categories:
     - 'ترفند ویندوز'

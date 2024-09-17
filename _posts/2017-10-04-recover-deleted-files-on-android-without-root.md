@@ -1,20 +1,5 @@
 ---
-id: 1453
 title: 'بازیابی اطلاعات پاک شده در اندروید بدون نیاز به روت'
-date: '2017-10-04T11:33:31+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1453/'
-permalink: /recover-deleted-files-on-android-without-root/
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'بازیابی اطلاعات پاک شده در اندروید بدون نیاز به روت'
 image: /files/2017/10/itarfand-513-min.jpg
 categories:
     - 'ترفند موبایل'

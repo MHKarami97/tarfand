@@ -1,20 +1,5 @@
 ---
-id: 1235
 title: 'جلوگیری از تغییر Password ویندوز توسط کاربران در ویندوز'
-date: '2017-08-08T22:29:50+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1235/'
-permalink: /prevent-user-from-changing-password-in-windows/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.0'
-summary:
-    - 'جلوگیری از تغییر Password ویندوز توسط کاربران در ویندوز'
 image: /files/2017/08/itarfand-407-min.jpg
 categories:
     - 'ترفند ویندوز'

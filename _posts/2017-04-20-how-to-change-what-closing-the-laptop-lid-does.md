@@ -1,16 +1,5 @@
 ---
-id: 828
 title: 'جلوگیری از خاموش شدن لپ تاپ هنگام بستن درب آن'
-date: '2017-04-20T10:38:51+04:30'
-author:
-    - 'Moahammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=828/'
-permalink: /how-to-change-what-closing-the-laptop-lid-does/
-rating:
-    - '3.5'
-summary:
-    - 'جلوگیری از خاموش شدن لپ تاپ هنگام بستن درب آن'
 image: /files/2017/04/itarfand-176-1.jpg
 categories:
     - 'ترفند ویندوز'

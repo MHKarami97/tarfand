@@ -1,18 +1,5 @@
 ---
-id: 636
 title: 'نصب Instagram بر روی ویندوز ۱۰'
-date: '2016-12-28T15:33:17+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=636'
-permalink: /install-instagram-in-windows-10/
-
-rating:
-    - '4.0'
-summary:
-    - 'install instagram in windows 10'
-
 image: /files/2016/12/itarfand-114.jpg
 categories:
     - 'ترفند ویندوز'

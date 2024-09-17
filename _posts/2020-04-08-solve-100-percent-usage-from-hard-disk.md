@@ -1,12 +1,5 @@
 ---
-id: 2353
 title: 'حل مشکل ۱۰۰ درصد شدن استفاده از دیسک در لپ تاپ'
-date: '2020-04-08T08:22:05+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2353'
-permalink: /solve-100-percent-usage-from-hard-disk/
-
 image: /files/2020/04/itarfand-904-min.jpg
 categories:
     - 'ترفند ویندوز'

@@ -1,12 +1,5 @@
 ---
-id: 2068
 title: 'آموزش تنظیم مودم های ADSL و WIFI'
-date: '2018-07-13T11:34:13+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2068'
-permalink: /adsl-modem-setting/
-
 image: /files/2018/07/itarfand-825-min.jpg
 categories:
     - 'ترفند ویندوز'

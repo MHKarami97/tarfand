@@ -1,11 +1,5 @@
 ---
-id: 1968
 title: 'آموزش شبکه کردن بازی Call Of duty 4'
-date: '2018-06-02T11:22:28+04:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1968'
-permalink: /play-call-of-duty-4-with-lan-in-multiplay/
 image: /files/2018/06/itarfand-525-min.jpg
 categories:
     - 'ترفند بازی'

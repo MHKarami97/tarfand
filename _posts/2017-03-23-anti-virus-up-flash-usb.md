@@ -1,16 +1,5 @@
 ---
-id: 735
 title: 'ضد ویروس کردن حافظه های همراه'
-date: '2017-03-23T11:48:38+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=735'
-permalink: /anti-virus-up-flash-usb/
-rating:
-    - '4.5'
-summary:
-    - 'ضد ویروس کردن حافظه های همراه'
 image: /files/2017/03/itarfand-154.jpg
 categories:
     - 'ترفند ویندوز'

@@ -1,12 +1,5 @@
 ---
-id: 2603
 title: 'جلوگیری از دسترسی افراد به اینترنت WiFi'
-date: '2021-03-09T08:15:06+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2603'
-permalink: /prevent-access-to-wifi-from-modem-panel/
-
 image: /files/2020/11/itarfand-957-min.jpg
 categories:
     - 'ترفند ویندوز'

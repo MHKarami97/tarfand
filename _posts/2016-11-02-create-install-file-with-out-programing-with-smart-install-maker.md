@@ -1,18 +1,5 @@
 ---
-id: 580
 title: 'ساخت فایل نصبی بدون نیاز به کد نویسی با Smart Install Maker'
-date: '2016-11-02T21:41:10+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=580'
-permalink: /create-install-file-with-out-programing-with-smart-install-maker/
-
-rating:
-    - '4.0'
-
-summary:
-    - 'ساخت فایل نصبی بدون نیاز به کد نویسی با Smart Install Maker'
 image: /files/2016/11/itarfand-100.jpg
 categories:
     - 'ترفند نرم افزار'

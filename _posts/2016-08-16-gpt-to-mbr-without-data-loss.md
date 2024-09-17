@@ -1,19 +1,5 @@
 ---
-id: 250
 title: 'تبدیل هارد از GPT به MBR بدون از دست دادن اطلاعات'
-date: '2016-08-16T10:32:38+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=250'
-permalink: /gpt-to-mbr-without-data-loss/
-
-rating:
-    - '4.5'
-
-summary:
-    - 'تبدیل هارد از GPT به MBR بدون از دست دادن اطلاعات'
-
 image: /files/2016/08/itarfand_12.jpg
 categories:
     - 'ترفند ویندوز'

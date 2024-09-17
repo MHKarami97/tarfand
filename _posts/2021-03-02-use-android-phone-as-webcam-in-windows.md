@@ -1,12 +1,5 @@
 ---
-id: 2599
 title: 'استفاده از موبایل به عنوان WebCam در ویندوز'
-date: '2021-03-02T12:05:05+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2599'
-permalink: /use-android-phone-as-webcam-in-windows/
-
 image: /files/2020/11/itarfand-950-min.jpg
 categories:
     - 'ترفند نرم افزار'

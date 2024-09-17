@@ -1,20 +1,5 @@
 ---
-id: 1263
 title: 'پارتیشن بندی ویندوز با نرم افزار EaseUS Partition Master'
-date: '2017-08-25T15:19:46+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1263/'
-permalink: /how-to-use-easeus-partition-master/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'پارتیشن بندی ویندوز با نرم افزار EaseUS Partition Master'
 image: /files/2017/08/itarfand-447-min.jpg
 categories:
     - 'ترفند نرم افزار'

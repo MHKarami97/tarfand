@@ -1,12 +1,5 @@
 ---
-id: 2608
 title: 'دانلود آهنگ و پلی لیست از SoundCloud'
-date: '2021-03-13T08:28:55+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2608'
-permalink: /download-soundcloud-playlist/
-
 image: /files/2020/11/itarfand-953-min.jpg
 categories:
     - 'ترفند نرم افزار'

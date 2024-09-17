@@ -1,21 +1,5 @@
 ---
-id: 1067
 title: 'ارسال عکس به Instagram توسط مرورگر در کامپیوتر'
-date: '2017-06-12T14:24:14+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1067/'
-permalink: /send-photo-to-instagram-in-pc-with-browser/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'ارسال عکس به Instagram توسط مرورگر در کامپیوتر'
-
 image: /files/2017/06/itarfand-283.jpg
 categories:
     - 'ترفند مرورگر'

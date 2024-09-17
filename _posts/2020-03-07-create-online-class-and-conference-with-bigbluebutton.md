@@ -1,12 +1,5 @@
 ---
-id: 2235
 title: 'ایجاد کنفرانس و کلاس درس آنلاین و مجازی'
-date: '2020-03-07T18:20:08+03:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2235'
-permalink: /create-online-class-and-conference-with-bigbluebutton/
-
 image: /files/2020/03/itarfand-856-min.jpg
 categories:
     - 'ترفند نرم افزار'

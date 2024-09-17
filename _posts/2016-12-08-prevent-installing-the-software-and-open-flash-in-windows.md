@@ -1,18 +1,5 @@
 ---
-id: 623
 title: 'جلوگیری از نصب نرم افزار ها و بازکردن فلش در ویندوز'
-date: '2016-12-08T21:14:51+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=623'
-permalink: /prevent-installing-the-software-and-open-flash-in-windows/
-
-rating:
-    - '3.5'
-
-summary:
-    - 'جلوگیری از نصب نرم افزار ها و بازکردن فلش در ویندوز'
 image: /files/2016/12/itarfand-109.jpg
 categories:
     - 'ترفند ویندوز'

@@ -1,17 +1,5 @@
 ---
-id: 1753
 title: 'فعال سازی حالت روح در تلگرام'
-date: '2018-02-08T20:52:41+03:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1753'
-permalink: /activate-the-hidden-spirit-mode-in-the-telegram/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '-'
 image: /files/2018/02/itarfand-653.jpg
 categories:
     - 'ترفند موبایل'

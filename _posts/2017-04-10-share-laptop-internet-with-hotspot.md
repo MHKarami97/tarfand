@@ -1,16 +1,5 @@
 ---
-id: 784
 title: 'استفاده از LapTop به عنوان مودم WiFi'
-date: '2017-04-10T19:21:48+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=784/'
-permalink: /share-laptop-internet-with-hotspot/
-rating:
-    - '5.0'
-summary:
-    - 'استفاده از LapTop به عنوان مودم WiFi'
 image: /files/2017/04/itarfand-170.jpg
 categories:
     - 'ترفند ویندوز'

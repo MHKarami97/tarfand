@@ -1,20 +1,5 @@
 ---
-id: 1551
 title: 'دانلود خودکار در موبایل با ADM'
-date: '2017-10-26T18:19:08+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=1551'
-permalink: /automatic-download-in-android-with-adm/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'دانلود خودکار در موبایل با ADM'
 image: /files/2017/10/itarfand-570-min.jpg
 categories:
     - 'ترفند موبایل'

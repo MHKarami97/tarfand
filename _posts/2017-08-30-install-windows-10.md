@@ -1,20 +1,5 @@
 ---
-id: 1301
 title: 'آموزش نصب ویندوز ۱۰'
-date: '2017-08-30T15:25:35+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1301/'
-permalink: /install-windows-10/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'آموزش نصب ویندوز 10'
 image: /files/2017/08/itarfand-469-min.jpg
 categories:
     - 'ترفند ویندوز'

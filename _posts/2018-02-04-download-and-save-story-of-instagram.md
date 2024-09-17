@@ -1,17 +1,5 @@
 ---
-id: 1743
 title: 'دانلود و ذخیره Stroy های شبکه اجتماعی اینستاگرام'
-date: '2018-02-04T19:21:30+03:30'
-author: 'I AM IRANIAN'
-layout: post
-guid: 'https://itarfand.com/?p=1743'
-permalink: /download-and-save-story-of-instagram/
-onesignal_meta_box_present:
-    - '1'
-onesignal_send_notification:
-    - ''
-rating:
-    - '-'
 image: /files/2018/02/itarfand-642.jpg
 categories:
     - 'ترفند مرورگر'

@@ -1,12 +1,5 @@
 ---
-id: 2380
 title: 'جلوگیری از ایجاد تغییر در حافظه فلش USB'
-date: '2020-04-14T14:33:43+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2380'
-permalink: /make-usb-flash-read-only/
-
 image: /files/2020/04/itarfand-908-min.jpg
 categories:
     - 'ترفند ویندوز'

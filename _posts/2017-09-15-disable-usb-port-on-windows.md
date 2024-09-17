@@ -1,20 +1,5 @@
 ---
-id: 1399
 title: 'غیر فعال کردن پورت usb در رایانه های ویندوزی'
-date: '2017-09-15T23:30:41+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1399/'
-permalink: /disable-usb-port-on-windows/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '4.0'
-summary:
-    - 'غیر فعال کردن پورت usb در رایانه های ویندوزی'
 image: /files/2017/09/itarfand-497-min.jpg
 categories:
     - 'ترفند ویندوز'

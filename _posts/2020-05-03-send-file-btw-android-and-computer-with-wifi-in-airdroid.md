@@ -1,12 +1,5 @@
 ---
-id: 2423
 title: 'انتقال فایل ها بین موبایل و لپ تاپ توسط WiFi'
-date: '2020-05-03T09:36:02+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2423'
-permalink: /send-file-btw-android-and-computer-with-wifi-in-airdroid/
-
 image: /files/2020/05/itarfand-921-min.jpg
 categories:
     - 'ترفند نرم افزار'

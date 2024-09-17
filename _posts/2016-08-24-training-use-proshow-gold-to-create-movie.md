@@ -1,18 +1,5 @@
 ---
-id: 279
 title: 'ساخت کلیپ از عکس ها با ProShow Gold'
-date: '2016-08-24T18:05:02+04:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'http://itarfand.com/?p=279'
-permalink: /training-use-proshow-gold-to-create-movie/
-
-rating:
-    - '5.0'
-
-summary:
-    - 'ساخت کلیپ از عکس ها با ProShow Gold'
 image: /files/2016/08/itarfand-29.jpg
 categories:
     - 'ترفند نرم افزار'

@@ -1,20 +1,5 @@
 ---
-id: 1621
 title: 'دانلود اپلیکیشن های غیر قابل دسترس در ایران از Google Play'
-date: '2017-11-14T08:19:12+03:30'
-author:
-    - 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=1621'
-permalink: /fix-this-item-or-app-is-not-available-in-your-country-error-in-google-play/
-onesignal_meta_box_present:
-    - ''
-onesignal_send_notification:
-    - ''
-rating:
-    - '5.0'
-summary:
-    - 'دانلود اپلیکیشن های غیر قابل دسترس در ایران از Google Play'
 image: /files/2017/11/itarfand-611-min.jpg
 categories:
     - 'ترفند موبایل'

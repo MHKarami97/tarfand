@@ -1,12 +1,5 @@
 ---
-id: 2277
 title: 'فیلم برداری از صفحه نمایش لپ تاپ با Camtasia Recorder'
-date: '2020-03-21T12:44:16+04:30'
-author: 'Mohammad Hossein'
-layout: post
-guid: 'https://itarfand.com/?p=2277'
-permalink: /record-video-from-laptop-with-camtacia-recorder/
-
 image: /files/2020/03/itarfand-876-min.jpg
 categories:
     - 'ترفند نرم افزار'
